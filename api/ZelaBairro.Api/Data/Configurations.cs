@@ -13,13 +13,14 @@ public class BairroConfig : IEntityTypeConfiguration<Bairro>
         b.Property(x => x.Nome).HasMaxLength(80).IsRequired();
         b.Property(x => x.Cidade).HasMaxLength(80).IsRequired();
 
-        // Dados de referência (troque pelos bairros reais do seu território)
+        // Dados de referência: entorno da FIAP Paulista + Tatuapé (bairro do piloto, onde mora o Seu Carlos)
         b.HasData(
             new { Id = 1, Nome = "Bela Vista", Cidade = "São Paulo" },
             new { Id = 2, Nome = "Consolação", Cidade = "São Paulo" },
             new { Id = 3, Nome = "Liberdade", Cidade = "São Paulo" },
             new { Id = 4, Nome = "Paraíso", Cidade = "São Paulo" },
-            new { Id = 5, Nome = "Vila Mariana", Cidade = "São Paulo" });
+            new { Id = 5, Nome = "Vila Mariana", Cidade = "São Paulo" },
+            new { Id = 6, Nome = "Tatuapé", Cidade = "São Paulo" });
     }
 }
 

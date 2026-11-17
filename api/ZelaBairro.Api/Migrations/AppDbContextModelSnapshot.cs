@@ -74,6 +74,12 @@ namespace ZelaBairro.Api.Migrations
                             Id = 5,
                             Cidade = "São Paulo",
                             Nome = "Vila Mariana"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Cidade = "São Paulo",
+                            Nome = "Tatuapé"
                         });
                 });
 
