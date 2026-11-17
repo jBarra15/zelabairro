@@ -13,7 +13,7 @@
 | **Indicador de impacto** | % de ocorrências resolvidas dentro do prazo da categoria |
 | **ODS conectados** | ODS 11 (cidades sustentáveis), ODS 10 (redução das desigualdades), ODS 9 (infraestrutura) |
 
-**Integrante:** Joel — RM 560796 — 2ESPS
+**Integrante:** Joel — RM 560796 — 3ESPS
 
 ## Funcionalidades
 | Requisito | Onde está |

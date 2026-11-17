@@ -1,6 +1,6 @@
 # ZelaBairro — Modelo de prioridade (Inteligência Artificial & Machine Learning)
 
-**Integrante:** Joel — RM 560796 — 2ESPS
+**Integrante:** Joel — RM 560796 — 3ESPS
 
 ## O problema
 A subprefeitura recebe ocorrências do app, de sensores e do balcão, e o operador precisa decidir **o que atender primeiro**. O modelo prevê a **prioridade (Baixa, Média ou Alta)** de uma ocorrência nova, aprendendo com triagens anteriores. A previsão aparece como **sugestão** no terminal da subprefeitura; quem decide é o operador.

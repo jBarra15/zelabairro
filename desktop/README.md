@@ -1,6 +1,6 @@
 # ZelaBairro — Terminal da Subprefeitura (C# Software Development)
 
-**Equipe:** Joel — RM 560796 — 2ESPS
+**Equipe:** Joel — RM 560796 — 3ESPS
 **Versão:** 1.1.0 (ver [CHANGELOG.md](CHANGELOG.md))
 
 ## O problema

@@ -1,6 +1,6 @@
 # ZelaBairro — Lixeira inteligente (Physical Computing: IoT & IoB)
 
-**Integrante:** Joel — RM 560796 — 2ESPS · **Link Wokwi:** _[cole aqui]_ · **Vídeo:** _[cole aqui]_
+**Integrante:** Joel — RM 560796 — 3ESPS · **Link Wokwi:** _[cole aqui]_ · **Vídeo:** _[cole aqui]_
 
 ## Como o circuito entra na solução
 O ZelaBairro depende de alguém **ver e registrar** o problema. Lixo acumulado é a categoria mais frequente e a de prazo mais curto (3 dias), mas muitas vezes ninguém reclama até virar foco de ratos e mosquitos.

@@ -1,6 +1,6 @@
 /*
  * ZelaBairro — Lixeira inteligente (ESP32 no Wokwi)
- * Joel — RM 560796 — 2ESPS
+ * Joel — RM 560796 — 3ESPS
  *
  * O sensor ultrassônico mede o nível de lixo. Quando a lixeira passa de 80% por
  * 3 leituras seguidas, o ESP32 ABRE UMA OCORRÊNCIA na API ZelaBairro
