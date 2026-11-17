@@ -9,7 +9,7 @@ Lixo acumulado, postes apagados, buracos e calçadas quebradas ficam semanas sem
 ## A pessoa real beneficiada
 - **Operador da subprefeitura / posto comunitário:** recebe as ocorrências do app e dos sensores, prioriza e muda o status.
 - **Cidadão sem smartphone (ex.: idosos):** liga ou vai ao balcão, e o operador registra a ocorrência por ele.
-- _[Descreva aqui a pessoa real com quem você conversou.]_
+- **Pessoa ouvida:** Seu Carlos, 52 anos, motorista de aplicativo que mora e trabalha no **Tatuapé (São Paulo)**. Ele contou que o lixo acumulado e os buracos estão assim há meses e que, quando alguém reclama por telefone ou aplicativo, "a gente nem sabe se realmente vão resolver". Por isso o terminal mostra status, prazo e atraso de cada ocorrência: para nenhuma reclamação ficar "esquecida".
 
 ## O que o sistema faz
 | Função | Como |

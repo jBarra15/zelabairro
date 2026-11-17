@@ -4,12 +4,12 @@
 | Campo | Resposta |
 |---|---|
 | **Nome da CitizenTech** | ZelaBairro |
-| **Cidade e bairro** | São Paulo — região da Av. Paulista (Bela Vista, Consolação, Paraíso) |
-| **Cidadão beneficiado** | Moradores e quem circula a pé pelo bairro, especialmente idosos e pessoas com mobilidade reduzida |
-| **Problema, em uma frase** | Lixo acumulado, postes apagados e buracos ficam semanas sem solução porque reportar é difícil e ninguém acompanha o andamento. |
+| **Cidade e bairro** | São Paulo — Tatuapé (piloto) e região da Av. Paulista |
+| **Cidadão beneficiado** | Moradores e quem circula pelo bairro. Pessoa ouvida: Seu Carlos, 52 anos, motorista de aplicativo no Tatuapé, que quer "saber se a prefeitura recebeu, se alguém foi verificar e quando vão resolver" |
+| **Problema, em uma frase** | Lixo acumulado e buracos ficam meses sem solução porque a reclamação é feita por telefone ou aplicativo e depois ninguém sabe se ela foi recebida, verificada ou resolvida. |
 | **Como funciona** | O morador fotografa o problema e marca a localização pelo app; a subprefeitura faz a triagem; sensores IoT também abrem ocorrências; todos acompanham o status. |
 | **O que cada parte faz** | **Este app**: porta de entrada do cidadão · API REST (backend) · terminal WinForms (subprefeitura) · modelo de ML (prioridade) · ESP32 (lixeira inteligente) · Windows Server/IIS (hospedagem) |
-| **Link do repositório** | _[link do GitHub]_ |
+| **Link do repositório** | https://github.com/jBarra15/zelabairro |
 | **Indicador de impacto** | % de ocorrências resolvidas dentro do prazo da categoria |
 | **ODS conectados** | ODS 11 (cidades sustentáveis), ODS 10 (redução das desigualdades), ODS 9 (infraestrutura) |
 
