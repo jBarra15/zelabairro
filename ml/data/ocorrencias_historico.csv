@@ -1,0 +1,3001 @@
+categoria_id,categoria,bairro_id,origem,prazo_dias,dias_em_aberto,confirmacoes,tem_foto,prioridade
+4,Calçada danificada,5,Terminal,15,1,0,0,Baixa
+2,Iluminação pública,4,Sensor,5,7,0,0,Alta
+4,Calçada danificada,2,App,15,12,4,0,Media
+3,Buraco na via,4,App,10,17,2,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,3,0,0,Media
+5,Árvore e poda,4,App,7,9,1,1,Alta
+4,Calçada danificada,4,App,15,8,1,0,Baixa
+4,Calçada danificada,5,App,15,24,2,0,Baixa
+1,Lixo e descarte irregular,3,App,3,0,0,1,Baixa
+2,Iluminação pública,5,App,5,4,1,1,Media
+2,Iluminação pública,4,App,5,2,0,1,Baixa
+5,Árvore e poda,1,Terminal,7,6,1,0,Baixa
+3,Buraco na via,1,App,10,24,3,1,Alta
+4,Calçada danificada,3,App,15,9,0,1,Baixa
+2,Iluminação pública,3,Sensor,5,2,0,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,3,0,0,Baixa
+3,Buraco na via,4,Terminal,10,5,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,3,2,1,Media
+4,Calçada danificada,3,App,15,12,3,0,Media
+3,Buraco na via,3,App,10,0,4,1,Media
+3,Buraco na via,5,App,10,0,2,1,Baixa
+2,Iluminação pública,4,App,5,0,0,0,Baixa
+5,Árvore e poda,1,App,7,1,1,1,Baixa
+4,Calçada danificada,1,App,15,11,2,1,Media
+4,Calçada danificada,2,App,15,1,0,1,Baixa
+1,Lixo e descarte irregular,3,App,3,0,1,0,Baixa
+2,Iluminação pública,1,Sensor,5,1,0,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,5,0,0,Media
+1,Lixo e descarte irregular,1,App,3,1,0,1,Baixa
+3,Buraco na via,1,App,10,9,0,1,Media
+3,Buraco na via,1,App,10,17,2,1,Alta
+5,Árvore e poda,1,App,7,1,2,0,Alta
+2,Iluminação pública,3,Sensor,5,13,1,0,Alta
+2,Iluminação pública,5,Sensor,5,1,0,0,Baixa
+2,Iluminação pública,5,Terminal,5,2,2,0,Media
+1,Lixo e descarte irregular,5,App,3,6,1,0,Alta
+1,Lixo e descarte irregular,4,App,3,1,1,1,Baixa
+2,Iluminação pública,3,Sensor,5,14,0,0,Alta
+1,Lixo e descarte irregular,2,Sensor,3,5,2,0,Alta
+3,Buraco na via,3,App,10,4,0,1,Media
+2,Iluminação pública,5,App,5,10,3,1,Alta
+4,Calçada danificada,1,Terminal,15,0,0,1,Baixa
+3,Buraco na via,5,App,10,6,1,1,Media
+1,Lixo e descarte irregular,5,App,3,2,0,1,Baixa
+4,Calçada danificada,1,App,15,6,1,1,Baixa
+4,Calçada danificada,2,Terminal,15,6,2,0,Media
+2,Iluminação pública,2,App,5,4,2,1,Media
+1,Lixo e descarte irregular,5,Sensor,3,6,0,0,Alta
+3,Buraco na via,3,Terminal,10,25,2,0,Media
+1,Lixo e descarte irregular,4,App,3,1,3,0,Media
+1,Lixo e descarte irregular,4,Terminal,3,1,1,0,Baixa
+1,Lixo e descarte irregular,1,App,3,3,1,1,Media
+4,Calçada danificada,4,App,15,18,2,1,Media
+3,Buraco na via,4,App,10,18,6,0,Alta
+3,Buraco na via,5,App,10,18,2,1,Alta
+4,Calçada danificada,5,App,15,4,1,1,Baixa
+2,Iluminação pública,3,Sensor,5,0,0,0,Baixa
+3,Buraco na via,5,App,10,11,1,1,Media
+1,Lixo e descarte irregular,1,App,3,2,2,1,Media
+1,Lixo e descarte irregular,4,App,3,0,0,1,Baixa
+3,Buraco na via,3,App,10,10,2,1,Media
+2,Iluminação pública,1,App,5,3,1,1,Baixa
+3,Buraco na via,3,App,10,10,1,1,Media
+4,Calçada danificada,4,Terminal,15,3,0,0,Baixa
+3,Buraco na via,3,App,10,11,1,1,Media
+3,Buraco na via,4,App,10,9,2,1,Media
+3,Buraco na via,4,App,10,12,4,1,Alta
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Media
+2,Iluminação pública,2,Sensor,5,0,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,1,0,1,Baixa
+2,Iluminação pública,5,Sensor,5,7,0,0,Alta
+4,Calçada danificada,3,App,15,28,4,0,Alta
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,5,Terminal,3,1,2,0,Baixa
+1,Lixo e descarte irregular,2,Terminal,3,6,0,0,Media
+1,Lixo e descarte irregular,5,App,3,7,2,1,Alta
+3,Buraco na via,2,App,10,4,0,0,Baixa
+3,Buraco na via,2,App,10,16,4,1,Alta
+4,Calçada danificada,2,App,15,22,5,1,Alta
+3,Buraco na via,1,App,10,13,2,1,Alta
+2,Iluminação pública,3,Sensor,5,0,0,0,Baixa
+4,Calçada danificada,2,App,15,5,2,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,1,1,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,1,1,0,Baixa
+3,Buraco na via,1,App,10,26,3,1,Alta
+2,Iluminação pública,1,Sensor,5,2,0,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,2,0,0,Baixa
+2,Iluminação pública,2,Terminal,5,4,1,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+3,Buraco na via,1,Terminal,10,2,0,0,Baixa
+2,Iluminação pública,5,Terminal,5,3,1,0,Baixa
+2,Iluminação pública,2,Terminal,5,0,1,0,Baixa
+1,Lixo e descarte irregular,4,App,3,3,0,1,Baixa
+3,Buraco na via,3,App,10,0,0,1,Baixa
+2,Iluminação pública,5,Sensor,5,4,0,0,Media
+1,Lixo e descarte irregular,3,App,3,1,2,1,Media
+1,Lixo e descarte irregular,5,App,3,0,1,1,Baixa
+5,Árvore e poda,4,App,7,8,1,1,Media
+5,Árvore e poda,3,Terminal,7,3,1,0,Media
+3,Buraco na via,3,App,10,7,1,1,Media
+1,Lixo e descarte irregular,4,Terminal,3,0,0,0,Baixa
+5,Árvore e poda,4,App,7,14,2,0,Alta
+4,Calçada danificada,4,App,15,11,1,1,Media
+3,Buraco na via,1,App,10,7,2,1,Media
+2,Iluminação pública,2,App,5,5,2,0,Media
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,6,1,1,Alta
+5,Árvore e poda,1,Terminal,7,3,4,0,Alta
+2,Iluminação pública,1,Sensor,5,10,0,0,Alta
+1,Lixo e descarte irregular,3,App,3,1,0,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,1,1,0,Baixa
+3,Buraco na via,4,App,10,9,3,1,Alta
+1,Lixo e descarte irregular,1,App,3,9,2,1,Media
+4,Calçada danificada,4,App,15,25,2,1,Media
+3,Buraco na via,2,App,10,10,2,1,Media
+3,Buraco na via,3,App,10,9,3,1,Media
+2,Iluminação pública,5,App,5,3,1,1,Media
+3,Buraco na via,2,App,10,20,3,1,Alta
+3,Buraco na via,2,App,10,12,1,1,Media
+3,Buraco na via,2,App,10,1,1,1,Media
+1,Lixo e descarte irregular,4,App,3,0,2,1,Baixa
+2,Iluminação pública,5,Sensor,5,5,0,0,Media
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Media
+2,Iluminação pública,1,Sensor,5,3,0,0,Baixa
+2,Iluminação pública,5,Sensor,5,6,0,0,Media
+1,Lixo e descarte irregular,1,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,0,2,0,Baixa
+3,Buraco na via,1,Terminal,10,2,0,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,3,0,0,Baixa
+5,Árvore e poda,5,Terminal,7,19,7,0,Alta
+3,Buraco na via,1,App,10,6,0,0,Media
+2,Iluminação pública,5,Sensor,5,7,0,0,Alta
+3,Buraco na via,3,App,10,9,2,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+5,Árvore e poda,5,Terminal,7,9,2,0,Alta
+2,Iluminação pública,1,Sensor,5,0,0,0,Baixa
+4,Calçada danificada,4,App,15,20,1,0,Media
+1,Lixo e descarte irregular,4,App,3,3,2,1,Alta
+2,Iluminação pública,2,Sensor,5,1,0,0,Media
+2,Iluminação pública,2,Sensor,5,1,0,0,Baixa
+5,Árvore e poda,1,Terminal,7,3,3,0,Alta
+3,Buraco na via,1,App,10,3,0,0,Baixa
+2,Iluminação pública,1,Terminal,5,2,2,0,Baixa
+1,Lixo e descarte irregular,3,App,3,1,0,0,Baixa
+2,Iluminação pública,3,App,5,1,0,1,Baixa
+2,Iluminação pública,3,Sensor,5,0,0,0,Media
+2,Iluminação pública,4,Terminal,5,0,1,0,Baixa
+1,Lixo e descarte irregular,2,App,3,4,1,1,Media
+4,Calçada danificada,4,App,15,6,0,0,Baixa
+4,Calçada danificada,4,App,15,8,1,1,Media
+1,Lixo e descarte irregular,5,App,3,1,1,1,Media
+3,Buraco na via,4,App,10,20,0,1,Media
+1,Lixo e descarte irregular,1,App,3,0,3,1,Baixa
+3,Buraco na via,3,App,10,2,0,1,Baixa
+1,Lixo e descarte irregular,4,App,3,3,2,1,Media
+3,Buraco na via,1,App,10,8,2,1,Media
+3,Buraco na via,1,Terminal,10,10,3,0,Alta
+4,Calçada danificada,1,App,15,15,2,1,Alta
+1,Lixo e descarte irregular,1,Terminal,3,4,0,0,Baixa
+5,Árvore e poda,5,Terminal,7,1,4,0,Alta
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,0,0,0,Baixa
+3,Buraco na via,3,App,10,0,1,1,Baixa
+2,Iluminação pública,2,App,5,5,0,1,Baixa
+4,Calçada danificada,5,App,15,14,1,1,Media
+4,Calçada danificada,1,App,15,10,2,1,Media
+1,Lixo e descarte irregular,5,Sensor,3,4,0,0,Media
+5,Árvore e poda,2,App,7,2,3,0,Alta
+1,Lixo e descarte irregular,2,Terminal,3,3,0,0,Baixa
+2,Iluminação pública,3,App,5,2,1,1,Baixa
+1,Lixo e descarte irregular,5,App,3,1,4,0,Media
+5,Árvore e poda,2,Terminal,7,0,2,0,Alta
+1,Lixo e descarte irregular,2,App,3,4,3,1,Media
+1,Lixo e descarte irregular,4,App,3,2,2,0,Media
+2,Iluminação pública,4,Terminal,5,5,2,0,Media
+5,Árvore e poda,2,App,7,1,0,0,Baixa
+4,Calçada danificada,1,App,15,12,1,0,Baixa
+3,Buraco na via,4,App,10,5,3,1,Media
+4,Calçada danificada,5,Terminal,15,14,0,0,Baixa
+4,Calçada danificada,4,App,15,12,1,0,Media
+2,Iluminação pública,5,App,5,11,2,1,Alta
+1,Lixo e descarte irregular,2,App,3,5,2,1,Alta
+4,Calçada danificada,5,App,15,7,0,1,Baixa
+3,Buraco na via,5,App,10,10,5,1,Alta
+2,Iluminação pública,5,App,5,2,1,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,4,0,0,Media
+3,Buraco na via,2,App,10,6,0,1,Baixa
+1,Lixo e descarte irregular,1,App,3,1,2,1,Baixa
+5,Árvore e poda,4,App,7,5,0,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,5,0,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,4,0,0,Alta
+4,Calçada danificada,4,App,15,6,0,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,6,0,0,Media
+1,Lixo e descarte irregular,4,App,3,0,3,1,Media
+3,Buraco na via,3,App,10,3,1,0,Baixa
+4,Calçada danificada,1,App,15,20,4,1,Alta
+1,Lixo e descarte irregular,5,App,3,0,3,1,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,2,1,0,Baixa
+4,Calçada danificada,2,App,15,7,1,1,Media
+5,Árvore e poda,2,Terminal,7,15,3,0,Alta
+2,Iluminação pública,4,Terminal,5,1,0,0,Media
+1,Lixo e descarte irregular,1,Sensor,3,0,2,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,7,0,0,Media
+1,Lixo e descarte irregular,2,App,3,1,2,1,Baixa
+1,Lixo e descarte irregular,3,App,3,5,1,1,Alta
+3,Buraco na via,5,App,10,4,1,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,2,App,5,8,2,1,Alta
+3,Buraco na via,3,App,10,29,2,1,Alta
+3,Buraco na via,2,App,10,18,0,1,Alta
+1,Lixo e descarte irregular,5,App,3,1,2,1,Media
+4,Calçada danificada,2,App,15,10,1,0,Baixa
+3,Buraco na via,1,App,10,2,1,1,Media
+3,Buraco na via,3,App,10,3,2,1,Baixa
+1,Lixo e descarte irregular,1,App,3,0,2,1,Baixa
+1,Lixo e descarte irregular,4,App,3,1,0,1,Baixa
+5,Árvore e poda,5,App,7,5,2,1,Alta
+2,Iluminação pública,5,App,5,3,1,0,Baixa
+1,Lixo e descarte irregular,5,App,3,3,2,1,Media
+2,Iluminação pública,3,Sensor,5,4,1,0,Media
+3,Buraco na via,4,App,10,11,2,1,Media
+5,Árvore e poda,2,App,7,9,1,1,Media
+1,Lixo e descarte irregular,5,App,3,1,3,1,Media
+5,Árvore e poda,1,App,7,4,4,1,Alta
+1,Lixo e descarte irregular,1,App,3,15,0,1,Alta
+3,Buraco na via,5,App,10,4,0,1,Media
+3,Buraco na via,2,App,10,12,3,1,Alta
+1,Lixo e descarte irregular,2,App,3,0,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,3,2,1,Baixa
+2,Iluminação pública,2,App,5,1,0,1,Baixa
+5,Árvore e poda,4,App,7,5,3,1,Alta
+3,Buraco na via,3,App,10,6,2,1,Media
+5,Árvore e poda,4,App,7,4,3,1,Alta
+4,Calçada danificada,1,App,15,8,2,1,Baixa
+2,Iluminação pública,4,Terminal,5,5,1,0,Media
+4,Calçada danificada,2,App,15,24,1,1,Media
+1,Lixo e descarte irregular,3,App,3,0,3,1,Baixa
+1,Lixo e descarte irregular,5,App,3,1,1,1,Baixa
+4,Calçada danificada,3,Terminal,15,1,0,0,Baixa
+4,Calçada danificada,1,App,15,12,2,1,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,2,App,5,3,3,1,Alta
+3,Buraco na via,3,App,10,8,5,1,Alta
+4,Calçada danificada,2,App,15,1,2,0,Media
+3,Buraco na via,4,App,10,9,4,1,Alta
+2,Iluminação pública,2,App,5,7,1,1,Alta
+2,Iluminação pública,3,Terminal,5,5,2,0,Media
+2,Iluminação pública,5,App,5,1,1,0,Baixa
+3,Buraco na via,4,Terminal,10,6,6,0,Alta
+4,Calçada danificada,4,App,15,10,0,1,Baixa
+2,Iluminação pública,4,App,5,3,1,0,Media
+1,Lixo e descarte irregular,5,App,3,0,2,1,Media
+1,Lixo e descarte irregular,5,App,3,0,1,1,Baixa
+3,Buraco na via,5,App,10,5,1,0,Media
+4,Calçada danificada,2,App,15,12,1,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Media
+1,Lixo e descarte irregular,5,App,3,0,2,0,Baixa
+3,Buraco na via,3,App,10,4,0,1,Baixa
+1,Lixo e descarte irregular,1,App,3,7,0,0,Baixa
+4,Calçada danificada,3,App,15,14,1,1,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,0,2,0,Baixa
+5,Árvore e poda,5,App,7,3,1,1,Baixa
+1,Lixo e descarte irregular,4,App,3,0,0,1,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,2,1,1,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,2,Terminal,3,1,0,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,2,0,0,Media
+1,Lixo e descarte irregular,2,App,3,1,1,1,Baixa
+3,Buraco na via,1,App,10,9,5,0,Media
+3,Buraco na via,5,App,10,7,0,1,Media
+2,Iluminação pública,3,App,5,2,2,0,Media
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,3,App,5,2,0,1,Baixa
+4,Calçada danificada,1,App,15,6,3,0,Media
+4,Calçada danificada,3,App,15,5,1,1,Baixa
+1,Lixo e descarte irregular,3,App,3,0,0,1,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,5,0,0,Alta
+1,Lixo e descarte irregular,1,App,3,5,0,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+3,Buraco na via,4,App,10,8,2,1,Media
+2,Iluminação pública,4,App,5,4,0,1,Baixa
+1,Lixo e descarte irregular,3,App,3,1,1,0,Baixa
+2,Iluminação pública,2,App,5,4,3,1,Media
+2,Iluminação pública,5,Sensor,5,5,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,2,2,1,Media
+4,Calçada danificada,3,App,15,18,3,1,Alta
+1,Lixo e descarte irregular,1,App,3,1,0,1,Baixa
+5,Árvore e poda,1,App,7,4,0,1,Media
+1,Lixo e descarte irregular,1,App,3,12,3,1,Alta
+4,Calçada danificada,3,App,15,22,3,1,Alta
+5,Árvore e poda,2,Terminal,7,5,1,0,Media
+5,Árvore e poda,2,App,7,1,1,1,Media
+4,Calçada danificada,4,App,15,10,0,1,Baixa
+4,Calçada danificada,4,App,15,20,1,0,Media
+3,Buraco na via,4,App,10,11,1,1,Media
+4,Calçada danificada,5,Terminal,15,1,2,0,Baixa
+1,Lixo e descarte irregular,2,App,3,0,1,1,Baixa
+2,Iluminação pública,4,App,5,4,1,1,Baixa
+2,Iluminação pública,5,Sensor,5,0,0,0,Baixa
+4,Calçada danificada,2,App,15,3,2,0,Media
+2,Iluminação pública,2,Sensor,5,2,0,0,Media
+2,Iluminação pública,3,App,5,7,1,1,Alta
+3,Buraco na via,4,App,10,10,0,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,3,2,1,Media
+2,Iluminação pública,2,Sensor,5,14,0,0,Alta
+2,Iluminação pública,4,Terminal,5,3,1,0,Baixa
+1,Lixo e descarte irregular,2,App,3,0,1,0,Baixa
+2,Iluminação pública,2,Sensor,5,1,0,0,Baixa
+2,Iluminação pública,2,App,5,1,3,1,Media
+2,Iluminação pública,1,App,5,1,7,1,Media
+2,Iluminação pública,4,App,5,2,3,1,Media
+3,Buraco na via,2,App,10,8,1,0,Baixa
+1,Lixo e descarte irregular,3,App,3,0,1,1,Baixa
+5,Árvore e poda,4,App,7,1,1,1,Media
+5,Árvore e poda,4,App,7,7,0,0,Media
+2,Iluminação pública,5,App,5,2,2,1,Media
+2,Iluminação pública,1,App,5,1,1,1,Baixa
+2,Iluminação pública,4,Sensor,5,2,0,0,Baixa
+4,Calçada danificada,2,App,15,26,6,1,Alta
+3,Buraco na via,4,Terminal,10,12,5,0,Alta
+4,Calçada danificada,2,App,15,17,1,1,Media
+2,Iluminação pública,1,Terminal,5,11,3,0,Alta
+3,Buraco na via,5,App,10,8,2,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,7,0,0,Alta
+3,Buraco na via,2,Terminal,10,25,2,0,Alta
+1,Lixo e descarte irregular,5,App,3,0,1,0,Baixa
+3,Buraco na via,3,App,10,0,0,1,Baixa
+4,Calçada danificada,3,App,15,3,1,1,Media
+1,Lixo e descarte irregular,2,App,3,4,0,1,Baixa
+3,Buraco na via,3,App,10,5,1,0,Baixa
+1,Lixo e descarte irregular,5,App,3,1,3,1,Media
+3,Buraco na via,1,Terminal,10,12,1,0,Media
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+5,Árvore e poda,1,App,7,5,2,0,Alta
+1,Lixo e descarte irregular,1,App,3,3,0,1,Media
+5,Árvore e poda,1,Terminal,7,1,2,0,Media
+4,Calçada danificada,2,App,15,2,0,1,Baixa
+3,Buraco na via,4,App,10,6,3,1,Media
+4,Calçada danificada,4,App,15,11,1,1,Baixa
+4,Calçada danificada,4,App,15,18,1,1,Media
+5,Árvore e poda,1,App,7,1,0,1,Media
+1,Lixo e descarte irregular,1,App,3,0,4,0,Media
+3,Buraco na via,5,App,10,25,2,1,Alta
+1,Lixo e descarte irregular,5,App,3,4,1,1,Baixa
+3,Buraco na via,4,App,10,5,5,1,Alta
+1,Lixo e descarte irregular,5,App,3,4,1,1,Alta
+3,Buraco na via,5,App,10,2,2,1,Media
+3,Buraco na via,3,App,10,5,1,0,Baixa
+2,Iluminação pública,3,Sensor,5,3,0,0,Baixa
+2,Iluminação pública,5,App,5,2,2,1,Media
+4,Calçada danificada,4,App,15,7,2,1,Baixa
+4,Calçada danificada,5,App,15,17,1,0,Alta
+2,Iluminação pública,2,App,5,7,3,1,Alta
+3,Buraco na via,2,App,10,4,2,1,Media
+5,Árvore e poda,4,App,7,1,0,1,Baixa
+1,Lixo e descarte irregular,5,App,3,0,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,0,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,6,0,0,Alta
+3,Buraco na via,1,App,10,11,1,0,Media
+2,Iluminação pública,1,App,5,4,1,0,Baixa
+4,Calçada danificada,2,App,15,5,2,1,Media
+3,Buraco na via,2,App,10,3,3,1,Media
+2,Iluminação pública,4,App,5,7,2,1,Alta
+4,Calçada danificada,4,App,15,1,0,1,Baixa
+4,Calçada danificada,2,Terminal,15,6,0,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,5,0,0,Media
+2,Iluminação pública,2,Terminal,5,2,2,0,Baixa
+1,Lixo e descarte irregular,3,App,3,3,1,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,1,1,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Media
+5,Árvore e poda,1,App,7,4,4,1,Alta
+2,Iluminação pública,2,Terminal,5,2,0,1,Baixa
+2,Iluminação pública,4,Sensor,5,0,0,0,Media
+3,Buraco na via,5,Terminal,10,5,3,0,Alta
+3,Buraco na via,3,App,10,0,1,1,Baixa
+5,Árvore e poda,1,Terminal,7,3,4,0,Alta
+4,Calçada danificada,5,Terminal,15,18,1,0,Baixa
+2,Iluminação pública,3,App,5,10,1,1,Alta
+2,Iluminação pública,3,Sensor,5,9,0,0,Alta
+5,Árvore e poda,3,App,7,1,2,0,Alta
+3,Buraco na via,5,App,10,1,1,1,Baixa
+5,Árvore e poda,1,Terminal,7,5,2,0,Alta
+1,Lixo e descarte irregular,2,App,3,1,0,1,Baixa
+4,Calçada danificada,5,App,15,15,3,0,Media
+3,Buraco na via,2,App,10,3,2,0,Baixa
+1,Lixo e descarte irregular,5,App,3,2,1,1,Baixa
+3,Buraco na via,2,Terminal,10,6,2,0,Media
+3,Buraco na via,3,App,10,4,2,1,Media
+1,Lixo e descarte irregular,1,App,3,0,1,1,Baixa
+2,Iluminação pública,4,Terminal,5,5,1,0,Media
+4,Calçada danificada,2,App,15,11,2,0,Media
+1,Lixo e descarte irregular,5,Sensor,3,3,0,0,Media
+2,Iluminação pública,1,App,5,7,4,0,Alta
+2,Iluminação pública,1,App,5,2,1,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,3,0,0,Baixa
+5,Árvore e poda,1,Terminal,7,15,2,0,Alta
+4,Calçada danificada,2,App,15,40,2,1,Alta
+1,Lixo e descarte irregular,4,Terminal,3,2,0,0,Baixa
+5,Árvore e poda,3,Terminal,7,6,1,0,Alta
+4,Calçada danificada,3,App,15,12,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,3,2,0,Media
+4,Calçada danificada,4,App,15,21,2,0,Media
+1,Lixo e descarte irregular,1,App,3,2,1,0,Baixa
+5,Árvore e poda,3,App,7,18,6,1,Alta
+3,Buraco na via,4,App,10,23,2,1,Alta
+3,Buraco na via,4,App,10,6,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,2,2,1,Baixa
+4,Calçada danificada,1,App,15,6,2,1,Baixa
+1,Lixo e descarte irregular,5,App,3,3,3,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,1,1,0,Baixa
+1,Lixo e descarte irregular,3,App,3,1,1,1,Baixa
+4,Calçada danificada,2,App,15,15,1,1,Media
+1,Lixo e descarte irregular,1,App,3,0,1,0,Baixa
+5,Árvore e poda,3,Terminal,7,10,1,0,Media
+3,Buraco na via,3,Terminal,10,10,2,0,Media
+1,Lixo e descarte irregular,4,App,3,6,2,1,Alta
+1,Lixo e descarte irregular,4,App,3,2,3,0,Media
+1,Lixo e descarte irregular,5,App,3,3,5,1,Media
+3,Buraco na via,5,App,10,13,1,1,Media
+4,Calçada danificada,3,App,15,26,4,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,2,1,0,Media
+4,Calçada danificada,4,Terminal,15,6,1,0,Baixa
+1,Lixo e descarte irregular,3,Terminal,3,2,2,0,Baixa
+4,Calçada danificada,2,Terminal,15,22,0,0,Baixa
+5,Árvore e poda,1,App,7,11,1,1,Media
+4,Calçada danificada,3,App,15,1,3,1,Baixa
+3,Buraco na via,3,Terminal,10,44,1,0,Alta
+4,Calçada danificada,5,App,15,6,2,0,Baixa
+1,Lixo e descarte irregular,5,App,3,3,2,1,Baixa
+1,Lixo e descarte irregular,2,App,3,5,0,1,Media
+1,Lixo e descarte irregular,1,App,3,1,1,1,Baixa
+2,Iluminação pública,4,Sensor,5,8,1,0,Alta
+3,Buraco na via,3,App,10,0,1,1,Baixa
+3,Buraco na via,1,App,10,17,4,1,Alta
+4,Calçada danificada,4,App,15,23,2,1,Alta
+1,Lixo e descarte irregular,2,App,3,2,2,1,Media
+3,Buraco na via,1,App,10,14,1,1,Media
+1,Lixo e descarte irregular,4,App,3,7,2,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,5,0,0,Media
+3,Buraco na via,4,App,10,6,5,1,Alta
+5,Árvore e poda,2,App,7,6,1,0,Media
+3,Buraco na via,3,App,10,5,2,1,Media
+1,Lixo e descarte irregular,3,App,3,1,1,1,Baixa
+3,Buraco na via,5,Terminal,10,13,2,0,Media
+1,Lixo e descarte irregular,1,Sensor,3,1,0,0,Baixa
+4,Calçada danificada,5,App,15,20,5,1,Alta
+3,Buraco na via,2,App,10,6,1,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,3,Terminal,3,0,1,0,Baixa
+1,Lixo e descarte irregular,2,App,3,3,3,1,Media
+5,Árvore e poda,2,Terminal,7,0,1,0,Baixa
+2,Iluminação pública,2,Terminal,5,8,2,0,Media
+4,Calçada danificada,4,App,15,50,5,1,Alta
+3,Buraco na via,4,App,10,7,2,0,Media
+3,Buraco na via,4,App,10,7,4,1,Media
+1,Lixo e descarte irregular,4,App,3,0,0,1,Baixa
+5,Árvore e poda,1,App,7,3,1,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,4,0,0,Media
+3,Buraco na via,2,App,10,16,0,1,Media
+3,Buraco na via,2,App,10,8,2,1,Media
+3,Buraco na via,2,App,10,14,2,0,Alta
+5,Árvore e poda,1,App,7,2,3,1,Alta
+1,Lixo e descarte irregular,5,App,3,3,2,1,Media
+2,Iluminação pública,1,Terminal,5,10,3,0,Alta
+2,Iluminação pública,3,App,5,5,0,1,Media
+2,Iluminação pública,3,App,5,11,1,0,Alta
+1,Lixo e descarte irregular,4,App,3,7,2,1,Alta
+1,Lixo e descarte irregular,5,App,3,3,1,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,4,0,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,2,Terminal,5,0,1,0,Baixa
+3,Buraco na via,5,Terminal,10,17,0,0,Alta
+3,Buraco na via,1,Terminal,10,10,4,0,Alta
+2,Iluminação pública,4,Sensor,5,4,0,0,Baixa
+2,Iluminação pública,1,App,5,5,2,1,Media
+1,Lixo e descarte irregular,2,App,3,0,1,1,Baixa
+3,Buraco na via,5,Terminal,10,5,3,0,Baixa
+1,Lixo e descarte irregular,4,App,3,1,3,1,Media
+1,Lixo e descarte irregular,4,App,3,2,5,1,Alta
+2,Iluminação pública,5,App,5,4,1,1,Baixa
+2,Iluminação pública,2,Sensor,5,5,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,3,1,1,Media
+3,Buraco na via,2,App,10,0,2,0,Baixa
+3,Buraco na via,3,App,10,5,1,0,Baixa
+3,Buraco na via,3,App,10,7,0,1,Baixa
+3,Buraco na via,4,App,10,1,3,1,Media
+3,Buraco na via,1,Terminal,10,1,0,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,0,0,0,Baixa
+4,Calçada danificada,1,App,15,21,1,1,Media
+3,Buraco na via,2,App,10,0,1,1,Baixa
+2,Iluminação pública,3,App,5,0,0,1,Baixa
+3,Buraco na via,1,App,10,7,3,1,Alta
+2,Iluminação pública,5,App,5,5,2,1,Media
+2,Iluminação pública,3,Terminal,5,3,1,0,Media
+3,Buraco na via,2,App,10,2,2,1,Baixa
+4,Calçada danificada,5,App,15,2,0,1,Baixa
+5,Árvore e poda,1,App,7,5,0,1,Media
+2,Iluminação pública,1,App,5,3,0,0,Baixa
+2,Iluminação pública,2,App,5,2,1,1,Media
+4,Calçada danificada,1,App,15,20,3,1,Alta
+1,Lixo e descarte irregular,4,App,3,1,2,0,Baixa
+4,Calçada danificada,4,App,15,2,0,1,Baixa
+2,Iluminação pública,2,App,5,2,2,1,Media
+1,Lixo e descarte irregular,5,App,3,3,3,1,Media
+1,Lixo e descarte irregular,1,Terminal,3,1,1,0,Baixa
+4,Calçada danificada,3,App,15,16,1,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,3,0,0,Media
+1,Lixo e descarte irregular,2,Terminal,3,1,0,0,Baixa
+2,Iluminação pública,5,Sensor,5,3,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,1,0,1,Baixa
+1,Lixo e descarte irregular,5,App,3,3,2,1,Media
+3,Buraco na via,4,App,10,5,3,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,3,0,0,Baixa
+4,Calçada danificada,5,App,15,12,3,1,Media
+4,Calçada danificada,1,App,15,0,1,1,Baixa
+2,Iluminação pública,1,Terminal,5,5,0,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,2,0,0,Baixa
+3,Buraco na via,5,App,10,18,1,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,4,App,5,4,2,1,Media
+5,Árvore e poda,4,App,7,3,6,0,Alta
+5,Árvore e poda,4,App,7,0,1,0,Baixa
+4,Calçada danificada,5,Terminal,15,0,1,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,6,0,0,Alta
+3,Buraco na via,1,App,10,8,1,0,Media
+3,Buraco na via,5,App,10,5,0,1,Media
+2,Iluminação pública,3,App,5,0,0,1,Baixa
+3,Buraco na via,3,App,10,20,1,1,Alta
+1,Lixo e descarte irregular,3,App,3,0,1,1,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+2,Iluminação pública,2,Sensor,5,3,0,0,Media
+1,Lixo e descarte irregular,2,App,3,8,0,1,Media
+1,Lixo e descarte irregular,1,App,3,2,1,1,Baixa
+4,Calçada danificada,2,App,15,6,3,1,Media
+5,Árvore e poda,5,Terminal,7,6,4,0,Alta
+3,Buraco na via,1,App,10,9,0,1,Baixa
+4,Calçada danificada,4,Terminal,15,62,2,0,Alta
+5,Árvore e poda,1,App,7,4,0,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,2,App,5,2,0,1,Baixa
+2,Iluminação pública,4,Sensor,5,4,1,0,Baixa
+1,Lixo e descarte irregular,3,Terminal,3,3,0,0,Baixa
+3,Buraco na via,4,App,10,0,0,0,Baixa
+2,Iluminação pública,4,Sensor,5,2,0,0,Baixa
+2,Iluminação pública,3,Terminal,5,13,3,0,Alta
+1,Lixo e descarte irregular,4,Sensor,3,0,1,0,Baixa
+1,Lixo e descarte irregular,5,App,3,4,3,1,Alta
+5,Árvore e poda,3,App,7,3,4,1,Alta
+1,Lixo e descarte irregular,1,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,1,1,1,Baixa
+1,Lixo e descarte irregular,3,App,3,2,0,1,Baixa
+2,Iluminação pública,3,Sensor,5,3,0,0,Media
+3,Buraco na via,4,App,10,5,2,1,Media
+2,Iluminação pública,4,Sensor,5,5,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,0,2,1,Baixa
+1,Lixo e descarte irregular,4,App,3,2,3,1,Media
+4,Calçada danificada,5,Terminal,15,0,1,0,Baixa
+3,Buraco na via,2,App,10,16,4,0,Alta
+3,Buraco na via,5,Terminal,10,5,1,0,Baixa
+3,Buraco na via,5,App,10,13,2,0,Media
+4,Calçada danificada,3,Terminal,15,0,2,0,Baixa
+1,Lixo e descarte irregular,4,App,3,3,2,1,Media
+2,Iluminação pública,5,Terminal,5,1,2,0,Baixa
+2,Iluminação pública,5,App,5,3,2,1,Media
+2,Iluminação pública,2,App,5,5,1,1,Media
+4,Calçada danificada,4,App,15,9,2,1,Baixa
+2,Iluminação pública,3,App,5,5,0,1,Media
+4,Calçada danificada,3,App,15,7,1,0,Baixa
+4,Calçada danificada,4,App,15,27,2,0,Media
+2,Iluminação pública,5,App,5,2,2,1,Media
+5,Árvore e poda,1,Terminal,7,4,2,0,Alta
+3,Buraco na via,5,App,10,6,0,0,Baixa
+4,Calçada danificada,2,App,15,10,0,1,Baixa
+2,Iluminação pública,5,App,5,0,1,1,Baixa
+2,Iluminação pública,1,App,5,1,1,1,Media
+2,Iluminação pública,5,App,5,7,2,0,Alta
+1,Lixo e descarte irregular,3,App,3,3,0,0,Media
+2,Iluminação pública,5,Sensor,5,6,1,0,Alta
+5,Árvore e poda,3,Terminal,7,6,2,0,Alta
+3,Buraco na via,4,App,10,4,2,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,2,App,5,3,6,1,Alta
+1,Lixo e descarte irregular,2,App,3,4,0,1,Baixa
+1,Lixo e descarte irregular,3,App,3,2,1,1,Media
+5,Árvore e poda,3,App,7,1,3,1,Alta
+2,Iluminação pública,4,App,5,0,1,1,Baixa
+1,Lixo e descarte irregular,5,App,3,4,3,1,Alta
+3,Buraco na via,4,App,10,20,5,0,Alta
+1,Lixo e descarte irregular,1,App,3,0,0,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,4,0,0,Media
+3,Buraco na via,1,Terminal,10,9,2,0,Alta
+3,Buraco na via,3,Terminal,10,3,3,0,Media
+5,Árvore e poda,3,Terminal,7,5,3,0,Alta
+3,Buraco na via,5,App,10,1,1,1,Baixa
+2,Iluminação pública,2,Sensor,5,2,0,0,Baixa
+4,Calçada danificada,3,App,15,10,0,0,Baixa
+5,Árvore e poda,3,App,7,12,3,1,Alta
+3,Buraco na via,1,App,10,5,1,1,Media
+5,Árvore e poda,1,Terminal,7,2,2,0,Media
+4,Calçada danificada,4,App,15,13,3,1,Alta
+4,Calçada danificada,2,App,15,16,1,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,0,0,0,Baixa
+3,Buraco na via,5,App,10,2,1,0,Baixa
+2,Iluminação pública,2,Sensor,5,1,1,0,Baixa
+3,Buraco na via,5,App,10,17,2,1,Alta
+3,Buraco na via,4,App,10,10,5,1,Alta
+5,Árvore e poda,2,App,7,3,3,1,Alta
+5,Árvore e poda,5,Terminal,7,11,6,0,Alta
+1,Lixo e descarte irregular,4,App,3,0,1,1,Baixa
+3,Buraco na via,2,App,10,6,0,1,Media
+3,Buraco na via,3,App,10,1,2,0,Baixa
+2,Iluminação pública,2,App,5,7,1,1,Alta
+1,Lixo e descarte irregular,5,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+4,Calçada danificada,1,App,15,13,2,0,Baixa
+2,Iluminação pública,4,Sensor,5,0,0,0,Baixa
+5,Árvore e poda,4,App,7,1,2,0,Alta
+2,Iluminação pública,2,Terminal,5,6,1,0,Baixa
+5,Árvore e poda,5,App,7,1,0,0,Baixa
+2,Iluminação pública,3,App,5,17,3,1,Alta
+4,Calçada danificada,2,Terminal,15,11,2,0,Media
+1,Lixo e descarte irregular,4,App,3,0,0,0,Baixa
+3,Buraco na via,1,App,10,21,1,0,Alta
+4,Calçada danificada,5,App,15,11,3,1,Media
+5,Árvore e poda,4,App,7,3,0,1,Media
+4,Calçada danificada,2,Terminal,15,11,2,0,Media
+1,Lixo e descarte irregular,1,App,3,0,1,1,Baixa
+2,Iluminação pública,3,App,5,3,3,1,Media
+1,Lixo e descarte irregular,3,App,3,0,2,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+3,Buraco na via,2,Terminal,10,4,1,0,Baixa
+3,Buraco na via,2,App,10,7,1,1,Baixa
+4,Calçada danificada,3,App,15,7,1,1,Baixa
+4,Calçada danificada,5,App,15,6,1,1,Baixa
+3,Buraco na via,5,App,10,2,2,0,Baixa
+4,Calçada danificada,2,App,15,1,1,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,0,0,0,Baixa
+3,Buraco na via,3,App,10,11,1,1,Alta
+4,Calçada danificada,1,App,15,3,4,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,1,Sensor,5,1,0,0,Baixa
+3,Buraco na via,3,App,10,4,2,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,2,0,0,Baixa
+2,Iluminação pública,3,App,5,2,2,1,Media
+4,Calçada danificada,4,App,15,19,2,1,Alta
+3,Buraco na via,2,App,10,1,2,1,Media
+1,Lixo e descarte irregular,4,App,3,3,1,1,Media
+4,Calçada danificada,3,App,15,29,1,1,Media
+2,Iluminação pública,4,App,5,3,0,1,Baixa
+4,Calçada danificada,5,App,15,3,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,3,6,1,Alta
+3,Buraco na via,2,Terminal,10,6,0,1,Baixa
+2,Iluminação pública,5,App,5,4,0,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,4,0,0,Media
+4,Calçada danificada,5,Terminal,15,6,1,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,11,2,1,Media
+2,Iluminação pública,1,Sensor,5,5,0,0,Media
+3,Buraco na via,4,App,10,15,5,0,Alta
+4,Calçada danificada,5,App,15,19,1,0,Media
+5,Árvore e poda,5,App,7,10,4,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+2,Iluminação pública,3,App,5,7,2,1,Alta
+1,Lixo e descarte irregular,3,App,3,1,2,1,Baixa
+3,Buraco na via,1,App,10,0,3,1,Media
+5,Árvore e poda,1,App,7,1,1,1,Media
+3,Buraco na via,2,App,10,5,4,1,Media
+3,Buraco na via,3,App,10,5,1,0,Baixa
+2,Iluminação pública,5,Sensor,5,3,1,0,Baixa
+5,Árvore e poda,5,App,7,2,4,1,Alta
+2,Iluminação pública,4,App,5,0,0,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,4,App,5,0,1,1,Baixa
+1,Lixo e descarte irregular,3,App,3,1,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,2,1,1,Media
+1,Lixo e descarte irregular,5,App,3,1,1,0,Baixa
+2,Iluminação pública,2,App,5,0,1,1,Media
+3,Buraco na via,2,App,10,6,1,1,Media
+2,Iluminação pública,5,App,5,20,0,0,Alta
+2,Iluminação pública,1,App,5,5,2,0,Media
+5,Árvore e poda,3,Terminal,7,7,2,0,Alta
+3,Buraco na via,2,App,10,3,0,1,Media
+3,Buraco na via,4,App,10,2,2,1,Media
+1,Lixo e descarte irregular,5,App,3,4,3,1,Media
+4,Calçada danificada,2,App,15,0,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,0,0,1,Baixa
+2,Iluminação pública,2,App,5,11,3,1,Alta
+5,Árvore e poda,4,App,7,4,3,0,Alta
+2,Iluminação pública,2,Sensor,5,0,1,0,Baixa
+3,Buraco na via,4,App,10,9,0,1,Media
+3,Buraco na via,2,App,10,4,1,1,Baixa
+3,Buraco na via,4,App,10,0,0,1,Baixa
+1,Lixo e descarte irregular,1,App,3,2,1,1,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,2,1,0,Baixa
+2,Iluminação pública,2,App,5,3,2,0,Baixa
+1,Lixo e descarte irregular,3,App,3,3,2,1,Media
+4,Calçada danificada,4,App,15,2,0,1,Baixa
+1,Lixo e descarte irregular,4,App,3,2,2,1,Media
+3,Buraco na via,5,App,10,7,0,1,Baixa
+4,Calçada danificada,4,App,15,22,0,1,Baixa
+4,Calçada danificada,1,App,15,4,2,1,Baixa
+2,Iluminação pública,4,App,5,8,2,1,Alta
+2,Iluminação pública,1,Sensor,5,6,0,0,Alta
+5,Árvore e poda,3,Terminal,7,4,2,0,Alta
+3,Buraco na via,3,App,10,6,1,1,Baixa
+4,Calçada danificada,2,Terminal,15,9,2,0,Baixa
+5,Árvore e poda,4,App,7,8,3,0,Alta
+4,Calçada danificada,4,Terminal,15,7,1,0,Baixa
+1,Lixo e descarte irregular,4,Terminal,3,4,1,0,Media
+3,Buraco na via,3,App,10,9,0,0,Media
+1,Lixo e descarte irregular,5,App,3,8,2,0,Alta
+3,Buraco na via,4,Terminal,10,3,0,0,Baixa
+5,Árvore e poda,2,App,7,7,2,1,Alta
+2,Iluminação pública,4,App,5,0,0,0,Baixa
+2,Iluminação pública,3,App,5,2,2,0,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,3,2,0,Media
+5,Árvore e poda,5,App,7,8,4,1,Alta
+1,Lixo e descarte irregular,4,App,3,1,2,0,Baixa
+1,Lixo e descarte irregular,4,App,3,4,2,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,5,0,0,Alta
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,2,App,5,2,3,1,Media
+2,Iluminação pública,5,App,5,2,2,1,Baixa
+1,Lixo e descarte irregular,3,Terminal,3,1,1,0,Baixa
+1,Lixo e descarte irregular,2,Terminal,3,5,2,0,Alta
+1,Lixo e descarte irregular,4,App,3,5,3,1,Media
+2,Iluminação pública,1,App,5,2,0,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,3,0,0,Baixa
+3,Buraco na via,1,Terminal,10,15,4,0,Alta
+1,Lixo e descarte irregular,1,Sensor,3,2,1,0,Baixa
+1,Lixo e descarte irregular,5,App,3,1,0,0,Baixa
+2,Iluminação pública,3,App,5,1,1,1,Baixa
+2,Iluminação pública,5,Sensor,5,5,2,0,Media
+1,Lixo e descarte irregular,4,App,3,0,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,1,2,1,Media
+4,Calçada danificada,2,Terminal,15,6,1,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,1,Sensor,5,3,1,0,Media
+2,Iluminação pública,3,Sensor,5,2,0,0,Media
+2,Iluminação pública,3,App,5,1,0,0,Baixa
+2,Iluminação pública,1,Terminal,5,8,1,0,Alta
+4,Calçada danificada,3,App,15,17,0,1,Baixa
+4,Calçada danificada,5,App,15,10,1,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,4,0,0,Alta
+2,Iluminação pública,3,Sensor,5,8,0,0,Alta
+1,Lixo e descarte irregular,1,App,3,5,2,0,Media
+2,Iluminação pública,5,App,5,1,0,1,Baixa
+3,Buraco na via,3,App,10,13,1,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,1,App,5,3,1,1,Media
+5,Árvore e poda,2,App,7,2,2,1,Alta
+1,Lixo e descarte irregular,2,Terminal,3,1,1,0,Baixa
+2,Iluminação pública,4,Sensor,5,6,0,0,Media
+3,Buraco na via,4,Terminal,10,5,2,0,Media
+1,Lixo e descarte irregular,4,App,3,0,1,0,Baixa
+1,Lixo e descarte irregular,2,App,3,7,1,1,Media
+1,Lixo e descarte irregular,2,App,3,0,1,1,Baixa
+5,Árvore e poda,1,App,7,0,1,1,Media
+1,Lixo e descarte irregular,2,App,3,1,2,1,Baixa
+1,Lixo e descarte irregular,1,App,3,4,3,1,Media
+1,Lixo e descarte irregular,5,App,3,0,1,1,Baixa
+1,Lixo e descarte irregular,4,App,3,0,0,0,Baixa
+3,Buraco na via,4,App,10,7,2,0,Media
+1,Lixo e descarte irregular,5,Sensor,3,6,1,0,Alta
+3,Buraco na via,4,Terminal,10,9,2,0,Media
+3,Buraco na via,2,App,10,1,0,0,Baixa
+4,Calçada danificada,2,App,15,46,2,1,Alta
+1,Lixo e descarte irregular,1,App,3,2,0,0,Media
+4,Calçada danificada,4,App,15,21,2,1,Alta
+3,Buraco na via,5,App,10,1,1,1,Baixa
+1,Lixo e descarte irregular,4,App,3,8,3,1,Alta
+4,Calçada danificada,3,App,15,6,3,0,Baixa
+4,Calçada danificada,2,Terminal,15,1,2,0,Baixa
+1,Lixo e descarte irregular,3,App,3,2,0,0,Media
+5,Árvore e poda,2,Terminal,7,9,2,0,Alta
+2,Iluminação pública,1,Terminal,5,5,3,0,Media
+3,Buraco na via,3,App,10,10,0,1,Media
+5,Árvore e poda,2,App,7,7,5,0,Alta
+2,Iluminação pública,4,Terminal,5,3,2,0,Media
+4,Calçada danificada,5,Terminal,15,1,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,1,1,1,Media
+4,Calçada danificada,1,App,15,7,1,0,Baixa
+3,Buraco na via,5,App,10,18,1,0,Media
+1,Lixo e descarte irregular,2,App,3,4,2,0,Media
+2,Iluminação pública,2,Sensor,5,2,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,3,1,1,Media
+1,Lixo e descarte irregular,5,App,3,1,1,1,Baixa
+1,Lixo e descarte irregular,3,App,3,0,1,1,Baixa
+2,Iluminação pública,1,App,5,5,3,0,Alta
+1,Lixo e descarte irregular,4,App,3,0,0,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,0,0,0,Baixa
+3,Buraco na via,3,App,10,3,2,1,Media
+3,Buraco na via,3,App,10,11,2,0,Media
+3,Buraco na via,3,App,10,15,3,1,Alta
+1,Lixo e descarte irregular,4,App,3,4,2,1,Baixa
+4,Calçada danificada,3,App,15,1,0,1,Baixa
+3,Buraco na via,5,App,10,3,2,1,Media
+1,Lixo e descarte irregular,1,App,3,0,0,1,Baixa
+1,Lixo e descarte irregular,1,App,3,3,0,0,Baixa
+3,Buraco na via,1,App,10,3,1,1,Baixa
+1,Lixo e descarte irregular,1,App,3,1,1,1,Baixa
+2,Iluminação pública,3,Terminal,5,6,6,0,Alta
+5,Árvore e poda,1,App,7,4,1,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,2,1,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+5,Árvore e poda,5,App,7,10,2,1,Alta
+3,Buraco na via,5,App,10,15,3,1,Alta
+1,Lixo e descarte irregular,2,App,3,3,0,0,Media
+4,Calçada danificada,1,App,15,23,0,0,Baixa
+4,Calçada danificada,4,App,15,58,2,1,Alta
+2,Iluminação pública,4,Sensor,5,6,0,0,Media
+3,Buraco na via,5,App,10,6,4,0,Alta
+1,Lixo e descarte irregular,3,Terminal,3,2,1,0,Baixa
+1,Lixo e descarte irregular,1,App,3,5,1,0,Media
+3,Buraco na via,5,App,10,4,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,1,0,1,Baixa
+3,Buraco na via,2,App,10,8,2,1,Media
+4,Calçada danificada,3,App,15,9,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,0,0,1,Baixa
+3,Buraco na via,2,App,10,7,2,1,Media
+1,Lixo e descarte irregular,3,App,3,5,4,1,Alta
+4,Calçada danificada,3,Terminal,15,14,2,0,Media
+1,Lixo e descarte irregular,5,App,3,0,0,0,Baixa
+3,Buraco na via,5,App,10,11,0,1,Media
+3,Buraco na via,4,App,10,5,1,1,Media
+2,Iluminação pública,1,Sensor,5,14,1,0,Alta
+3,Buraco na via,2,App,10,10,2,1,Media
+3,Buraco na via,4,App,10,3,2,1,Media
+3,Buraco na via,5,App,10,11,5,0,Alta
+3,Buraco na via,4,App,10,8,4,1,Media
+5,Árvore e poda,3,App,7,12,0,1,Alta
+2,Iluminação pública,4,App,5,2,4,0,Media
+2,Iluminação pública,2,App,5,5,2,1,Media
+1,Lixo e descarte irregular,4,App,3,0,2,1,Media
+4,Calçada danificada,3,App,15,11,2,1,Media
+2,Iluminação pública,4,App,5,0,3,1,Media
+2,Iluminação pública,5,Sensor,5,3,1,0,Media
+1,Lixo e descarte irregular,5,Terminal,3,2,0,0,Baixa
+4,Calçada danificada,4,App,15,15,3,0,Media
+2,Iluminação pública,4,Sensor,5,2,1,0,Media
+3,Buraco na via,1,App,10,7,1,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,4,0,0,Media
+5,Árvore e poda,5,App,7,16,1,0,Alta
+1,Lixo e descarte irregular,3,App,3,2,2,1,Media
+1,Lixo e descarte irregular,3,App,3,5,1,0,Baixa
+4,Calçada danificada,4,App,15,4,3,1,Media
+5,Árvore e poda,1,App,7,3,2,1,Alta
+1,Lixo e descarte irregular,1,Sensor,3,2,0,0,Media
+2,Iluminação pública,1,Sensor,5,3,0,0,Baixa
+3,Buraco na via,3,App,10,5,1,1,Media
+4,Calçada danificada,1,App,15,23,3,1,Media
+2,Iluminação pública,1,Sensor,5,1,1,0,Media
+2,Iluminação pública,4,Sensor,5,1,1,0,Baixa
+3,Buraco na via,4,App,10,1,3,0,Alta
+3,Buraco na via,2,App,10,8,1,1,Media
+4,Calçada danificada,4,App,15,7,1,1,Media
+3,Buraco na via,1,App,10,14,1,0,Alta
+1,Lixo e descarte irregular,3,Terminal,3,2,1,0,Baixa
+5,Árvore e poda,2,App,7,2,3,1,Alta
+4,Calçada danificada,2,App,15,5,1,1,Baixa
+4,Calçada danificada,5,App,15,8,1,1,Baixa
+1,Lixo e descarte irregular,1,App,3,0,1,1,Baixa
+1,Lixo e descarte irregular,4,App,3,4,2,1,Media
+3,Buraco na via,2,App,10,4,2,1,Media
+1,Lixo e descarte irregular,3,App,3,0,1,1,Baixa
+5,Árvore e poda,2,App,7,12,5,0,Alta
+2,Iluminação pública,4,App,5,3,2,1,Media
+3,Buraco na via,1,Terminal,10,11,0,0,Baixa
+4,Calçada danificada,1,App,15,6,0,1,Baixa
+2,Iluminação pública,2,Sensor,5,9,1,0,Alta
+1,Lixo e descarte irregular,5,Sensor,3,0,1,0,Baixa
+3,Buraco na via,1,App,10,5,4,1,Media
+3,Buraco na via,1,App,10,0,0,1,Baixa
+2,Iluminação pública,3,Sensor,5,9,0,0,Alta
+3,Buraco na via,1,Terminal,10,3,0,0,Baixa
+5,Árvore e poda,3,App,7,6,1,1,Media
+2,Iluminação pública,2,App,5,5,1,1,Media
+1,Lixo e descarte irregular,4,Terminal,3,4,2,0,Media
+2,Iluminação pública,1,App,5,4,1,1,Baixa
+2,Iluminação pública,1,Terminal,5,3,1,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,4,0,0,Media
+1,Lixo e descarte irregular,4,Terminal,3,2,1,0,Media
+3,Buraco na via,4,App,10,5,1,1,Media
+2,Iluminação pública,1,App,5,9,1,1,Alta
+5,Árvore e poda,3,App,7,7,3,1,Alta
+1,Lixo e descarte irregular,4,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,6,0,0,Alta
+3,Buraco na via,1,Terminal,10,3,2,0,Media
+4,Calçada danificada,4,App,15,24,1,1,Media
+1,Lixo e descarte irregular,3,App,3,0,0,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,4,1,0,Alta
+1,Lixo e descarte irregular,3,App,3,0,2,1,Baixa
+2,Iluminação pública,5,App,5,4,0,0,Baixa
+2,Iluminação pública,1,App,5,5,1,1,Baixa
+1,Lixo e descarte irregular,1,App,3,1,1,1,Media
+1,Lixo e descarte irregular,4,App,3,2,0,1,Baixa
+2,Iluminação pública,5,Sensor,5,1,0,0,Baixa
+5,Árvore e poda,1,App,7,9,1,0,Alta
+3,Buraco na via,4,App,10,8,1,1,Media
+2,Iluminação pública,5,App,5,1,0,1,Baixa
+1,Lixo e descarte irregular,3,Terminal,3,2,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,2,2,1,Media
+1,Lixo e descarte irregular,2,App,3,2,1,1,Baixa
+4,Calçada danificada,5,App,15,0,3,1,Baixa
+4,Calçada danificada,3,App,15,7,1,0,Baixa
+5,Árvore e poda,2,Terminal,7,9,1,0,Media
+5,Árvore e poda,1,App,7,7,2,0,Alta
+5,Árvore e poda,5,App,7,7,5,1,Alta
+5,Árvore e poda,4,App,7,5,2,0,Alta
+1,Lixo e descarte irregular,4,Sensor,3,4,0,0,Media
+1,Lixo e descarte irregular,4,App,3,1,0,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,0,0,0,Baixa
+3,Buraco na via,1,App,10,25,2,1,Alta
+1,Lixo e descarte irregular,4,App,3,1,1,0,Baixa
+4,Calçada danificada,2,Terminal,15,2,2,0,Baixa
+3,Buraco na via,4,App,10,5,0,0,Baixa
+3,Buraco na via,5,Terminal,10,7,1,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,4,0,0,Media
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Baixa
+4,Calçada danificada,3,Terminal,15,10,0,0,Baixa
+3,Buraco na via,3,App,10,4,2,1,Baixa
+3,Buraco na via,5,Terminal,10,1,2,1,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,2,App,5,8,4,1,Alta
+2,Iluminação pública,1,App,5,6,2,1,Alta
+4,Calçada danificada,4,App,15,10,0,1,Baixa
+4,Calçada danificada,3,App,15,16,4,1,Alta
+1,Lixo e descarte irregular,4,App,3,3,5,1,Alta
+5,Árvore e poda,1,App,7,2,3,0,Alta
+1,Lixo e descarte irregular,2,App,3,0,0,0,Baixa
+4,Calçada danificada,1,App,15,24,6,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,3,1,1,Baixa
+4,Calçada danificada,5,App,15,12,2,1,Media
+1,Lixo e descarte irregular,3,App,3,4,1,1,Media
+2,Iluminação pública,1,App,5,5,2,0,Media
+2,Iluminação pública,5,App,5,5,2,1,Media
+1,Lixo e descarte irregular,1,Terminal,3,0,0,0,Baixa
+3,Buraco na via,1,App,10,13,1,1,Media
+4,Calçada danificada,3,App,15,14,0,0,Baixa
+4,Calçada danificada,5,Terminal,15,4,1,0,Baixa
+2,Iluminação pública,4,App,5,4,1,0,Media
+2,Iluminação pública,2,App,5,1,1,1,Baixa
+1,Lixo e descarte irregular,3,Terminal,3,1,2,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,10,0,0,Alta
+1,Lixo e descarte irregular,2,App,3,0,1,1,Baixa
+5,Árvore e poda,4,App,7,0,3,0,Media
+4,Calçada danificada,3,App,15,2,2,1,Media
+4,Calçada danificada,5,Terminal,15,8,2,0,Baixa
+2,Iluminação pública,3,Terminal,5,5,1,0,Media
+2,Iluminação pública,5,App,5,3,2,1,Media
+2,Iluminação pública,4,App,5,0,0,1,Baixa
+2,Iluminação pública,3,App,5,5,4,1,Alta
+2,Iluminação pública,5,Sensor,5,0,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,1,2,0,Media
+1,Lixo e descarte irregular,2,App,3,4,0,0,Media
+5,Árvore e poda,2,App,7,5,3,1,Alta
+2,Iluminação pública,4,App,5,3,5,0,Alta
+5,Árvore e poda,1,App,7,1,3,1,Alta
+1,Lixo e descarte irregular,4,Sensor,3,1,1,0,Media
+3,Buraco na via,3,App,10,14,2,1,Media
+1,Lixo e descarte irregular,4,App,3,2,1,0,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,3,1,0,Baixa
+1,Lixo e descarte irregular,3,App,3,2,0,1,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,4,1,0,Alta
+5,Árvore e poda,1,App,7,1,0,1,Baixa
+2,Iluminação pública,3,App,5,2,1,1,Media
+3,Buraco na via,4,App,10,10,2,1,Media
+2,Iluminação pública,3,App,5,0,2,0,Baixa
+2,Iluminação pública,4,Sensor,5,0,0,0,Baixa
+2,Iluminação pública,2,App,5,12,3,1,Alta
+1,Lixo e descarte irregular,4,App,3,2,3,0,Media
+5,Árvore e poda,2,App,7,0,1,1,Media
+4,Calçada danificada,2,App,15,11,2,1,Media
+3,Buraco na via,1,App,10,1,2,0,Baixa
+2,Iluminação pública,1,App,5,1,1,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,4,0,0,Media
+5,Árvore e poda,1,App,7,2,3,1,Alta
+2,Iluminação pública,4,App,5,2,0,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,2,Sensor,5,2,1,0,Media
+4,Calçada danificada,1,Terminal,15,11,1,0,Baixa
+3,Buraco na via,3,Terminal,10,4,3,0,Baixa
+3,Buraco na via,2,App,10,30,3,1,Alta
+4,Calçada danificada,2,App,15,3,0,1,Baixa
+1,Lixo e descarte irregular,1,App,3,0,0,0,Baixa
+5,Árvore e poda,3,App,7,3,2,1,Media
+2,Iluminação pública,2,App,5,14,3,1,Alta
+3,Buraco na via,4,App,10,12,2,0,Media
+1,Lixo e descarte irregular,5,App,3,1,1,0,Baixa
+5,Árvore e poda,3,App,7,2,1,1,Baixa
+1,Lixo e descarte irregular,3,App,3,0,1,1,Media
+1,Lixo e descarte irregular,5,App,3,1,2,1,Media
+2,Iluminação pública,2,App,5,2,3,1,Media
+1,Lixo e descarte irregular,1,Terminal,3,3,1,0,Media
+1,Lixo e descarte irregular,4,App,3,2,1,1,Baixa
+3,Buraco na via,4,App,10,4,1,1,Baixa
+2,Iluminação pública,3,App,5,10,6,1,Alta
+5,Árvore e poda,2,App,7,2,1,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,0,1,0,Baixa
+3,Buraco na via,3,App,10,8,1,0,Media
+2,Iluminação pública,3,App,5,7,4,1,Alta
+3,Buraco na via,3,App,10,6,2,1,Media
+3,Buraco na via,2,App,10,1,1,0,Baixa
+2,Iluminação pública,1,Sensor,5,3,0,0,Media
+5,Árvore e poda,3,App,7,6,2,1,Alta
+2,Iluminação pública,4,Sensor,5,4,0,0,Media
+1,Lixo e descarte irregular,1,App,3,2,0,1,Baixa
+3,Buraco na via,1,App,10,17,4,1,Alta
+4,Calçada danificada,3,App,15,3,1,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,1,App,5,0,1,1,Media
+4,Calçada danificada,4,App,15,20,1,1,Baixa
+3,Buraco na via,2,App,10,4,1,1,Media
+5,Árvore e poda,3,App,7,15,3,0,Alta
+2,Iluminação pública,4,Terminal,5,0,3,0,Media
+3,Buraco na via,1,App,10,21,4,1,Alta
+1,Lixo e descarte irregular,2,Terminal,3,0,4,0,Media
+5,Árvore e poda,2,App,7,3,1,1,Alta
+2,Iluminação pública,3,Sensor,5,0,0,0,Baixa
+3,Buraco na via,3,App,10,19,0,1,Alta
+2,Iluminação pública,1,Terminal,5,3,1,0,Baixa
+3,Buraco na via,3,App,10,31,2,1,Alta
+3,Buraco na via,4,App,10,16,1,1,Media
+2,Iluminação pública,5,Sensor,5,2,0,0,Media
+5,Árvore e poda,3,App,7,2,4,0,Alta
+2,Iluminação pública,4,Sensor,5,7,0,0,Alta
+3,Buraco na via,5,App,10,6,0,1,Baixa
+2,Iluminação pública,4,Sensor,5,1,0,0,Media
+2,Iluminação pública,3,Terminal,5,3,2,0,Media
+2,Iluminação pública,3,App,5,0,2,1,Media
+1,Lixo e descarte irregular,5,Terminal,3,2,1,1,Media
+1,Lixo e descarte irregular,4,App,3,3,4,0,Media
+3,Buraco na via,2,App,10,1,1,1,Media
+3,Buraco na via,3,App,10,17,3,1,Alta
+3,Buraco na via,4,Terminal,10,14,2,0,Media
+1,Lixo e descarte irregular,3,App,3,2,0,1,Baixa
+2,Iluminação pública,3,App,5,1,4,1,Media
+1,Lixo e descarte irregular,4,App,3,3,3,1,Media
+4,Calçada danificada,2,App,15,7,1,1,Baixa
+4,Calçada danificada,4,App,15,12,0,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,3,0,0,Baixa
+3,Buraco na via,5,Terminal,10,1,1,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,1,2,1,Media
+1,Lixo e descarte irregular,4,App,3,8,0,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,9,0,0,Alta
+3,Buraco na via,2,Terminal,10,9,1,0,Media
+5,Árvore e poda,5,App,7,10,3,0,Alta
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+3,Buraco na via,5,App,10,7,4,0,Media
+3,Buraco na via,2,App,10,5,3,0,Media
+5,Árvore e poda,2,Terminal,7,11,4,0,Alta
+3,Buraco na via,4,App,10,22,6,1,Alta
+1,Lixo e descarte irregular,3,Sensor,3,2,0,0,Baixa
+3,Buraco na via,3,App,10,7,5,1,Alta
+2,Iluminação pública,2,App,5,2,0,1,Baixa
+5,Árvore e poda,2,App,7,15,3,1,Alta
+2,Iluminação pública,4,App,5,6,1,1,Media
+3,Buraco na via,1,App,10,2,1,1,Media
+1,Lixo e descarte irregular,1,Terminal,3,8,0,0,Media
+2,Iluminação pública,5,App,5,0,3,1,Media
+4,Calçada danificada,5,App,15,31,1,1,Media
+3,Buraco na via,1,App,10,15,5,0,Alta
+2,Iluminação pública,1,Sensor,5,3,0,0,Baixa
+5,Árvore e poda,2,App,7,4,0,1,Baixa
+4,Calçada danificada,3,App,15,9,3,1,Baixa
+2,Iluminação pública,1,App,5,1,0,1,Baixa
+3,Buraco na via,5,App,10,25,4,0,Alta
+2,Iluminação pública,3,App,5,3,2,1,Media
+3,Buraco na via,3,App,10,2,4,0,Media
+2,Iluminação pública,1,App,5,12,4,1,Alta
+1,Lixo e descarte irregular,2,App,3,3,2,0,Alta
+5,Árvore e poda,4,App,7,7,4,1,Alta
+5,Árvore e poda,4,App,7,20,4,1,Alta
+4,Calçada danificada,2,App,15,18,0,1,Baixa
+5,Árvore e poda,3,App,7,2,3,1,Alta
+3,Buraco na via,1,Terminal,10,12,2,0,Media
+4,Calçada danificada,3,App,15,4,0,0,Baixa
+4,Calçada danificada,2,App,15,6,0,1,Baixa
+2,Iluminação pública,5,Sensor,5,4,0,0,Baixa
+2,Iluminação pública,2,Sensor,5,7,0,0,Alta
+1,Lixo e descarte irregular,3,App,3,1,2,0,Baixa
+3,Buraco na via,4,App,10,5,1,1,Media
+1,Lixo e descarte irregular,1,Terminal,3,1,2,0,Baixa
+1,Lixo e descarte irregular,2,App,3,5,3,1,Alta
+3,Buraco na via,5,App,10,7,2,1,Media
+2,Iluminação pública,4,Sensor,5,13,0,0,Alta
+1,Lixo e descarte irregular,2,App,3,1,3,1,Media
+4,Calçada danificada,3,App,15,6,0,1,Baixa
+4,Calçada danificada,5,App,15,31,3,0,Alta
+1,Lixo e descarte irregular,1,Sensor,3,3,0,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,6,0,0,Alta
+2,Iluminação pública,2,Sensor,5,0,0,0,Baixa
+4,Calçada danificada,4,App,15,10,2,1,Media
+4,Calçada danificada,3,App,15,13,2,0,Media
+1,Lixo e descarte irregular,3,Sensor,3,2,1,0,Baixa
+4,Calçada danificada,2,App,15,9,1,1,Media
+1,Lixo e descarte irregular,2,App,3,2,1,1,Baixa
+2,Iluminação pública,3,App,5,4,4,1,Alta
+5,Árvore e poda,4,Terminal,7,2,1,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,4,1,0,Media
+1,Lixo e descarte irregular,4,App,3,7,3,0,Alta
+2,Iluminação pública,1,Terminal,5,6,1,0,Media
+3,Buraco na via,3,App,10,9,2,0,Media
+5,Árvore e poda,2,App,7,4,2,1,Alta
+5,Árvore e poda,5,App,7,6,1,0,Media
+1,Lixo e descarte irregular,3,App,3,2,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,0,0,0,Baixa
+4,Calçada danificada,2,Terminal,15,23,2,0,Alta
+1,Lixo e descarte irregular,1,Sensor,3,1,0,0,Baixa
+4,Calçada danificada,3,App,15,32,3,1,Alta
+3,Buraco na via,2,Terminal,10,8,3,0,Alta
+1,Lixo e descarte irregular,3,Sensor,3,4,0,0,Media
+4,Calçada danificada,2,Terminal,15,19,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,0,0,1,Baixa
+2,Iluminação pública,4,Sensor,5,10,0,0,Alta
+3,Buraco na via,4,App,10,3,3,1,Media
+2,Iluminação pública,5,Sensor,5,2,0,0,Baixa
+3,Buraco na via,1,App,10,4,0,1,Baixa
+3,Buraco na via,1,App,10,1,5,0,Media
+5,Árvore e poda,3,Terminal,7,5,3,0,Alta
+5,Árvore e poda,3,App,7,11,0,1,Media
+2,Iluminação pública,4,App,5,10,4,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+3,Buraco na via,3,App,10,7,0,1,Media
+5,Árvore e poda,4,App,7,9,3,1,Alta
+1,Lixo e descarte irregular,4,App,3,1,1,1,Baixa
+2,Iluminação pública,3,Sensor,5,9,1,0,Alta
+2,Iluminação pública,3,Sensor,5,3,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,0,0,0,Baixa
+3,Buraco na via,3,App,10,8,0,1,Media
+2,Iluminação pública,3,App,5,0,1,0,Baixa
+4,Calçada danificada,1,App,15,12,2,0,Media
+4,Calçada danificada,5,App,15,15,0,1,Baixa
+4,Calçada danificada,4,App,15,5,0,1,Baixa
+2,Iluminação pública,4,App,5,4,3,0,Media
+2,Iluminação pública,3,App,5,2,0,1,Baixa
+3,Buraco na via,5,App,10,3,0,1,Baixa
+4,Calçada danificada,1,App,15,1,1,0,Baixa
+2,Iluminação pública,5,App,5,0,0,0,Baixa
+4,Calçada danificada,2,App,15,34,3,0,Media
+1,Lixo e descarte irregular,5,App,3,1,1,0,Baixa
+4,Calçada danificada,1,App,15,14,2,1,Media
+1,Lixo e descarte irregular,2,App,3,1,2,1,Media
+1,Lixo e descarte irregular,3,App,3,7,0,0,Media
+2,Iluminação pública,4,App,5,1,1,1,Baixa
+1,Lixo e descarte irregular,1,App,3,2,1,1,Media
+1,Lixo e descarte irregular,2,Terminal,3,1,1,0,Baixa
+1,Lixo e descarte irregular,5,App,3,4,4,0,Alta
+2,Iluminação pública,1,Sensor,5,4,0,0,Media
+4,Calçada danificada,5,App,15,11,1,0,Baixa
+1,Lixo e descarte irregular,4,App,3,0,1,1,Baixa
+3,Buraco na via,5,App,10,31,3,1,Alta
+4,Calçada danificada,5,Terminal,15,9,2,1,Baixa
+1,Lixo e descarte irregular,2,App,3,0,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,0,1,1,Baixa
+4,Calçada danificada,3,App,15,2,1,0,Baixa
+4,Calçada danificada,2,App,15,10,2,1,Baixa
+2,Iluminação pública,5,Sensor,5,8,0,0,Alta
+4,Calçada danificada,3,App,15,13,2,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,4,Terminal,5,3,1,0,Baixa
+3,Buraco na via,2,App,10,19,2,0,Media
+1,Lixo e descarte irregular,5,Terminal,3,1,0,0,Baixa
+3,Buraco na via,5,App,10,9,1,1,Alta
+2,Iluminação pública,3,App,5,2,1,1,Baixa
+3,Buraco na via,3,App,10,10,1,1,Media
+2,Iluminação pública,1,Sensor,5,1,1,0,Baixa
+2,Iluminação pública,4,Terminal,5,0,2,0,Baixa
+1,Lixo e descarte irregular,5,App,3,1,1,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,2,0,0,Baixa
+3,Buraco na via,3,App,10,4,4,1,Media
+1,Lixo e descarte irregular,5,App,3,1,1,1,Baixa
+1,Lixo e descarte irregular,4,App,3,4,1,1,Media
+1,Lixo e descarte irregular,3,App,3,0,0,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,2,0,0,Baixa
+4,Calçada danificada,1,App,15,2,2,1,Baixa
+2,Iluminação pública,4,Sensor,5,6,0,0,Media
+5,Árvore e poda,4,App,7,6,1,1,Alta
+1,Lixo e descarte irregular,3,Sensor,3,9,0,0,Media
+3,Buraco na via,4,App,10,2,0,1,Baixa
+2,Iluminação pública,5,App,5,12,1,0,Alta
+2,Iluminação pública,3,Sensor,5,1,0,0,Media
+4,Calçada danificada,2,App,15,7,3,1,Media
+5,Árvore e poda,3,Terminal,7,1,2,0,Alta
+4,Calçada danificada,3,App,15,46,2,1,Alta
+1,Lixo e descarte irregular,3,App,3,3,0,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,3,0,0,Baixa
+3,Buraco na via,3,Terminal,10,2,1,0,Baixa
+1,Lixo e descarte irregular,2,App,3,0,2,1,Baixa
+3,Buraco na via,5,App,10,4,2,0,Media
+3,Buraco na via,3,App,10,4,2,0,Media
+3,Buraco na via,5,App,10,5,2,1,Media
+4,Calçada danificada,2,App,15,11,1,1,Baixa
+3,Buraco na via,2,App,10,10,3,0,Media
+1,Lixo e descarte irregular,2,App,3,0,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,0,0,1,Baixa
+3,Buraco na via,4,App,10,3,1,0,Baixa
+2,Iluminação pública,3,Sensor,5,8,0,0,Alta
+1,Lixo e descarte irregular,5,Sensor,3,4,0,0,Media
+2,Iluminação pública,3,App,5,4,1,1,Baixa
+3,Buraco na via,5,App,10,5,2,1,Baixa
+4,Calçada danificada,1,App,15,26,0,1,Media
+3,Buraco na via,2,App,10,8,2,1,Baixa
+2,Iluminação pública,4,App,5,8,2,1,Alta
+1,Lixo e descarte irregular,2,App,3,3,2,0,Media
+2,Iluminação pública,4,Sensor,5,0,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,0,0,1,Baixa
+3,Buraco na via,3,App,10,4,1,0,Media
+3,Buraco na via,3,Terminal,10,14,3,0,Alta
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,6,1,0,Alta
+1,Lixo e descarte irregular,5,Sensor,3,3,0,0,Media
+4,Calçada danificada,1,App,15,28,4,1,Alta
+3,Buraco na via,5,App,10,4,0,1,Baixa
+1,Lixo e descarte irregular,5,App,3,0,0,1,Baixa
+4,Calçada danificada,5,Terminal,15,3,0,1,Baixa
+2,Iluminação pública,3,Sensor,5,5,1,0,Baixa
+2,Iluminação pública,3,Sensor,5,0,1,0,Media
+5,Árvore e poda,3,App,7,0,4,1,Alta
+1,Lixo e descarte irregular,5,App,3,1,0,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,2,0,0,Baixa
+3,Buraco na via,5,App,10,3,2,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,4,0,0,Alta
+3,Buraco na via,4,App,10,19,3,0,Alta
+1,Lixo e descarte irregular,2,App,3,0,3,0,Baixa
+1,Lixo e descarte irregular,1,App,3,3,2,1,Media
+1,Lixo e descarte irregular,5,App,3,1,2,1,Media
+2,Iluminação pública,1,Terminal,5,7,2,0,Alta
+1,Lixo e descarte irregular,1,App,3,3,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,2,1,1,Media
+4,Calçada danificada,4,App,15,9,0,1,Baixa
+2,Iluminação pública,4,Sensor,5,0,0,0,Baixa
+2,Iluminação pública,2,App,5,17,1,1,Alta
+1,Lixo e descarte irregular,3,App,3,0,1,1,Baixa
+2,Iluminação pública,5,App,5,12,2,1,Alta
+1,Lixo e descarte irregular,4,App,3,3,4,0,Media
+3,Buraco na via,5,Terminal,10,4,2,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,1,1,0,Baixa
+4,Calçada danificada,1,App,15,1,2,1,Media
+5,Árvore e poda,2,App,7,5,1,1,Media
+1,Lixo e descarte irregular,1,App,3,0,1,0,Baixa
+1,Lixo e descarte irregular,1,App,3,5,3,1,Media
+1,Lixo e descarte irregular,5,App,3,2,1,1,Media
+3,Buraco na via,4,App,10,6,3,0,Media
+1,Lixo e descarte irregular,5,Terminal,3,2,1,0,Baixa
+4,Calçada danificada,2,App,15,13,3,1,Media
+3,Buraco na via,5,App,10,5,1,0,Baixa
+4,Calçada danificada,5,App,15,8,1,0,Baixa
+2,Iluminação pública,1,Terminal,5,13,2,0,Alta
+5,Árvore e poda,5,App,7,11,3,1,Alta
+1,Lixo e descarte irregular,1,Terminal,3,3,3,0,Media
+2,Iluminação pública,3,Terminal,5,2,2,1,Media
+2,Iluminação pública,1,App,5,0,3,1,Media
+5,Árvore e poda,3,App,7,7,5,1,Alta
+3,Buraco na via,1,App,10,7,4,1,Alta
+4,Calçada danificada,5,App,15,8,1,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+5,Árvore e poda,5,App,7,1,1,0,Media
+2,Iluminação pública,3,App,5,1,1,0,Baixa
+2,Iluminação pública,3,App,5,8,1,1,Alta
+5,Árvore e poda,4,Terminal,7,0,1,0,Media
+2,Iluminação pública,5,App,5,7,2,1,Alta
+2,Iluminação pública,2,Sensor,5,10,1,0,Alta
+3,Buraco na via,3,Terminal,10,10,3,0,Media
+1,Lixo e descarte irregular,2,App,3,3,3,1,Media
+2,Iluminação pública,1,App,5,1,2,1,Media
+1,Lixo e descarte irregular,5,App,3,0,1,1,Baixa
+1,Lixo e descarte irregular,3,Terminal,3,1,2,0,Baixa
+4,Calçada danificada,2,App,15,2,0,0,Baixa
+3,Buraco na via,4,App,10,2,4,1,Media
+2,Iluminação pública,5,App,5,3,2,1,Media
+2,Iluminação pública,5,Sensor,5,2,0,0,Baixa
+2,Iluminação pública,3,Sensor,5,4,0,0,Baixa
+3,Buraco na via,1,App,10,16,3,1,Alta
+5,Árvore e poda,3,Terminal,7,5,4,0,Alta
+5,Árvore e poda,3,App,7,7,4,0,Alta
+2,Iluminação pública,2,Terminal,5,0,2,0,Baixa
+2,Iluminação pública,3,Sensor,5,7,0,0,Alta
+2,Iluminação pública,3,Terminal,5,0,0,0,Baixa
+3,Buraco na via,5,App,10,4,0,1,Baixa
+2,Iluminação pública,1,App,5,1,0,1,Baixa
+3,Buraco na via,4,App,10,0,0,1,Baixa
+3,Buraco na via,4,App,10,7,0,0,Media
+2,Iluminação pública,2,Sensor,5,5,0,0,Alta
+2,Iluminação pública,2,App,5,10,2,1,Alta
+2,Iluminação pública,5,App,5,4,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,0,0,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,1,1,0,Baixa
+3,Buraco na via,3,App,10,0,0,1,Baixa
+2,Iluminação pública,5,App,5,2,2,1,Media
+1,Lixo e descarte irregular,4,App,3,2,0,1,Baixa
+3,Buraco na via,5,App,10,10,2,1,Media
+3,Buraco na via,5,Terminal,10,13,6,0,Media
+1,Lixo e descarte irregular,1,App,3,3,2,0,Baixa
+4,Calçada danificada,5,App,15,3,0,1,Baixa
+5,Árvore e poda,5,App,7,1,3,1,Alta
+3,Buraco na via,1,App,10,12,1,1,Alta
+3,Buraco na via,3,App,10,0,1,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,8,1,0,Alta
+5,Árvore e poda,5,App,7,2,1,1,Media
+2,Iluminação pública,2,App,5,8,3,1,Alta
+5,Árvore e poda,1,App,7,2,6,0,Alta
+3,Buraco na via,1,App,10,11,0,1,Baixa
+1,Lixo e descarte irregular,4,App,3,0,1,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,2,0,0,Baixa
+3,Buraco na via,2,App,10,0,2,1,Media
+3,Buraco na via,3,Terminal,10,9,1,0,Media
+1,Lixo e descarte irregular,1,App,3,0,2,0,Baixa
+3,Buraco na via,1,Terminal,10,2,3,0,Media
+4,Calçada danificada,5,App,15,6,1,1,Baixa
+2,Iluminação pública,3,Sensor,5,2,0,0,Baixa
+2,Iluminação pública,2,Sensor,5,5,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,2,1,1,Media
+4,Calçada danificada,1,App,15,11,4,0,Media
+2,Iluminação pública,2,App,5,7,3,1,Alta
+4,Calçada danificada,5,App,15,14,1,1,Baixa
+2,Iluminação pública,4,App,5,5,4,0,Alta
+3,Buraco na via,3,App,10,2,2,0,Media
+1,Lixo e descarte irregular,5,Sensor,3,4,0,0,Media
+1,Lixo e descarte irregular,3,Terminal,3,4,2,0,Media
+4,Calçada danificada,4,App,15,12,1,0,Baixa
+2,Iluminação pública,5,Terminal,5,6,3,0,Alta
+2,Iluminação pública,3,App,5,3,1,1,Media
+5,Árvore e poda,3,App,7,15,3,1,Alta
+5,Árvore e poda,4,Terminal,7,5,2,0,Alta
+4,Calçada danificada,1,App,15,9,1,1,Baixa
+1,Lixo e descarte irregular,3,App,3,2,0,1,Media
+3,Buraco na via,4,App,10,25,4,1,Alta
+4,Calçada danificada,2,App,15,5,2,1,Baixa
+2,Iluminação pública,4,App,5,4,1,1,Media
+1,Lixo e descarte irregular,3,App,3,1,0,1,Baixa
+4,Calçada danificada,1,App,15,9,0,1,Baixa
+2,Iluminação pública,1,App,5,1,4,1,Media
+3,Buraco na via,3,App,10,9,2,1,Media
+5,Árvore e poda,1,App,7,4,3,0,Alta
+3,Buraco na via,2,Terminal,10,13,3,0,Alta
+2,Iluminação pública,3,Sensor,5,8,0,0,Alta
+2,Iluminação pública,1,Terminal,5,9,0,1,Alta
+2,Iluminação pública,3,Sensor,5,2,1,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Media
+4,Calçada danificada,2,App,15,28,3,1,Alta
+4,Calçada danificada,5,App,15,4,1,0,Baixa
+1,Lixo e descarte irregular,5,App,3,2,2,1,Media
+1,Lixo e descarte irregular,2,App,3,0,0,0,Baixa
+4,Calçada danificada,5,Terminal,15,38,2,0,Alta
+1,Lixo e descarte irregular,2,App,3,5,1,1,Media
+2,Iluminação pública,2,Terminal,5,5,1,0,Baixa
+2,Iluminação pública,5,Sensor,5,5,0,0,Media
+3,Buraco na via,1,App,10,3,1,1,Baixa
+1,Lixo e descarte irregular,2,App,3,6,4,1,Alta
+3,Buraco na via,5,App,10,5,1,0,Baixa
+2,Iluminação pública,5,App,5,1,1,0,Baixa
+3,Buraco na via,5,App,10,16,1,1,Alta
+1,Lixo e descarte irregular,5,Terminal,3,1,0,0,Baixa
+2,Iluminação pública,5,Sensor,5,1,0,0,Baixa
+2,Iluminação pública,3,Sensor,5,6,0,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,3,0,1,Baixa
+1,Lixo e descarte irregular,1,App,3,2,1,1,Media
+2,Iluminação pública,1,App,5,6,6,1,Alta
+1,Lixo e descarte irregular,5,Sensor,3,3,1,0,Media
+5,Árvore e poda,1,App,7,26,3,1,Alta
+2,Iluminação pública,4,App,5,4,0,0,Baixa
+4,Calçada danificada,2,App,15,7,0,0,Baixa
+5,Árvore e poda,4,App,7,4,2,1,Alta
+1,Lixo e descarte irregular,3,Sensor,3,3,1,0,Media
+3,Buraco na via,1,App,10,24,5,0,Alta
+4,Calçada danificada,2,App,15,17,3,1,Media
+3,Buraco na via,4,Terminal,10,3,2,0,Media
+2,Iluminação pública,5,App,5,7,3,1,Alta
+2,Iluminação pública,2,App,5,1,2,1,Media
+1,Lixo e descarte irregular,2,App,3,0,1,1,Baixa
+2,Iluminação pública,4,App,5,0,3,1,Media
+5,Árvore e poda,3,App,7,4,1,1,Media
+5,Árvore e poda,1,Terminal,7,4,0,0,Media
+1,Lixo e descarte irregular,1,Terminal,3,1,1,0,Baixa
+3,Buraco na via,2,App,10,1,2,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,0,1,0,Media
+5,Árvore e poda,1,App,7,8,4,0,Alta
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+5,Árvore e poda,3,App,7,1,1,0,Baixa
+4,Calçada danificada,4,App,15,11,3,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,2,1,0,Media
+1,Lixo e descarte irregular,3,App,3,2,2,1,Baixa
+4,Calçada danificada,3,App,15,11,3,1,Media
+1,Lixo e descarte irregular,3,App,3,1,0,0,Baixa
+2,Iluminação pública,5,App,5,8,1,1,Alta
+5,Árvore e poda,3,App,7,1,0,0,Baixa
+3,Buraco na via,3,App,10,5,1,1,Baixa
+2,Iluminação pública,5,App,5,0,2,1,Baixa
+2,Iluminação pública,2,App,5,2,1,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+5,Árvore e poda,1,App,7,9,2,0,Alta
+1,Lixo e descarte irregular,4,App,3,0,1,0,Baixa
+1,Lixo e descarte irregular,1,App,3,2,1,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,8,0,0,Alta
+5,Árvore e poda,3,Terminal,7,7,2,0,Alta
+1,Lixo e descarte irregular,3,App,3,0,2,1,Baixa
+4,Calçada danificada,1,Terminal,15,7,2,0,Baixa
+3,Buraco na via,3,App,10,10,4,1,Alta
+4,Calçada danificada,5,App,15,5,0,1,Baixa
+5,Árvore e poda,1,App,7,6,3,1,Alta
+4,Calçada danificada,3,App,15,12,0,1,Baixa
+5,Árvore e poda,3,App,7,4,1,1,Media
+1,Lixo e descarte irregular,2,App,3,0,0,0,Baixa
+4,Calçada danificada,3,App,15,5,2,1,Media
+3,Buraco na via,2,App,10,29,2,1,Alta
+3,Buraco na via,1,App,10,4,1,1,Baixa
+4,Calçada danificada,5,App,15,7,2,1,Media
+5,Árvore e poda,5,App,7,3,2,1,Alta
+3,Buraco na via,2,App,10,13,2,1,Media
+2,Iluminação pública,1,Sensor,5,2,0,0,Baixa
+2,Iluminação pública,1,Sensor,5,3,0,0,Media
+2,Iluminação pública,5,App,5,3,3,1,Media
+2,Iluminação pública,5,App,5,7,0,1,Alta
+2,Iluminação pública,3,Sensor,5,3,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,2,2,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+4,Calçada danificada,3,App,15,13,3,0,Media
+2,Iluminação pública,1,App,5,5,1,1,Media
+5,Árvore e poda,3,App,7,8,3,0,Alta
+3,Buraco na via,4,Terminal,10,25,2,0,Alta
+1,Lixo e descarte irregular,5,Terminal,3,0,0,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,2,1,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+5,Árvore e poda,4,App,7,15,2,1,Alta
+1,Lixo e descarte irregular,4,Sensor,3,3,0,0,Media
+2,Iluminação pública,3,App,5,0,0,1,Baixa
+5,Árvore e poda,3,App,7,2,0,1,Baixa
+5,Árvore e poda,1,App,7,3,1,0,Baixa
+1,Lixo e descarte irregular,1,App,3,0,0,1,Baixa
+1,Lixo e descarte irregular,4,App,3,2,1,1,Baixa
+1,Lixo e descarte irregular,3,Terminal,3,1,1,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,8,0,0,Alta
+1,Lixo e descarte irregular,1,Sensor,3,2,1,0,Media
+3,Buraco na via,2,App,10,4,2,1,Alta
+5,Árvore e poda,2,App,7,1,1,1,Media
+2,Iluminação pública,5,App,5,3,0,1,Media
+3,Buraco na via,2,App,10,21,4,1,Alta
+1,Lixo e descarte irregular,4,App,3,1,2,1,Baixa
+4,Calçada danificada,1,Terminal,15,9,2,0,Baixa
+3,Buraco na via,3,Terminal,10,16,5,0,Alta
+4,Calçada danificada,3,App,15,12,1,1,Media
+5,Árvore e poda,4,App,7,9,1,1,Alta
+2,Iluminação pública,3,App,5,4,3,0,Media
+1,Lixo e descarte irregular,1,App,3,2,2,1,Baixa
+1,Lixo e descarte irregular,1,App,3,0,0,1,Baixa
+2,Iluminação pública,1,App,5,1,0,1,Baixa
+5,Árvore e poda,2,App,7,5,4,1,Alta
+2,Iluminação pública,4,Terminal,5,1,1,0,Baixa
+4,Calçada danificada,2,App,15,9,0,0,Baixa
+3,Buraco na via,5,App,10,1,0,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,4,0,0,Alta
+2,Iluminação pública,3,Terminal,5,1,0,0,Baixa
+3,Buraco na via,4,App,10,2,0,1,Baixa
+3,Buraco na via,1,App,10,1,2,1,Baixa
+2,Iluminação pública,3,Sensor,5,5,1,0,Media
+1,Lixo e descarte irregular,1,Sensor,3,1,0,0,Baixa
+3,Buraco na via,4,Terminal,10,15,3,0,Media
+1,Lixo e descarte irregular,3,App,3,1,1,1,Baixa
+5,Árvore e poda,5,Terminal,7,1,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,1,2,1,Baixa
+1,Lixo e descarte irregular,2,App,3,5,2,1,Media
+2,Iluminação pública,1,App,5,0,1,0,Baixa
+2,Iluminação pública,1,App,5,4,2,0,Media
+2,Iluminação pública,1,App,5,4,3,1,Media
+2,Iluminação pública,2,App,5,10,7,1,Alta
+5,Árvore e poda,4,App,7,2,0,0,Baixa
+2,Iluminação pública,2,Terminal,5,0,2,0,Media
+2,Iluminação pública,1,Terminal,5,2,1,0,Baixa
+2,Iluminação pública,1,App,5,6,2,1,Media
+1,Lixo e descarte irregular,3,App,3,2,2,1,Baixa
+3,Buraco na via,2,App,10,10,2,1,Media
+1,Lixo e descarte irregular,4,App,3,0,2,1,Baixa
+3,Buraco na via,2,Terminal,10,5,1,0,Media
+1,Lixo e descarte irregular,1,App,3,2,1,1,Baixa
+5,Árvore e poda,2,App,7,0,1,1,Baixa
+2,Iluminação pública,3,Sensor,5,3,0,0,Media
+4,Calçada danificada,1,App,15,7,1,1,Media
+2,Iluminação pública,1,Sensor,5,21,0,0,Alta
+1,Lixo e descarte irregular,5,App,3,1,0,0,Baixa
+4,Calçada danificada,2,Terminal,15,32,3,0,Alta
+3,Buraco na via,4,Terminal,10,9,0,0,Baixa
+4,Calçada danificada,5,App,15,8,1,1,Media
+2,Iluminação pública,1,App,5,9,1,0,Alta
+3,Buraco na via,4,App,10,1,0,1,Baixa
+4,Calçada danificada,5,App,15,6,1,0,Baixa
+3,Buraco na via,1,App,10,13,2,1,Alta
+2,Iluminação pública,2,Terminal,5,0,0,0,Baixa
+3,Buraco na via,1,App,10,6,1,1,Media
+3,Buraco na via,1,App,10,6,0,1,Media
+5,Árvore e poda,2,App,7,5,1,0,Media
+2,Iluminação pública,1,Sensor,5,2,1,0,Media
+2,Iluminação pública,5,App,5,6,4,1,Alta
+4,Calçada danificada,2,App,15,4,0,1,Baixa
+2,Iluminação pública,4,App,5,7,3,0,Alta
+3,Buraco na via,1,App,10,2,3,0,Media
+2,Iluminação pública,4,App,5,4,5,1,Alta
+1,Lixo e descarte irregular,4,App,3,5,1,1,Media
+3,Buraco na via,1,App,10,2,1,1,Media
+1,Lixo e descarte irregular,3,App,3,1,4,1,Media
+1,Lixo e descarte irregular,5,App,3,4,0,0,Baixa
+3,Buraco na via,4,Terminal,10,7,3,0,Media
+3,Buraco na via,5,App,10,0,0,0,Baixa
+4,Calçada danificada,3,App,15,12,3,1,Media
+1,Lixo e descarte irregular,2,App,3,3,4,0,Media
+1,Lixo e descarte irregular,3,App,3,4,2,0,Media
+5,Árvore e poda,3,App,7,6,1,1,Media
+1,Lixo e descarte irregular,5,App,3,3,1,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,6,0,0,Alta
+1,Lixo e descarte irregular,4,Sensor,3,4,0,0,Alta
+2,Iluminação pública,3,App,5,2,3,1,Media
+4,Calçada danificada,2,App,15,8,3,1,Media
+4,Calçada danificada,2,Terminal,15,25,3,1,Media
+3,Buraco na via,5,App,10,8,1,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+2,Iluminação pública,3,App,5,2,1,1,Media
+2,Iluminação pública,4,App,5,8,4,1,Alta
+1,Lixo e descarte irregular,1,App,3,0,2,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,4,0,0,Media
+1,Lixo e descarte irregular,3,Sensor,3,4,0,0,Alta
+3,Buraco na via,3,App,10,33,1,0,Media
+3,Buraco na via,3,App,10,6,2,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,1,App,5,2,2,1,Media
+4,Calçada danificada,4,App,15,1,1,0,Baixa
+3,Buraco na via,3,Terminal,10,0,1,0,Baixa
+4,Calçada danificada,1,App,15,12,4,0,Media
+2,Iluminação pública,5,Sensor,5,2,0,0,Media
+4,Calçada danificada,1,App,15,4,0,1,Baixa
+1,Lixo e descarte irregular,3,App,3,2,2,0,Baixa
+2,Iluminação pública,5,Terminal,5,4,1,0,Media
+1,Lixo e descarte irregular,5,App,3,1,1,0,Baixa
+2,Iluminação pública,4,App,5,3,0,0,Baixa
+2,Iluminação pública,4,Sensor,5,2,0,0,Baixa
+1,Lixo e descarte irregular,3,Terminal,3,3,1,0,Media
+3,Buraco na via,4,App,10,4,1,0,Media
+1,Lixo e descarte irregular,5,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,1,1,0,Baixa
+1,Lixo e descarte irregular,3,App,3,2,0,1,Baixa
+2,Iluminação pública,1,App,5,6,4,1,Alta
+1,Lixo e descarte irregular,5,Sensor,3,7,1,0,Alta
+2,Iluminação pública,5,Sensor,5,3,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,6,2,1,Alta
+4,Calçada danificada,4,App,15,5,0,0,Baixa
+5,Árvore e poda,2,App,7,2,0,1,Media
+2,Iluminação pública,5,Sensor,5,4,0,0,Media
+3,Buraco na via,1,App,10,11,3,1,Alta
+4,Calçada danificada,4,App,15,12,1,1,Media
+5,Árvore e poda,2,Terminal,7,30,3,0,Alta
+3,Buraco na via,3,App,10,3,0,1,Media
+4,Calçada danificada,1,App,15,27,2,1,Alta
+5,Árvore e poda,1,App,7,2,0,1,Baixa
+4,Calçada danificada,2,App,15,17,1,1,Media
+2,Iluminação pública,2,App,5,3,2,1,Media
+1,Lixo e descarte irregular,5,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,2,0,1,Baixa
+2,Iluminação pública,1,App,5,3,0,1,Media
+2,Iluminação pública,5,App,5,3,2,1,Media
+2,Iluminação pública,4,App,5,0,3,1,Media
+3,Buraco na via,5,Terminal,10,14,1,0,Media
+3,Buraco na via,5,App,10,1,0,0,Baixa
+4,Calçada danificada,3,App,15,7,1,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,0,1,0,Baixa
+4,Calçada danificada,4,Terminal,15,9,2,0,Baixa
+4,Calçada danificada,1,App,15,19,1,1,Media
+5,Árvore e poda,5,App,7,3,3,1,Alta
+4,Calçada danificada,2,App,15,9,2,1,Media
+4,Calçada danificada,4,App,15,3,0,1,Baixa
+1,Lixo e descarte irregular,5,App,3,1,4,1,Media
+2,Iluminação pública,5,Sensor,5,0,1,0,Baixa
+1,Lixo e descarte irregular,4,Terminal,3,2,2,0,Baixa
+3,Buraco na via,2,App,10,1,1,0,Baixa
+5,Árvore e poda,3,App,7,2,2,1,Alta
+2,Iluminação pública,3,Sensor,5,3,0,0,Baixa
+3,Buraco na via,5,Terminal,10,5,1,0,Baixa
+1,Lixo e descarte irregular,1,App,3,2,1,1,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,1,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,0,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,2,4,1,Media
+5,Árvore e poda,3,App,7,11,1,1,Media
+2,Iluminação pública,4,App,5,6,4,1,Alta
+4,Calçada danificada,1,App,15,64,5,1,Alta
+3,Buraco na via,1,Terminal,10,4,3,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,3,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,3,3,1,Media
+4,Calçada danificada,3,App,15,33,3,0,Alta
+1,Lixo e descarte irregular,1,App,3,5,1,1,Media
+5,Árvore e poda,3,App,7,6,1,0,Media
+1,Lixo e descarte irregular,4,Terminal,3,3,1,0,Baixa
+3,Buraco na via,2,Terminal,10,9,2,0,Media
+4,Calçada danificada,2,App,15,9,2,0,Media
+1,Lixo e descarte irregular,4,App,3,3,3,0,Media
+1,Lixo e descarte irregular,2,App,3,2,2,1,Media
+5,Árvore e poda,1,Terminal,7,5,3,0,Alta
+1,Lixo e descarte irregular,4,Sensor,3,6,0,0,Alta
+2,Iluminação pública,1,Sensor,5,4,0,0,Media
+2,Iluminação pública,3,Terminal,5,3,3,0,Media
+1,Lixo e descarte irregular,3,Terminal,3,1,3,0,Baixa
+4,Calçada danificada,1,App,15,8,2,1,Baixa
+4,Calçada danificada,4,App,15,3,2,1,Baixa
+2,Iluminação pública,5,App,5,3,1,0,Media
+4,Calçada danificada,5,App,15,24,4,1,Alta
+1,Lixo e descarte irregular,2,App,3,1,0,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,0,0,0,Baixa
+3,Buraco na via,4,App,10,10,1,1,Media
+5,Árvore e poda,3,App,7,5,1,0,Baixa
+1,Lixo e descarte irregular,4,App,3,6,2,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,1,Terminal,5,0,1,0,Baixa
+4,Calçada danificada,1,App,15,8,2,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,3,App,5,0,0,1,Baixa
+3,Buraco na via,3,App,10,7,2,1,Alta
+2,Iluminação pública,4,Terminal,5,2,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,5,4,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+2,Iluminação pública,3,App,5,1,0,1,Baixa
+2,Iluminação pública,1,App,5,3,1,1,Media
+4,Calçada danificada,4,App,15,12,2,1,Media
+3,Buraco na via,1,App,10,10,2,0,Media
+3,Buraco na via,1,App,10,7,4,0,Alta
+5,Árvore e poda,4,App,7,20,3,1,Alta
+2,Iluminação pública,2,Sensor,5,0,0,0,Baixa
+2,Iluminação pública,4,App,5,2,2,0,Media
+5,Árvore e poda,3,App,7,2,0,1,Media
+1,Lixo e descarte irregular,1,App,3,1,1,1,Baixa
+3,Buraco na via,4,App,10,8,2,1,Media
+3,Buraco na via,1,App,10,8,5,1,Alta
+1,Lixo e descarte irregular,2,App,3,3,0,1,Media
+2,Iluminação pública,4,Sensor,5,3,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,2,2,0,Media
+1,Lixo e descarte irregular,2,App,3,2,0,1,Baixa
+2,Iluminação pública,2,Sensor,5,2,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+4,Calçada danificada,2,App,15,4,2,1,Baixa
+5,Árvore e poda,5,App,7,7,1,1,Media
+4,Calçada danificada,4,App,15,0,2,1,Media
+1,Lixo e descarte irregular,5,Terminal,3,2,0,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,3,0,0,Media
+1,Lixo e descarte irregular,5,App,3,4,6,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,0,1,0,Baixa
+5,Árvore e poda,2,App,7,3,1,1,Media
+2,Iluminação pública,2,Terminal,5,1,3,0,Media
+1,Lixo e descarte irregular,3,Terminal,3,1,2,0,Baixa
+4,Calçada danificada,4,App,15,27,1,1,Media
+2,Iluminação pública,1,Sensor,5,1,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,3,1,1,Media
+1,Lixo e descarte irregular,5,App,3,2,0,1,Baixa
+3,Buraco na via,3,Terminal,10,4,1,0,Baixa
+4,Calçada danificada,4,App,15,5,2,1,Baixa
+1,Lixo e descarte irregular,4,App,3,2,0,1,Baixa
+5,Árvore e poda,5,App,7,4,1,1,Alta
+4,Calçada danificada,4,App,15,1,1,1,Media
+4,Calçada danificada,3,App,15,3,2,1,Baixa
+1,Lixo e descarte irregular,1,App,3,2,7,0,Media
+1,Lixo e descarte irregular,5,Terminal,3,0,2,0,Media
+4,Calçada danificada,2,App,15,21,1,0,Media
+1,Lixo e descarte irregular,5,App,3,0,0,1,Baixa
+3,Buraco na via,2,App,10,5,0,1,Media
+3,Buraco na via,3,App,10,11,1,0,Media
+1,Lixo e descarte irregular,5,App,3,0,1,0,Baixa
+4,Calçada danificada,1,App,15,2,0,0,Baixa
+5,Árvore e poda,2,App,7,6,2,0,Alta
+3,Buraco na via,4,App,10,13,2,1,Alta
+2,Iluminação pública,2,App,5,2,2,0,Media
+4,Calçada danificada,5,App,15,6,0,0,Baixa
+2,Iluminação pública,3,Terminal,5,0,1,0,Baixa
+3,Buraco na via,5,Terminal,10,7,4,0,Media
+4,Calçada danificada,3,App,15,1,3,0,Media
+3,Buraco na via,1,App,10,18,1,1,Media
+1,Lixo e descarte irregular,5,App,3,1,2,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,1,0,1,Baixa
+2,Iluminação pública,4,App,5,3,2,1,Media
+2,Iluminação pública,2,App,5,2,4,0,Media
+3,Buraco na via,3,Terminal,10,6,0,0,Baixa
+2,Iluminação pública,4,App,5,1,0,1,Baixa
+4,Calçada danificada,3,App,15,23,4,1,Alta
+5,Árvore e poda,4,App,7,2,2,1,Alta
+1,Lixo e descarte irregular,1,App,3,0,3,1,Baixa
+3,Buraco na via,5,Terminal,10,4,2,0,Media
+3,Buraco na via,4,App,10,3,1,1,Media
+2,Iluminação pública,4,App,5,7,1,1,Alta
+1,Lixo e descarte irregular,5,Sensor,3,0,0,0,Media
+4,Calçada danificada,3,App,15,6,1,1,Baixa
+5,Árvore e poda,1,App,7,5,1,1,Media
+3,Buraco na via,1,App,10,10,4,1,Alta
+5,Árvore e poda,5,Terminal,7,13,1,0,Alta
+5,Árvore e poda,5,App,7,2,0,0,Media
+2,Iluminação pública,1,App,5,8,3,1,Alta
+3,Buraco na via,4,App,10,14,1,1,Media
+2,Iluminação pública,4,App,5,1,2,1,Baixa
+5,Árvore e poda,1,App,7,1,0,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,2,0,0,Baixa
+2,Iluminação pública,3,App,5,3,2,1,Media
+4,Calçada danificada,2,App,15,14,1,1,Media
+1,Lixo e descarte irregular,3,App,3,1,2,1,Baixa
+4,Calçada danificada,5,App,15,10,1,1,Media
+2,Iluminação pública,2,App,5,2,2,1,Baixa
+5,Árvore e poda,4,App,7,6,1,0,Media
+4,Calçada danificada,4,Terminal,15,4,1,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,2,0,0,Media
+4,Calçada danificada,4,App,15,28,4,1,Alta
+2,Iluminação pública,4,App,5,9,3,1,Alta
+3,Buraco na via,2,App,10,8,0,1,Media
+3,Buraco na via,1,App,10,2,1,1,Media
+4,Calçada danificada,5,App,15,38,2,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,7,4,1,Alta
+3,Buraco na via,2,App,10,9,0,0,Baixa
+3,Buraco na via,2,App,10,0,1,1,Baixa
+2,Iluminação pública,1,App,5,12,1,1,Alta
+1,Lixo e descarte irregular,3,App,3,3,3,0,Media
+2,Iluminação pública,5,Sensor,5,3,1,0,Media
+4,Calçada danificada,5,App,15,1,1,0,Baixa
+1,Lixo e descarte irregular,2,App,3,4,2,1,Media
+2,Iluminação pública,3,Sensor,5,4,0,0,Baixa
+5,Árvore e poda,4,App,7,21,3,1,Alta
+1,Lixo e descarte irregular,5,Terminal,3,6,5,0,Alta
+3,Buraco na via,4,App,10,23,3,0,Alta
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+4,Calçada danificada,2,Terminal,15,11,0,0,Baixa
+3,Buraco na via,4,App,10,9,2,0,Media
+4,Calçada danificada,1,App,15,5,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,2,1,1,Media
+2,Iluminação pública,4,Sensor,5,2,0,0,Baixa
+4,Calçada danificada,2,App,15,25,3,1,Alta
+1,Lixo e descarte irregular,3,App,3,6,2,0,Alta
+1,Lixo e descarte irregular,4,App,3,3,3,1,Baixa
+1,Lixo e descarte irregular,3,App,3,0,1,1,Baixa
+5,Árvore e poda,1,App,7,18,3,1,Alta
+3,Buraco na via,3,App,10,14,1,1,Media
+3,Buraco na via,2,App,10,9,2,1,Media
+3,Buraco na via,4,App,10,10,1,1,Media
+2,Iluminação pública,2,App,5,0,0,1,Baixa
+2,Iluminação pública,5,Sensor,5,2,0,0,Media
+2,Iluminação pública,1,App,5,9,3,1,Alta
+3,Buraco na via,5,App,10,1,1,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,0,0,0,Baixa
+4,Calçada danificada,4,App,15,21,3,0,Alta
+4,Calçada danificada,2,App,15,15,0,1,Baixa
+2,Iluminação pública,1,Terminal,5,0,2,0,Baixa
+3,Buraco na via,2,App,10,5,1,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,2,0,0,Baixa
+5,Árvore e poda,1,Terminal,7,5,2,0,Alta
+5,Árvore e poda,2,App,7,6,3,0,Alta
+5,Árvore e poda,1,Terminal,7,3,1,0,Baixa
+2,Iluminação pública,5,App,5,4,1,1,Media
+1,Lixo e descarte irregular,5,App,3,3,1,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,3,0,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,3,1,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,0,1,0,Baixa
+5,Árvore e poda,1,App,7,2,0,0,Media
+1,Lixo e descarte irregular,1,App,3,4,2,0,Media
+1,Lixo e descarte irregular,4,App,3,3,1,1,Media
+4,Calçada danificada,1,App,15,8,2,0,Media
+3,Buraco na via,4,App,10,3,2,1,Media
+4,Calçada danificada,3,App,15,6,3,1,Baixa
+3,Buraco na via,5,App,10,11,2,1,Media
+4,Calçada danificada,2,App,15,14,4,0,Baixa
+3,Buraco na via,3,App,10,3,4,0,Media
+2,Iluminação pública,3,App,5,6,3,1,Alta
+3,Buraco na via,5,App,10,5,0,0,Baixa
+2,Iluminação pública,4,App,5,1,3,1,Media
+2,Iluminação pública,4,Sensor,5,2,0,0,Media
+2,Iluminação pública,2,App,5,3,4,1,Alta
+1,Lixo e descarte irregular,3,App,3,3,1,1,Baixa
+4,Calçada danificada,1,Terminal,15,17,3,0,Media
+1,Lixo e descarte irregular,2,Terminal,3,1,1,0,Media
+1,Lixo e descarte irregular,5,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,1,3,0,Baixa
+4,Calçada danificada,1,Terminal,15,5,1,0,Baixa
+2,Iluminação pública,3,App,5,3,1,1,Media
+3,Buraco na via,4,App,10,0,1,0,Baixa
+4,Calçada danificada,5,App,15,30,0,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,2,0,0,Baixa
+4,Calçada danificada,4,App,15,15,1,1,Media
+1,Lixo e descarte irregular,2,App,3,1,3,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,2,0,0,Baixa
+3,Buraco na via,2,Terminal,10,9,0,0,Media
+5,Árvore e poda,1,App,7,3,1,1,Media
+1,Lixo e descarte irregular,2,App,3,1,2,1,Baixa
+3,Buraco na via,2,App,10,1,3,1,Media
+1,Lixo e descarte irregular,3,App,3,7,2,1,Media
+3,Buraco na via,4,Terminal,10,3,1,1,Baixa
+3,Buraco na via,5,App,10,4,1,1,Media
+3,Buraco na via,5,App,10,21,1,1,Alta
+3,Buraco na via,2,App,10,10,1,1,Baixa
+1,Lixo e descarte irregular,5,App,3,3,1,1,Baixa
+3,Buraco na via,5,App,10,1,3,1,Media
+3,Buraco na via,3,App,10,7,3,1,Media
+3,Buraco na via,2,App,10,1,3,0,Media
+1,Lixo e descarte irregular,4,App,3,0,0,1,Baixa
+2,Iluminação pública,1,Sensor,5,13,0,0,Alta
+2,Iluminação pública,2,App,5,1,1,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,3,0,0,Media
+1,Lixo e descarte irregular,5,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,5,App,5,1,0,1,Baixa
+3,Buraco na via,5,App,10,40,2,1,Alta
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+4,Calçada danificada,1,App,15,2,2,1,Media
+3,Buraco na via,4,App,10,12,3,1,Alta
+4,Calçada danificada,5,App,15,26,1,1,Media
+2,Iluminação pública,3,App,5,6,2,1,Alta
+2,Iluminação pública,3,App,5,2,2,1,Baixa
+3,Buraco na via,5,App,10,6,2,1,Media
+5,Árvore e poda,1,App,7,2,1,1,Media
+2,Iluminação pública,5,App,5,1,4,1,Media
+2,Iluminação pública,3,Sensor,5,4,0,0,Media
+3,Buraco na via,4,App,10,5,2,1,Media
+3,Buraco na via,1,App,10,1,2,1,Alta
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,2,App,5,1,3,1,Media
+2,Iluminação pública,3,Sensor,5,4,0,0,Media
+5,Árvore e poda,3,App,7,5,2,1,Alta
+2,Iluminação pública,5,Sensor,5,2,0,0,Baixa
+2,Iluminação pública,4,App,5,3,2,1,Media
+5,Árvore e poda,3,App,7,5,2,1,Alta
+2,Iluminação pública,3,Sensor,5,7,0,0,Alta
+1,Lixo e descarte irregular,2,App,3,1,2,1,Baixa
+1,Lixo e descarte irregular,4,App,3,1,1,1,Media
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,7,0,0,Media
+2,Iluminação pública,4,App,5,1,2,1,Media
+4,Calçada danificada,2,App,15,8,0,1,Baixa
+3,Buraco na via,3,App,10,5,2,0,Media
+1,Lixo e descarte irregular,3,Terminal,3,1,0,0,Baixa
+3,Buraco na via,4,App,10,2,1,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,1,1,0,Baixa
+5,Árvore e poda,2,App,7,2,2,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,2,1,0,Baixa
+3,Buraco na via,3,App,10,15,1,0,Media
+2,Iluminação pública,2,App,5,4,2,1,Baixa
+3,Buraco na via,1,App,10,7,1,1,Baixa
+2,Iluminação pública,3,Sensor,5,4,0,0,Media
+3,Buraco na via,5,App,10,8,0,1,Media
+1,Lixo e descarte irregular,1,App,3,2,0,1,Baixa
+5,Árvore e poda,4,App,7,9,4,0,Alta
+2,Iluminação pública,5,App,5,2,1,1,Baixa
+3,Buraco na via,5,App,10,2,5,0,Alta
+4,Calçada danificada,5,App,15,6,0,1,Baixa
+5,Árvore e poda,2,Terminal,7,2,0,0,Media
+1,Lixo e descarte irregular,1,Sensor,3,8,0,0,Alta
+1,Lixo e descarte irregular,5,Sensor,3,4,1,0,Alta
+1,Lixo e descarte irregular,4,App,3,2,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,1,2,1,Media
+3,Buraco na via,5,App,10,13,2,1,Alta
+5,Árvore e poda,2,Terminal,7,5,1,0,Media
+5,Árvore e poda,4,App,7,3,0,1,Media
+2,Iluminação pública,5,App,5,3,3,0,Media
+3,Buraco na via,4,App,10,5,3,1,Media
+4,Calçada danificada,4,App,15,14,1,0,Media
+5,Árvore e poda,1,App,7,1,3,0,Alta
+1,Lixo e descarte irregular,5,Sensor,3,2,1,0,Media
+2,Iluminação pública,3,App,5,2,0,0,Baixa
+4,Calçada danificada,4,App,15,20,2,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,5,0,0,Alta
+2,Iluminação pública,2,Sensor,5,9,0,0,Alta
+5,Árvore e poda,4,App,7,21,2,0,Alta
+5,Árvore e poda,2,App,7,13,3,0,Alta
+5,Árvore e poda,2,App,7,9,3,0,Alta
+4,Calçada danificada,5,App,15,3,1,1,Baixa
+1,Lixo e descarte irregular,4,App,3,0,1,0,Baixa
+2,Iluminação pública,3,App,5,7,4,1,Alta
+3,Buraco na via,1,App,10,3,1,0,Baixa
+3,Buraco na via,4,App,10,45,1,1,Alta
+2,Iluminação pública,4,Sensor,5,0,0,0,Baixa
+3,Buraco na via,1,App,10,13,2,0,Alta
+2,Iluminação pública,4,Sensor,5,4,2,0,Media
+3,Buraco na via,2,App,10,1,2,0,Baixa
+2,Iluminação pública,4,Sensor,5,4,0,0,Media
+2,Iluminação pública,5,Terminal,5,1,2,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Baixa
+4,Calçada danificada,1,App,15,5,2,1,Media
+2,Iluminação pública,2,Terminal,5,2,4,0,Alta
+1,Lixo e descarte irregular,1,App,3,0,1,1,Baixa
+3,Buraco na via,1,App,10,0,2,1,Baixa
+3,Buraco na via,2,App,10,7,2,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,5,0,0,Media
+1,Lixo e descarte irregular,2,App,3,1,0,1,Baixa
+1,Lixo e descarte irregular,1,App,3,7,4,1,Alta
+3,Buraco na via,1,App,10,30,5,1,Alta
+1,Lixo e descarte irregular,5,Sensor,3,1,1,0,Media
+1,Lixo e descarte irregular,4,Terminal,3,1,3,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,1,2,0,Baixa
+3,Buraco na via,3,App,10,2,2,0,Media
+1,Lixo e descarte irregular,2,App,3,1,1,0,Baixa
+4,Calçada danificada,3,App,15,7,2,1,Media
+1,Lixo e descarte irregular,4,Terminal,3,2,2,0,Media
+3,Buraco na via,3,App,10,7,2,1,Baixa
+2,Iluminação pública,4,Sensor,5,1,0,0,Baixa
+2,Iluminação pública,3,Terminal,5,5,6,0,Alta
+1,Lixo e descarte irregular,2,App,3,1,3,1,Baixa
+4,Calçada danificada,5,App,15,3,2,1,Media
+4,Calçada danificada,5,App,15,8,4,1,Media
+1,Lixo e descarte irregular,2,App,3,2,2,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,6,0,0,Alta
+5,Árvore e poda,4,App,7,13,2,1,Alta
+3,Buraco na via,2,Terminal,10,4,1,0,Baixa
+1,Lixo e descarte irregular,4,App,3,1,1,1,Baixa
+1,Lixo e descarte irregular,5,App,3,0,3,1,Baixa
+3,Buraco na via,2,App,10,9,1,0,Media
+3,Buraco na via,1,App,10,4,2,0,Media
+3,Buraco na via,5,Terminal,10,5,0,0,Baixa
+5,Árvore e poda,5,App,7,10,1,1,Alta
+2,Iluminação pública,5,App,5,1,1,1,Baixa
+1,Lixo e descarte irregular,4,App,3,5,2,0,Media
+2,Iluminação pública,1,App,5,4,0,1,Media
+2,Iluminação pública,5,Terminal,5,9,1,0,Media
+1,Lixo e descarte irregular,1,App,3,3,1,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,4,0,0,Alta
+2,Iluminação pública,4,Sensor,5,3,0,0,Baixa
+3,Buraco na via,2,App,10,2,1,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,5,App,5,1,1,0,Baixa
+3,Buraco na via,5,App,10,0,1,0,Baixa
+3,Buraco na via,5,App,10,15,2,1,Alta
+4,Calçada danificada,3,App,15,9,1,1,Baixa
+4,Calçada danificada,5,App,15,4,0,1,Baixa
+3,Buraco na via,5,App,10,29,1,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,11,0,0,Alta
+2,Iluminação pública,3,Sensor,5,0,1,0,Baixa
+3,Buraco na via,4,App,10,5,4,0,Media
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,0,0,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,4,1,0,Alta
+2,Iluminação pública,2,App,5,0,0,1,Baixa
+2,Iluminação pública,4,App,5,11,3,0,Alta
+1,Lixo e descarte irregular,3,Terminal,3,2,4,0,Media
+4,Calçada danificada,2,App,15,41,2,1,Alta
+5,Árvore e poda,4,App,7,4,2,1,Alta
+1,Lixo e descarte irregular,4,App,3,1,0,1,Baixa
+5,Árvore e poda,3,App,7,11,3,1,Alta
+1,Lixo e descarte irregular,4,Sensor,3,8,0,0,Alta
+5,Árvore e poda,2,App,7,16,6,1,Alta
+5,Árvore e poda,1,App,7,0,3,1,Alta
+1,Lixo e descarte irregular,5,App,3,5,1,1,Alta
+4,Calçada danificada,4,App,15,7,0,0,Baixa
+5,Árvore e poda,5,Terminal,7,4,0,0,Media
+5,Árvore e poda,5,App,7,3,2,1,Media
+5,Árvore e poda,2,App,7,2,1,0,Baixa
+3,Buraco na via,3,Terminal,10,5,3,0,Media
+1,Lixo e descarte irregular,5,Sensor,3,0,0,0,Baixa
+4,Calçada danificada,1,App,15,29,0,1,Baixa
+3,Buraco na via,5,App,10,12,3,0,Media
+3,Buraco na via,1,App,10,8,0,1,Media
+2,Iluminação pública,2,Sensor,5,2,0,0,Baixa
+3,Buraco na via,3,App,10,4,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,3,2,0,Media
+3,Buraco na via,2,App,10,8,0,0,Media
+1,Lixo e descarte irregular,5,App,3,5,2,0,Alta
+3,Buraco na via,4,App,10,4,2,1,Media
+4,Calçada danificada,4,App,15,5,0,1,Baixa
+2,Iluminação pública,4,Sensor,5,6,0,0,Alta
+2,Iluminação pública,1,Sensor,5,7,0,0,Alta
+1,Lixo e descarte irregular,5,App,3,10,4,1,Alta
+5,Árvore e poda,4,App,7,0,3,0,Alta
+3,Buraco na via,1,App,10,20,4,1,Alta
+2,Iluminação pública,4,Sensor,5,3,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,1,2,1,Baixa
+1,Lixo e descarte irregular,4,App,3,3,3,0,Baixa
+2,Iluminação pública,3,App,5,5,1,0,Baixa
+5,Árvore e poda,1,App,7,3,1,1,Media
+3,Buraco na via,2,App,10,1,1,1,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,6,1,0,Media
+4,Calçada danificada,5,Terminal,15,5,3,0,Media
+2,Iluminação pública,5,App,5,1,1,1,Baixa
+4,Calçada danificada,5,App,15,5,0,1,Baixa
+1,Lixo e descarte irregular,3,App,3,4,2,1,Media
+3,Buraco na via,2,App,10,5,3,1,Alta
+5,Árvore e poda,5,App,7,2,4,0,Alta
+1,Lixo e descarte irregular,2,App,3,2,4,1,Media
+3,Buraco na via,3,App,10,8,0,0,Media
+5,Árvore e poda,1,Terminal,7,2,2,0,Alta
+1,Lixo e descarte irregular,5,App,3,0,1,1,Baixa
+1,Lixo e descarte irregular,1,App,3,4,3,0,Media
+3,Buraco na via,1,Terminal,10,8,0,0,Media
+2,Iluminação pública,5,Sensor,5,0,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,6,1,1,Baixa
+2,Iluminação pública,5,Sensor,5,0,0,0,Baixa
+3,Buraco na via,5,App,10,3,0,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,2,App,5,2,2,0,Media
+4,Calçada danificada,4,App,15,6,1,1,Baixa
+2,Iluminação pública,2,App,5,0,5,1,Media
+4,Calçada danificada,4,App,15,12,2,1,Media
+2,Iluminação pública,5,App,5,7,0,0,Media
+5,Árvore e poda,5,App,7,5,2,1,Alta
+3,Buraco na via,4,App,10,9,1,1,Media
+1,Lixo e descarte irregular,4,App,3,1,2,0,Baixa
+4,Calçada danificada,3,App,15,11,5,1,Media
+2,Iluminação pública,1,App,5,4,2,1,Media
+1,Lixo e descarte irregular,3,App,3,3,0,1,Media
+1,Lixo e descarte irregular,5,App,3,1,1,1,Baixa
+3,Buraco na via,5,App,10,3,2,1,Media
+1,Lixo e descarte irregular,2,App,3,0,1,1,Baixa
+1,Lixo e descarte irregular,4,App,3,8,1,0,Media
+1,Lixo e descarte irregular,2,App,3,7,2,0,Media
+2,Iluminação pública,3,App,5,3,3,0,Media
+2,Iluminação pública,4,Sensor,5,3,1,0,Baixa
+2,Iluminação pública,3,Sensor,5,10,0,0,Alta
+1,Lixo e descarte irregular,4,App,3,0,1,1,Baixa
+1,Lixo e descarte irregular,1,App,3,0,2,1,Baixa
+3,Buraco na via,2,App,10,22,1,1,Media
+2,Iluminação pública,5,App,5,2,1,1,Baixa
+3,Buraco na via,4,Terminal,10,2,2,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,3,0,0,Baixa
+1,Lixo e descarte irregular,5,Terminal,3,1,1,0,Baixa
+1,Lixo e descarte irregular,2,App,3,5,3,0,Media
+2,Iluminação pública,2,Sensor,5,3,0,0,Baixa
+2,Iluminação pública,2,App,5,1,1,0,Baixa
+4,Calçada danificada,3,App,15,6,1,1,Baixa
+2,Iluminação pública,2,App,5,4,2,1,Media
+2,Iluminação pública,2,App,5,2,0,1,Baixa
+3,Buraco na via,1,App,10,5,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,3,3,0,Media
+2,Iluminação pública,5,Terminal,5,10,5,0,Alta
+2,Iluminação pública,3,App,5,5,2,0,Media
+2,Iluminação pública,4,Sensor,5,1,1,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+4,Calçada danificada,3,App,15,18,2,1,Media
+5,Árvore e poda,4,Terminal,7,8,5,0,Alta
+1,Lixo e descarte irregular,1,App,3,1,2,0,Baixa
+3,Buraco na via,2,Terminal,10,5,2,0,Media
+4,Calçada danificada,1,App,15,5,2,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,0,0,0,Baixa
+4,Calçada danificada,4,App,15,5,1,1,Baixa
+3,Buraco na via,1,App,10,0,0,0,Baixa
+5,Árvore e poda,2,App,7,12,1,1,Alta
+5,Árvore e poda,3,App,7,1,1,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+2,Iluminação pública,1,App,5,0,1,0,Baixa
+3,Buraco na via,5,Terminal,10,11,1,1,Media
+1,Lixo e descarte irregular,5,App,3,4,0,1,Media
+2,Iluminação pública,3,Terminal,5,3,0,0,Media
+5,Árvore e poda,3,App,7,4,2,0,Alta
+1,Lixo e descarte irregular,5,App,3,1,2,1,Baixa
+2,Iluminação pública,5,App,5,8,5,0,Alta
+4,Calçada danificada,1,App,15,1,0,1,Baixa
+2,Iluminação pública,1,App,5,2,3,0,Media
+2,Iluminação pública,2,App,5,1,0,1,Baixa
+5,Árvore e poda,2,App,7,2,0,0,Baixa
+2,Iluminação pública,5,Sensor,5,8,0,0,Alta
+1,Lixo e descarte irregular,3,App,3,1,1,1,Baixa
+1,Lixo e descarte irregular,5,App,3,1,3,1,Baixa
+5,Árvore e poda,4,App,7,6,3,0,Alta
+1,Lixo e descarte irregular,4,Sensor,3,2,0,0,Media
+2,Iluminação pública,5,App,5,6,0,1,Media
+1,Lixo e descarte irregular,3,App,3,2,3,0,Baixa
+2,Iluminação pública,4,Terminal,5,3,1,0,Media
+5,Árvore e poda,2,App,7,4,3,1,Alta
+2,Iluminação pública,2,Sensor,5,4,0,0,Baixa
+5,Árvore e poda,3,App,7,1,0,1,Media
+1,Lixo e descarte irregular,5,Sensor,3,2,0,0,Media
+2,Iluminação pública,1,App,5,10,1,0,Media
+4,Calçada danificada,3,App,15,11,3,1,Media
+2,Iluminação pública,2,App,5,2,0,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Media
+4,Calçada danificada,3,App,15,13,2,1,Media
+2,Iluminação pública,1,Terminal,5,3,1,0,Baixa
+2,Iluminação pública,1,App,5,5,2,1,Media
+5,Árvore e poda,4,App,7,2,1,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,3,2,1,Media
+1,Lixo e descarte irregular,1,App,3,4,1,0,Media
+2,Iluminação pública,1,Sensor,5,7,0,0,Alta
+1,Lixo e descarte irregular,2,App,3,3,1,1,Media
+3,Buraco na via,4,App,10,12,3,1,Alta
+1,Lixo e descarte irregular,5,App,3,2,2,0,Baixa
+3,Buraco na via,3,Terminal,10,1,3,0,Media
+1,Lixo e descarte irregular,5,App,3,0,0,1,Baixa
+2,Iluminação pública,4,App,5,3,3,1,Media
+2,Iluminação pública,1,Sensor,5,3,0,0,Baixa
+3,Buraco na via,4,Terminal,10,3,3,0,Media
+2,Iluminação pública,2,Sensor,5,1,0,0,Baixa
+2,Iluminação pública,5,Sensor,5,3,0,0,Media
+4,Calçada danificada,5,App,15,46,2,1,Alta
+3,Buraco na via,1,App,10,2,3,1,Media
+1,Lixo e descarte irregular,1,App,3,1,0,0,Baixa
+5,Árvore e poda,3,Terminal,7,9,2,0,Alta
+2,Iluminação pública,4,App,5,5,2,1,Media
+1,Lixo e descarte irregular,3,Sensor,3,2,1,0,Media
+2,Iluminação pública,1,App,5,0,1,1,Baixa
+1,Lixo e descarte irregular,4,Terminal,3,1,2,0,Media
+1,Lixo e descarte irregular,4,Terminal,3,7,4,0,Alta
+3,Buraco na via,5,App,10,3,2,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,0,1,0,Baixa
+4,Calçada danificada,1,App,15,31,2,1,Alta
+5,Árvore e poda,4,App,7,4,1,1,Media
+3,Buraco na via,4,Terminal,10,0,3,0,Baixa
+3,Buraco na via,3,App,10,2,2,1,Media
+3,Buraco na via,4,App,10,3,2,1,Alta
+5,Árvore e poda,1,App,7,5,0,0,Baixa
+2,Iluminação pública,1,App,5,2,0,0,Media
+1,Lixo e descarte irregular,3,Terminal,3,0,1,0,Baixa
+2,Iluminação pública,5,Sensor,5,2,0,0,Baixa
+2,Iluminação pública,3,Sensor,5,1,0,0,Media
+1,Lixo e descarte irregular,4,App,3,7,0,1,Alta
+3,Buraco na via,5,Terminal,10,2,1,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+5,Árvore e poda,3,Terminal,7,2,6,0,Alta
+1,Lixo e descarte irregular,4,App,3,1,2,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,0,1,0,Baixa
+1,Lixo e descarte irregular,3,App,3,5,1,0,Media
+1,Lixo e descarte irregular,3,App,3,9,3,0,Alta
+1,Lixo e descarte irregular,2,App,3,2,3,1,Media
+1,Lixo e descarte irregular,2,App,3,2,1,1,Media
+1,Lixo e descarte irregular,3,App,3,0,0,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,5,0,0,Alta
+2,Iluminação pública,3,App,5,1,3,1,Media
+2,Iluminação pública,5,App,5,0,3,1,Media
+2,Iluminação pública,4,App,5,5,1,1,Media
+2,Iluminação pública,1,App,5,7,2,1,Alta
+1,Lixo e descarte irregular,5,Terminal,3,5,6,0,Alta
+1,Lixo e descarte irregular,3,Terminal,3,1,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,1,2,1,Baixa
+3,Buraco na via,4,App,10,8,3,0,Media
+5,Árvore e poda,1,App,7,3,2,1,Alta
+5,Árvore e poda,2,App,7,7,1,0,Media
+2,Iluminação pública,4,Sensor,5,4,1,0,Media
+2,Iluminação pública,4,App,5,1,5,1,Media
+1,Lixo e descarte irregular,2,App,3,5,0,0,Baixa
+4,Calçada danificada,3,App,15,16,1,1,Baixa
+4,Calçada danificada,4,App,15,23,3,1,Alta
+4,Calçada danificada,3,Terminal,15,4,0,0,Baixa
+4,Calçada danificada,3,App,15,16,1,1,Media
+2,Iluminação pública,3,Sensor,5,6,0,0,Media
+4,Calçada danificada,2,App,15,11,0,0,Baixa
+4,Calçada danificada,3,Terminal,15,3,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,2,0,1,Baixa
+5,Árvore e poda,4,Terminal,7,8,0,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,4,0,0,Alta
+5,Árvore e poda,3,App,7,0,0,1,Media
+4,Calçada danificada,4,Terminal,15,11,0,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,0,1,0,Baixa
+3,Buraco na via,2,App,10,12,1,0,Media
+1,Lixo e descarte irregular,3,App,3,4,2,1,Alta
+4,Calçada danificada,4,App,15,3,0,1,Baixa
+4,Calçada danificada,4,App,15,3,1,1,Baixa
+3,Buraco na via,3,App,10,3,1,1,Baixa
+4,Calçada danificada,2,App,15,8,3,0,Media
+1,Lixo e descarte irregular,5,App,3,1,1,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,3,1,0,Media
+2,Iluminação pública,3,Sensor,5,8,0,0,Alta
+1,Lixo e descarte irregular,3,Sensor,3,2,0,0,Baixa
+2,Iluminação pública,4,Terminal,5,1,2,0,Baixa
+1,Lixo e descarte irregular,2,Terminal,3,1,0,0,Baixa
+2,Iluminação pública,5,Sensor,5,3,1,0,Media
+2,Iluminação pública,1,Sensor,5,2,0,0,Media
+4,Calçada danificada,1,App,15,9,2,1,Media
+1,Lixo e descarte irregular,3,App,3,4,1,1,Media
+4,Calçada danificada,5,App,15,4,0,1,Baixa
+2,Iluminação pública,1,App,5,13,4,1,Alta
+2,Iluminação pública,4,Sensor,5,3,0,0,Baixa
+2,Iluminação pública,2,App,5,2,2,1,Baixa
+2,Iluminação pública,1,App,5,1,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,1,1,1,Baixa
+2,Iluminação pública,4,Terminal,5,3,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,2,1,1,Baixa
+2,Iluminação pública,5,Sensor,5,2,0,0,Baixa
+3,Buraco na via,5,App,10,1,1,0,Baixa
+2,Iluminação pública,1,App,5,3,5,0,Media
+4,Calçada danificada,5,App,15,5,0,1,Baixa
+1,Lixo e descarte irregular,1,App,3,0,2,1,Baixa
+5,Árvore e poda,5,App,7,7,6,1,Alta
+4,Calçada danificada,4,App,15,1,1,1,Baixa
+5,Árvore e poda,5,App,7,3,0,1,Baixa
+4,Calçada danificada,1,App,15,9,3,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,5,0,0,Alta
+2,Iluminação pública,5,App,5,0,1,0,Baixa
+1,Lixo e descarte irregular,2,Terminal,3,3,2,0,Media
+4,Calçada danificada,2,App,15,20,1,1,Baixa
+3,Buraco na via,2,App,10,22,4,1,Alta
+1,Lixo e descarte irregular,1,Terminal,3,4,0,0,Baixa
+5,Árvore e poda,1,App,7,4,3,0,Alta
+1,Lixo e descarte irregular,1,App,3,3,2,1,Media
+3,Buraco na via,5,App,10,18,6,1,Alta
+3,Buraco na via,1,App,10,0,1,1,Media
+1,Lixo e descarte irregular,5,App,3,0,1,1,Baixa
+3,Buraco na via,2,Terminal,10,8,1,0,Media
+4,Calçada danificada,4,Terminal,15,20,2,0,Media
+1,Lixo e descarte irregular,2,App,3,3,2,1,Media
+2,Iluminação pública,5,Sensor,5,4,0,0,Media
+1,Lixo e descarte irregular,1,App,3,6,4,1,Alta
+3,Buraco na via,4,App,10,5,1,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,1,1,0,Baixa
+5,Árvore e poda,3,App,7,2,4,1,Alta
+4,Calçada danificada,3,App,15,12,2,1,Media
+1,Lixo e descarte irregular,1,App,3,1,0,1,Baixa
+2,Iluminação pública,5,Sensor,5,7,0,0,Alta
+3,Buraco na via,5,App,10,3,2,1,Media
+3,Buraco na via,3,App,10,9,6,1,Alta
+2,Iluminação pública,4,Sensor,5,6,0,0,Alta
+1,Lixo e descarte irregular,4,App,3,5,2,1,Media
+1,Lixo e descarte irregular,2,App,3,0,1,1,Baixa
+5,Árvore e poda,1,App,7,2,2,1,Alta
+2,Iluminação pública,1,App,5,2,3,1,Alta
+4,Calçada danificada,5,Terminal,15,2,0,0,Baixa
+2,Iluminação pública,4,Terminal,5,4,1,0,Baixa
+5,Árvore e poda,1,App,7,6,2,1,Alta
+1,Lixo e descarte irregular,5,Sensor,3,2,1,0,Baixa
+1,Lixo e descarte irregular,5,App,3,1,1,1,Baixa
+5,Árvore e poda,3,App,7,11,2,0,Alta
+5,Árvore e poda,3,App,7,2,3,0,Alta
+1,Lixo e descarte irregular,5,App,3,4,2,1,Media
+2,Iluminação pública,5,Sensor,5,2,0,0,Media
+2,Iluminação pública,2,App,5,0,0,0,Baixa
+2,Iluminação pública,3,Sensor,5,3,0,0,Media
+1,Lixo e descarte irregular,5,App,3,2,2,1,Baixa
+4,Calçada danificada,5,App,15,14,0,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,0,0,0,Baixa
+3,Buraco na via,4,App,10,4,0,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,7,0,0,Alta
+1,Lixo e descarte irregular,2,App,3,1,0,0,Baixa
+3,Buraco na via,5,App,10,13,3,1,Alta
+2,Iluminação pública,2,Sensor,5,23,1,0,Alta
+3,Buraco na via,5,Terminal,10,29,2,0,Alta
+1,Lixo e descarte irregular,5,App,3,0,2,0,Baixa
+5,Árvore e poda,2,App,7,9,1,1,Alta
+3,Buraco na via,5,App,10,13,1,1,Alta
+4,Calçada danificada,5,App,15,17,0,0,Baixa
+1,Lixo e descarte irregular,3,App,3,0,1,1,Baixa
+2,Iluminação pública,3,App,5,4,3,1,Media
+2,Iluminação pública,3,App,5,4,0,1,Baixa
+2,Iluminação pública,1,App,5,0,1,1,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,2,1,1,Media
+2,Iluminação pública,3,App,5,3,1,0,Baixa
+1,Lixo e descarte irregular,3,App,3,3,0,1,Baixa
+2,Iluminação pública,3,App,5,2,1,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,2,1,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,4,0,0,Media
+3,Buraco na via,3,App,10,24,3,1,Alta
+2,Iluminação pública,2,App,5,0,2,0,Baixa
+2,Iluminação pública,1,Sensor,5,5,0,0,Baixa
+2,Iluminação pública,5,App,5,2,4,1,Alta
+4,Calçada danificada,1,App,15,14,1,0,Baixa
+2,Iluminação pública,3,App,5,0,0,1,Baixa
+3,Buraco na via,4,App,10,17,2,0,Alta
+5,Árvore e poda,1,App,7,2,3,1,Alta
+2,Iluminação pública,2,Sensor,5,7,0,0,Alta
+5,Árvore e poda,4,App,7,1,3,0,Alta
+4,Calçada danificada,4,App,15,1,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,1,1,1,Baixa
+2,Iluminação pública,3,App,5,4,0,0,Media
+3,Buraco na via,4,App,10,31,1,1,Alta
+5,Árvore e poda,2,App,7,5,3,1,Alta
+2,Iluminação pública,3,App,5,1,2,1,Media
+1,Lixo e descarte irregular,2,Terminal,3,3,1,0,Media
+3,Buraco na via,5,App,10,19,3,1,Media
+1,Lixo e descarte irregular,2,App,3,0,2,1,Baixa
+3,Buraco na via,5,App,10,14,1,1,Alta
+2,Iluminação pública,5,Sensor,5,8,0,0,Alta
+3,Buraco na via,1,Terminal,10,13,4,0,Media
+4,Calçada danificada,5,App,15,5,0,0,Baixa
+3,Buraco na via,1,Terminal,10,8,1,0,Media
+3,Buraco na via,2,Terminal,10,9,3,0,Media
+3,Buraco na via,1,Terminal,10,16,0,0,Alta
+4,Calçada danificada,1,Terminal,15,5,3,0,Media
+4,Calçada danificada,3,App,15,21,1,1,Media
+1,Lixo e descarte irregular,4,App,3,1,1,0,Baixa
+3,Buraco na via,3,App,10,4,1,0,Baixa
+1,Lixo e descarte irregular,3,App,3,2,0,1,Baixa
+4,Calçada danificada,4,App,15,0,0,0,Baixa
+3,Buraco na via,3,App,10,0,2,0,Baixa
+2,Iluminação pública,3,Terminal,5,0,2,0,Baixa
+1,Lixo e descarte irregular,3,App,3,2,0,1,Baixa
+2,Iluminação pública,2,Terminal,5,2,1,0,Media
+3,Buraco na via,4,App,10,3,2,1,Media
+1,Lixo e descarte irregular,5,Sensor,3,1,2,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,4,0,0,Media
+4,Calçada danificada,3,App,15,9,1,1,Media
+4,Calçada danificada,5,App,15,3,0,1,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,10,0,0,Media
+1,Lixo e descarte irregular,3,Sensor,3,2,1,0,Baixa
+5,Árvore e poda,2,App,7,12,3,1,Alta
+3,Buraco na via,2,App,10,13,1,1,Media
+3,Buraco na via,3,Terminal,10,4,1,0,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,7,0,0,Alta
+1,Lixo e descarte irregular,1,App,3,1,1,1,Baixa
+1,Lixo e descarte irregular,2,App,3,2,2,1,Media
+3,Buraco na via,5,Terminal,10,8,1,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,6,0,0,Alta
+3,Buraco na via,1,App,10,7,2,1,Media
+5,Árvore e poda,3,App,7,5,1,1,Media
+3,Buraco na via,4,App,10,8,2,1,Media
+2,Iluminação pública,4,Sensor,5,15,0,0,Alta
+2,Iluminação pública,3,App,5,8,3,1,Alta
+2,Iluminação pública,4,App,5,0,1,1,Baixa
+2,Iluminação pública,3,Sensor,5,2,0,0,Baixa
+2,Iluminação pública,4,Terminal,5,3,4,0,Media
+2,Iluminação pública,1,App,5,10,2,1,Alta
+3,Buraco na via,1,App,10,22,2,0,Alta
+4,Calçada danificada,1,App,15,10,2,0,Media
+5,Árvore e poda,3,App,7,2,0,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,2,Sensor,5,3,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,5,Sensor,5,9,0,0,Alta
+1,Lixo e descarte irregular,2,App,3,1,1,1,Baixa
+1,Lixo e descarte irregular,3,App,3,0,2,1,Baixa
+4,Calçada danificada,3,Terminal,15,8,1,0,Media
+2,Iluminação pública,4,Sensor,5,4,0,0,Baixa
+5,Árvore e poda,4,App,7,12,4,1,Alta
+1,Lixo e descarte irregular,5,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,2,1,1,Baixa
+2,Iluminação pública,5,Sensor,5,4,0,0,Media
+1,Lixo e descarte irregular,4,App,3,3,1,1,Media
+1,Lixo e descarte irregular,3,App,3,1,1,0,Baixa
+5,Árvore e poda,3,App,7,7,7,1,Alta
+1,Lixo e descarte irregular,3,App,3,3,1,1,Media
+1,Lixo e descarte irregular,2,Terminal,3,1,3,0,Baixa
+3,Buraco na via,2,App,10,8,3,1,Media
+2,Iluminação pública,4,App,5,3,0,1,Media
+3,Buraco na via,4,App,10,3,2,1,Alta
+2,Iluminação pública,1,App,5,0,0,1,Baixa
+4,Calçada danificada,5,App,15,5,0,1,Baixa
+1,Lixo e descarte irregular,4,App,3,1,2,0,Baixa
+2,Iluminação pública,3,Sensor,5,0,0,0,Media
+3,Buraco na via,3,App,10,10,1,0,Baixa
+4,Calçada danificada,3,App,15,20,4,0,Media
+2,Iluminação pública,3,Sensor,5,2,0,0,Baixa
+3,Buraco na via,3,Terminal,10,6,4,1,Alta
+1,Lixo e descarte irregular,5,App,3,1,1,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,3,3,1,Media
+3,Buraco na via,2,Terminal,10,9,1,0,Media
+1,Lixo e descarte irregular,1,App,3,1,1,1,Baixa
+3,Buraco na via,1,App,10,4,3,1,Baixa
+1,Lixo e descarte irregular,5,App,3,3,2,1,Baixa
+4,Calçada danificada,4,App,15,6,0,1,Baixa
+4,Calçada danificada,2,App,15,2,1,1,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,4,Terminal,3,2,1,0,Baixa
+4,Calçada danificada,2,App,15,14,2,1,Media
+1,Lixo e descarte irregular,1,App,3,1,1,1,Media
+3,Buraco na via,3,App,10,4,0,1,Media
+2,Iluminação pública,3,Terminal,5,7,3,0,Alta
+4,Calçada danificada,3,Terminal,15,43,6,0,Alta
+2,Iluminação pública,1,App,5,3,4,1,Alta
+2,Iluminação pública,5,Sensor,5,1,0,0,Baixa
+5,Árvore e poda,4,App,7,6,3,0,Alta
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+4,Calçada danificada,5,App,15,13,2,0,Media
+1,Lixo e descarte irregular,3,App,3,2,0,1,Baixa
+2,Iluminação pública,3,App,5,4,2,0,Alta
+4,Calçada danificada,4,Terminal,15,0,0,0,Baixa
+3,Buraco na via,4,Terminal,10,4,1,0,Baixa
+3,Buraco na via,5,Terminal,10,4,0,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,1,App,5,5,3,0,Media
+2,Iluminação pública,2,Sensor,5,1,0,0,Media
+2,Iluminação pública,3,Sensor,5,0,1,0,Baixa
+2,Iluminação pública,3,App,5,1,0,1,Baixa
+2,Iluminação pública,1,Terminal,5,1,3,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,2,1,0,Media
+1,Lixo e descarte irregular,2,App,3,0,0,1,Baixa
+2,Iluminação pública,1,App,5,2,3,1,Alta
+1,Lixo e descarte irregular,4,App,3,1,0,1,Baixa
+4,Calçada danificada,2,App,15,26,3,1,Alta
+3,Buraco na via,4,App,10,3,2,1,Media
+1,Lixo e descarte irregular,5,App,3,3,1,0,Media
+3,Buraco na via,5,Terminal,10,6,0,0,Media
+4,Calçada danificada,5,App,15,21,1,1,Media
+1,Lixo e descarte irregular,3,App,3,6,1,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,0,0,0,Baixa
+4,Calçada danificada,1,App,15,2,2,1,Baixa
+5,Árvore e poda,2,App,7,3,1,0,Media
+1,Lixo e descarte irregular,2,App,3,1,3,1,Media
+3,Buraco na via,2,App,10,8,1,0,Baixa
+1,Lixo e descarte irregular,2,Terminal,3,4,2,0,Media
+3,Buraco na via,2,App,10,0,0,0,Baixa
+3,Buraco na via,3,App,10,6,3,1,Media
+2,Iluminação pública,5,Terminal,5,1,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,2,1,1,Baixa
+3,Buraco na via,4,App,10,4,5,1,Media
+5,Árvore e poda,1,App,7,8,4,1,Alta
+1,Lixo e descarte irregular,1,App,3,0,3,1,Baixa
+1,Lixo e descarte irregular,1,App,3,1,3,0,Baixa
+1,Lixo e descarte irregular,5,App,3,1,4,0,Baixa
+3,Buraco na via,1,App,10,4,1,0,Baixa
+3,Buraco na via,5,App,10,5,1,1,Baixa
+4,Calçada danificada,4,App,15,1,0,1,Baixa
+3,Buraco na via,5,App,10,19,1,1,Alta
+4,Calçada danificada,2,App,15,6,0,1,Baixa
+4,Calçada danificada,1,App,15,3,1,1,Baixa
+1,Lixo e descarte irregular,1,App,3,1,0,0,Baixa
+3,Buraco na via,5,App,10,6,0,1,Baixa
+1,Lixo e descarte irregular,3,App,3,7,1,1,Media
+2,Iluminação pública,3,App,5,7,3,1,Alta
+5,Árvore e poda,2,App,7,3,0,1,Media
+3,Buraco na via,2,App,10,22,3,1,Alta
+5,Árvore e poda,2,App,7,13,2,1,Alta
+2,Iluminação pública,4,App,5,1,2,1,Media
+2,Iluminação pública,5,Sensor,5,15,0,0,Alta
+2,Iluminação pública,3,Sensor,5,2,0,0,Media
+1,Lixo e descarte irregular,2,App,3,2,2,0,Media
+1,Lixo e descarte irregular,3,App,3,5,4,1,Alta
+2,Iluminação pública,1,Terminal,5,0,1,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,1,0,0,Baixa
+5,Árvore e poda,2,App,7,6,0,0,Media
+1,Lixo e descarte irregular,1,Sensor,3,4,0,0,Media
+1,Lixo e descarte irregular,1,App,3,1,0,1,Baixa
+4,Calçada danificada,2,App,15,1,1,1,Media
+1,Lixo e descarte irregular,5,App,3,7,0,0,Alta
+5,Árvore e poda,1,Terminal,7,4,3,1,Alta
+3,Buraco na via,4,App,10,8,0,1,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,0,1,0,Baixa
+3,Buraco na via,3,App,10,18,3,1,Alta
+3,Buraco na via,4,Terminal,10,4,2,0,Media
+3,Buraco na via,3,App,10,3,2,0,Media
+4,Calçada danificada,4,App,15,23,4,1,Alta
+3,Buraco na via,2,App,10,1,0,0,Baixa
+3,Buraco na via,4,App,10,9,1,0,Media
+2,Iluminação pública,3,App,5,1,0,1,Media
+3,Buraco na via,3,App,10,9,1,0,Baixa
+5,Árvore e poda,2,App,7,8,0,0,Media
+3,Buraco na via,5,Terminal,10,4,2,0,Media
+3,Buraco na via,5,App,10,18,2,1,Alta
+2,Iluminação pública,3,Terminal,5,3,3,0,Media
+3,Buraco na via,4,App,10,26,2,0,Alta
+5,Árvore e poda,5,App,7,11,1,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,2,1,0,Baixa
+2,Iluminação pública,4,App,5,0,0,1,Baixa
+2,Iluminação pública,2,Terminal,5,7,4,0,Alta
+3,Buraco na via,1,App,10,3,2,1,Media
+1,Lixo e descarte irregular,3,Terminal,3,2,2,0,Baixa
+2,Iluminação pública,2,App,5,12,4,1,Alta
+3,Buraco na via,3,App,10,17,2,1,Alta
+3,Buraco na via,1,App,10,2,0,1,Media
+3,Buraco na via,3,App,10,6,3,1,Baixa
+3,Buraco na via,2,App,10,8,3,1,Alta
+3,Buraco na via,3,App,10,19,2,1,Alta
+4,Calçada danificada,2,App,15,26,1,1,Media
+3,Buraco na via,2,Terminal,10,10,2,0,Media
+2,Iluminação pública,5,Sensor,5,5,1,0,Media
+3,Buraco na via,5,App,10,6,3,1,Alta
+1,Lixo e descarte irregular,2,App,3,2,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,1,1,1,Baixa
+2,Iluminação pública,2,App,5,6,3,1,Alta
+4,Calçada danificada,1,App,15,15,5,0,Alta
+3,Buraco na via,1,App,10,15,5,1,Alta
+1,Lixo e descarte irregular,5,App,3,4,1,0,Media
+3,Buraco na via,1,App,10,3,1,1,Baixa
+1,Lixo e descarte irregular,3,App,3,0,1,0,Baixa
+3,Buraco na via,2,App,10,3,1,1,Media
+4,Calçada danificada,4,App,15,12,1,0,Media
+3,Buraco na via,1,App,10,5,1,1,Media
+3,Buraco na via,3,App,10,5,4,1,Media
+2,Iluminação pública,2,App,5,1,2,1,Media
+2,Iluminação pública,3,App,5,4,1,0,Media
+4,Calçada danificada,1,App,15,1,2,1,Media
+3,Buraco na via,1,Terminal,10,10,2,0,Media
+2,Iluminação pública,1,Sensor,5,5,1,0,Media
+2,Iluminação pública,3,Sensor,5,7,0,0,Alta
+1,Lixo e descarte irregular,4,Sensor,3,14,1,0,Alta
+1,Lixo e descarte irregular,5,App,3,0,2,1,Baixa
+1,Lixo e descarte irregular,5,App,3,3,0,1,Baixa
+2,Iluminação pública,4,Sensor,5,6,0,0,Alta
+5,Árvore e poda,1,Terminal,7,2,3,0,Alta
+2,Iluminação pública,4,Sensor,5,2,0,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,3,3,1,Media
+2,Iluminação pública,4,App,5,8,5,0,Alta
+4,Calçada danificada,4,Terminal,15,3,1,0,Baixa
+2,Iluminação pública,3,Terminal,5,4,1,0,Baixa
+4,Calçada danificada,4,Terminal,15,28,2,0,Alta
+4,Calçada danificada,4,App,15,5,2,1,Baixa
+1,Lixo e descarte irregular,1,App,3,0,1,1,Baixa
+3,Buraco na via,3,App,10,2,1,1,Baixa
+5,Árvore e poda,1,App,7,2,1,1,Media
+2,Iluminação pública,5,App,5,12,0,1,Alta
+1,Lixo e descarte irregular,5,App,3,8,3,0,Alta
+5,Árvore e poda,1,App,7,14,5,1,Alta
+4,Calçada danificada,5,Terminal,15,8,3,0,Media
+2,Iluminação pública,3,App,5,10,4,0,Alta
+3,Buraco na via,4,Terminal,10,2,2,0,Baixa
+1,Lixo e descarte irregular,4,App,3,3,1,1,Baixa
+4,Calçada danificada,1,App,15,6,2,1,Media
+2,Iluminação pública,5,Sensor,5,1,0,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,2,0,0,Baixa
+3,Buraco na via,3,App,10,9,2,1,Media
+5,Árvore e poda,4,App,7,7,1,1,Media
+4,Calçada danificada,5,App,15,17,4,1,Alta
+1,Lixo e descarte irregular,4,Terminal,3,2,1,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+5,Árvore e poda,5,App,7,5,1,1,Media
+5,Árvore e poda,4,App,7,9,1,0,Media
+2,Iluminação pública,1,App,5,4,1,1,Media
+3,Buraco na via,5,App,10,4,0,1,Media
+2,Iluminação pública,5,Sensor,5,1,1,0,Media
+2,Iluminação pública,4,App,5,3,2,1,Media
+1,Lixo e descarte irregular,1,App,3,5,2,1,Alta
+1,Lixo e descarte irregular,3,App,3,3,5,1,Media
+1,Lixo e descarte irregular,1,App,3,5,3,1,Alta
+4,Calçada danificada,4,Terminal,15,7,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,2,0,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,2,0,0,Baixa
+3,Buraco na via,1,App,10,13,2,1,Media
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,3,2,0,Baixa
+3,Buraco na via,5,App,10,18,4,1,Alta
+2,Iluminação pública,2,App,5,3,0,0,Media
+3,Buraco na via,4,App,10,3,1,1,Baixa
+5,Árvore e poda,5,App,7,13,6,0,Alta
+1,Lixo e descarte irregular,1,Terminal,3,3,1,0,Baixa
+5,Árvore e poda,2,App,7,1,2,1,Alta
+5,Árvore e poda,2,App,7,4,3,1,Alta
+4,Calçada danificada,3,Terminal,15,40,3,0,Alta
+3,Buraco na via,2,App,10,10,4,1,Media
+3,Buraco na via,2,App,10,7,2,1,Media
+3,Buraco na via,2,Terminal,10,2,2,0,Media
+3,Buraco na via,1,App,10,2,3,0,Baixa
+1,Lixo e descarte irregular,4,App,3,3,0,1,Media
+5,Árvore e poda,4,Terminal,7,2,2,0,Alta
+3,Buraco na via,5,App,10,9,1,1,Baixa
+4,Calçada danificada,3,App,15,9,2,1,Baixa
+2,Iluminação pública,4,App,5,4,3,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,2,Sensor,5,5,0,0,Baixa
+2,Iluminação pública,3,Sensor,5,7,0,0,Alta
+2,Iluminação pública,5,Sensor,5,3,1,0,Media
+2,Iluminação pública,3,Sensor,5,7,0,0,Alta
+1,Lixo e descarte irregular,5,App,3,6,1,1,Media
+2,Iluminação pública,2,Sensor,5,4,0,0,Media
+2,Iluminação pública,4,App,5,6,2,1,Alta
+5,Árvore e poda,2,Terminal,7,1,1,0,Media
+1,Lixo e descarte irregular,2,App,3,1,0,1,Baixa
+1,Lixo e descarte irregular,5,App,3,0,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,1,0,1,Baixa
+3,Buraco na via,3,App,10,6,2,1,Media
+2,Iluminação pública,3,App,5,14,2,1,Alta
+3,Buraco na via,4,App,10,3,3,1,Media
+5,Árvore e poda,1,App,7,4,2,1,Alta
+1,Lixo e descarte irregular,5,App,3,0,1,0,Baixa
+3,Buraco na via,4,Terminal,10,5,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,3,2,1,Media
+1,Lixo e descarte irregular,4,App,3,3,0,1,Media
+2,Iluminação pública,5,Sensor,5,2,0,0,Media
+1,Lixo e descarte irregular,2,App,3,1,1,1,Baixa
+3,Buraco na via,2,Terminal,10,22,0,0,Media
+3,Buraco na via,5,App,10,4,1,1,Media
+3,Buraco na via,2,App,10,0,1,0,Baixa
+2,Iluminação pública,5,Sensor,5,9,0,0,Alta
+3,Buraco na via,5,Terminal,10,0,1,0,Baixa
+2,Iluminação pública,3,App,5,9,1,1,Alta
+1,Lixo e descarte irregular,1,App,3,0,2,1,Media
+1,Lixo e descarte irregular,1,App,3,0,0,1,Baixa
+3,Buraco na via,2,App,10,2,0,1,Baixa
+5,Árvore e poda,1,Terminal,7,3,1,0,Media
+1,Lixo e descarte irregular,4,App,3,5,3,1,Media
+3,Buraco na via,4,App,10,2,0,1,Baixa
+3,Buraco na via,3,App,10,10,0,1,Media
+4,Calçada danificada,5,Terminal,15,13,0,0,Baixa
+3,Buraco na via,1,App,10,7,1,1,Baixa
+3,Buraco na via,3,App,10,15,0,1,Media
+3,Buraco na via,2,Terminal,10,8,0,0,Media
+4,Calçada danificada,1,App,15,13,1,1,Media
+1,Lixo e descarte irregular,3,Terminal,3,3,2,0,Media
+5,Árvore e poda,1,App,7,3,2,1,Alta
+1,Lixo e descarte irregular,1,App,3,2,1,1,Baixa
+4,Calçada danificada,2,App,15,14,1,0,Media
+1,Lixo e descarte irregular,1,App,3,4,4,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,4,App,3,2,1,1,Baixa
+2,Iluminação pública,3,Terminal,5,5,1,0,Baixa
+2,Iluminação pública,4,Sensor,5,3,1,0,Media
+1,Lixo e descarte irregular,1,App,3,1,0,1,Baixa
+2,Iluminação pública,4,App,5,6,2,1,Media
+2,Iluminação pública,3,App,5,4,0,1,Baixa
+4,Calçada danificada,3,App,15,7,3,0,Baixa
+4,Calçada danificada,5,App,15,3,1,1,Baixa
+3,Buraco na via,2,App,10,0,3,1,Media
+1,Lixo e descarte irregular,3,App,3,3,2,1,Media
+1,Lixo e descarte irregular,5,Sensor,3,1,2,0,Baixa
+5,Árvore e poda,1,App,7,0,3,1,Alta
+1,Lixo e descarte irregular,3,Terminal,3,0,0,0,Baixa
+2,Iluminação pública,3,App,5,4,1,0,Media
+5,Árvore e poda,4,App,7,2,1,1,Media
+5,Árvore e poda,5,App,7,6,1,0,Media
+2,Iluminação pública,2,App,5,2,3,0,Media
+3,Buraco na via,1,App,10,7,1,1,Media
+2,Iluminação pública,2,Sensor,5,3,0,0,Baixa
+3,Buraco na via,1,Terminal,10,12,5,0,Alta
+1,Lixo e descarte irregular,4,App,3,3,1,1,Baixa
+1,Lixo e descarte irregular,3,App,3,2,4,1,Alta
+3,Buraco na via,4,App,10,2,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,5,1,0,Media
+3,Buraco na via,5,App,10,4,3,1,Alta
+2,Iluminação pública,5,Sensor,5,4,0,0,Baixa
+4,Calçada danificada,5,App,15,14,2,1,Media
+4,Calçada danificada,4,App,15,7,1,0,Baixa
+2,Iluminação pública,1,App,5,0,0,1,Baixa
+4,Calçada danificada,1,App,15,1,0,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,1,0,0,Baixa
+2,Iluminação pública,5,App,5,1,2,1,Baixa
+1,Lixo e descarte irregular,5,App,3,4,2,1,Alta
+4,Calçada danificada,4,Terminal,15,7,1,0,Baixa
+4,Calçada danificada,5,App,15,7,2,1,Baixa
+5,Árvore e poda,3,App,7,18,2,0,Alta
+4,Calçada danificada,1,App,15,0,2,1,Media
+5,Árvore e poda,2,App,7,4,1,1,Alta
+1,Lixo e descarte irregular,5,Sensor,3,0,1,0,Media
+5,Árvore e poda,4,App,7,13,3,1,Alta
+3,Buraco na via,5,App,10,1,3,1,Media
+2,Iluminação pública,5,Sensor,5,4,0,0,Baixa
+3,Buraco na via,4,App,10,8,1,1,Media
+2,Iluminação pública,1,App,5,0,0,1,Baixa
+1,Lixo e descarte irregular,1,App,3,2,1,1,Baixa
+1,Lixo e descarte irregular,2,App,3,1,2,1,Baixa
+1,Lixo e descarte irregular,1,App,3,3,1,1,Media
+2,Iluminação pública,5,App,5,1,0,1,Baixa
+4,Calçada danificada,2,App,15,14,0,1,Baixa
+3,Buraco na via,2,App,10,6,1,1,Media
+2,Iluminação pública,4,Sensor,5,4,0,0,Media
+2,Iluminação pública,1,App,5,5,4,1,Alta
+2,Iluminação pública,4,Sensor,5,2,0,0,Media
+1,Lixo e descarte irregular,1,App,3,1,2,1,Media
+4,Calçada danificada,5,App,15,16,3,1,Alta
+1,Lixo e descarte irregular,4,Sensor,3,1,1,0,Baixa
+3,Buraco na via,2,App,10,5,0,0,Baixa
+3,Buraco na via,4,App,10,21,1,1,Alta
+3,Buraco na via,2,App,10,7,1,1,Baixa
+4,Calçada danificada,1,App,15,18,1,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,1,0,0,Baixa
+4,Calçada danificada,2,App,15,14,1,0,Media
+3,Buraco na via,4,App,10,6,5,1,Media
+4,Calçada danificada,3,App,15,7,0,1,Baixa
+3,Buraco na via,2,App,10,0,0,1,Baixa
+4,Calçada danificada,4,App,15,3,0,0,Baixa
+5,Árvore e poda,2,Terminal,7,19,2,0,Alta
+2,Iluminação pública,1,App,5,3,4,0,Alta
+4,Calçada danificada,4,App,15,10,1,0,Baixa
+3,Buraco na via,3,App,10,14,2,0,Media
+2,Iluminação pública,4,Sensor,5,4,0,0,Media
+5,Árvore e poda,3,App,7,3,0,0,Media
+2,Iluminação pública,1,Sensor,5,2,0,0,Baixa
+3,Buraco na via,1,App,10,2,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,3,2,0,Media
+1,Lixo e descarte irregular,2,App,3,3,0,1,Baixa
+4,Calçada danificada,2,App,15,10,3,0,Media
+2,Iluminação pública,5,Sensor,5,3,0,0,Baixa
+2,Iluminação pública,4,App,5,5,3,0,Alta
+1,Lixo e descarte irregular,5,App,3,0,1,0,Baixa
+2,Iluminação pública,3,Sensor,5,4,0,0,Baixa
+4,Calçada danificada,2,App,15,33,1,1,Alta
+4,Calçada danificada,3,App,15,5,2,0,Media
+1,Lixo e descarte irregular,5,Terminal,3,1,0,0,Baixa
+3,Buraco na via,2,App,10,17,2,1,Alta
+2,Iluminação pública,4,Terminal,5,3,0,0,Baixa
+3,Buraco na via,1,App,10,13,0,0,Media
+2,Iluminação pública,5,Sensor,5,4,0,0,Baixa
+2,Iluminação pública,4,App,5,5,1,1,Media
+2,Iluminação pública,5,Sensor,5,1,1,0,Media
+3,Buraco na via,2,App,10,3,4,1,Media
+2,Iluminação pública,4,Terminal,5,6,2,0,Alta
+2,Iluminação pública,2,App,5,0,0,1,Baixa
+4,Calçada danificada,3,App,15,8,1,1,Baixa
+3,Buraco na via,2,App,10,10,2,0,Alta
+2,Iluminação pública,1,App,5,2,0,0,Baixa
+4,Calçada danificada,3,Terminal,15,9,1,0,Baixa
+4,Calçada danificada,3,App,15,20,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,5,3,1,Alta
+3,Buraco na via,2,App,10,35,6,1,Alta
+1,Lixo e descarte irregular,1,Sensor,3,5,0,0,Alta
+3,Buraco na via,4,App,10,4,0,1,Baixa
+1,Lixo e descarte irregular,2,App,3,0,2,1,Media
+3,Buraco na via,1,App,10,4,4,0,Media
+1,Lixo e descarte irregular,3,Sensor,3,3,0,0,Media
+2,Iluminação pública,5,Terminal,5,2,0,0,Baixa
+5,Árvore e poda,5,App,7,2,1,1,Baixa
+2,Iluminação pública,5,Sensor,5,10,0,0,Alta
+4,Calçada danificada,1,App,15,7,2,1,Media
+5,Árvore e poda,2,Terminal,7,7,0,0,Media
+4,Calçada danificada,5,App,15,14,5,1,Alta
+1,Lixo e descarte irregular,4,App,3,0,1,1,Baixa
+4,Calçada danificada,3,App,15,30,0,1,Media
+1,Lixo e descarte irregular,5,Terminal,3,0,0,0,Baixa
+2,Iluminação pública,1,Sensor,5,0,0,0,Baixa
+4,Calçada danificada,3,App,15,6,1,0,Baixa
+3,Buraco na via,3,Terminal,10,3,1,0,Media
+2,Iluminação pública,5,App,5,9,3,1,Alta
+2,Iluminação pública,3,Sensor,5,4,0,0,Baixa
+4,Calçada danificada,3,App,15,6,0,1,Baixa
+3,Buraco na via,5,App,10,1,2,0,Media
+2,Iluminação pública,2,App,5,4,0,1,Baixa
+4,Calçada danificada,1,Terminal,15,8,5,0,Media
+1,Lixo e descarte irregular,3,Sensor,3,3,0,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,2,0,0,Baixa
+3,Buraco na via,3,App,10,3,2,1,Baixa
+5,Árvore e poda,4,App,7,8,1,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,1,1,0,Baixa
+1,Lixo e descarte irregular,4,App,3,1,0,1,Baixa
+4,Calçada danificada,5,App,15,9,2,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,0,0,0,Baixa
+2,Iluminação pública,2,Sensor,5,8,0,0,Alta
+5,Árvore e poda,2,Terminal,7,2,1,0,Baixa
+1,Lixo e descarte irregular,3,App,3,0,1,1,Baixa
+3,Buraco na via,3,App,10,9,3,1,Alta
+2,Iluminação pública,2,App,5,13,3,1,Alta
+4,Calçada danificada,2,App,15,1,1,1,Baixa
+2,Iluminação pública,2,App,5,7,4,0,Alta
+2,Iluminação pública,3,Terminal,5,3,3,0,Baixa
+1,Lixo e descarte irregular,2,App,3,0,0,1,Baixa
+3,Buraco na via,3,Terminal,10,5,2,0,Media
+4,Calçada danificada,5,App,15,33,1,1,Media
+1,Lixo e descarte irregular,2,App,3,5,2,1,Media
+2,Iluminação pública,1,Sensor,5,20,0,0,Alta
+4,Calçada danificada,5,App,15,18,1,0,Media
+1,Lixo e descarte irregular,1,Sensor,3,1,1,0,Media
+1,Lixo e descarte irregular,5,Terminal,3,4,3,0,Media
+3,Buraco na via,3,App,10,3,1,0,Alta
+2,Iluminação pública,3,Terminal,5,3,2,0,Media
+1,Lixo e descarte irregular,3,App,3,1,2,1,Media
+2,Iluminação pública,4,Sensor,5,6,0,0,Alta
+1,Lixo e descarte irregular,4,App,3,3,0,1,Baixa
+2,Iluminação pública,5,Sensor,5,1,0,0,Media
+3,Buraco na via,1,Terminal,10,16,3,0,Media
+3,Buraco na via,1,App,10,20,4,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+4,Calçada danificada,1,App,15,14,1,1,Media
+1,Lixo e descarte irregular,5,Sensor,3,6,0,0,Alta
+4,Calçada danificada,1,Terminal,15,13,1,0,Baixa
+2,Iluminação pública,1,App,5,2,0,0,Baixa
+4,Calçada danificada,3,App,15,9,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,1,1,1,Baixa
+1,Lixo e descarte irregular,2,Terminal,3,5,1,0,Media
+2,Iluminação pública,4,Terminal,5,7,6,0,Alta
+1,Lixo e descarte irregular,3,Terminal,3,1,3,0,Media
+1,Lixo e descarte irregular,5,App,3,1,0,1,Baixa
+3,Buraco na via,3,App,10,1,1,1,Alta
+4,Calçada danificada,5,App,15,16,0,0,Baixa
+1,Lixo e descarte irregular,1,App,3,0,1,1,Media
+4,Calçada danificada,1,App,15,44,4,1,Alta
+4,Calçada danificada,2,App,15,4,0,1,Baixa
+4,Calçada danificada,1,App,15,0,1,1,Baixa
+3,Buraco na via,1,App,10,2,1,1,Baixa
+3,Buraco na via,2,App,10,8,1,1,Media
+2,Iluminação pública,3,Sensor,5,3,0,0,Alta
+3,Buraco na via,2,App,10,2,1,0,Baixa
+5,Árvore e poda,2,Terminal,7,4,1,0,Media
+1,Lixo e descarte irregular,1,Sensor,3,1,1,0,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,3,1,0,Media
+1,Lixo e descarte irregular,5,App,3,0,2,0,Baixa
+5,Árvore e poda,1,App,7,5,1,1,Alta
+2,Iluminação pública,4,App,5,4,0,0,Baixa
+3,Buraco na via,4,App,10,6,1,1,Media
+4,Calçada danificada,2,App,15,14,0,1,Baixa
+5,Árvore e poda,2,App,7,4,3,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,3,0,0,Baixa
+4,Calçada danificada,4,Terminal,15,9,2,0,Baixa
+4,Calçada danificada,1,App,15,26,2,1,Media
+1,Lixo e descarte irregular,5,App,3,2,0,1,Baixa
+3,Buraco na via,2,App,10,16,4,1,Alta
+2,Iluminação pública,3,Sensor,5,1,0,0,Baixa
+3,Buraco na via,5,App,10,2,2,0,Baixa
+2,Iluminação pública,1,App,5,6,1,1,Media
+1,Lixo e descarte irregular,5,App,3,2,0,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,3,Terminal,3,0,1,0,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,2,0,0,Baixa
+3,Buraco na via,1,App,10,6,3,0,Media
+2,Iluminação pública,5,Sensor,5,1,1,0,Media
+1,Lixo e descarte irregular,3,App,3,1,1,0,Baixa
+3,Buraco na via,4,App,10,7,1,1,Media
+3,Buraco na via,5,Terminal,10,0,0,0,Baixa
+2,Iluminação pública,3,App,5,8,2,0,Alta
+5,Árvore e poda,2,App,7,13,4,0,Alta
+2,Iluminação pública,2,App,5,1,0,0,Baixa
+4,Calçada danificada,4,App,15,39,3,1,Alta
+1,Lixo e descarte irregular,4,App,3,1,2,1,Baixa
+3,Buraco na via,2,App,10,3,1,1,Media
+5,Árvore e poda,3,App,7,2,3,1,Alta
+4,Calçada danificada,3,App,15,37,1,1,Alta
+3,Buraco na via,1,App,10,2,1,1,Baixa
+3,Buraco na via,3,App,10,7,0,0,Baixa
+2,Iluminação pública,4,Terminal,5,4,4,0,Media
+3,Buraco na via,5,App,10,12,1,1,Media
+4,Calçada danificada,2,App,15,10,1,1,Baixa
+5,Árvore e poda,2,App,7,16,5,0,Alta
+2,Iluminação pública,5,Sensor,5,13,1,0,Alta
+1,Lixo e descarte irregular,5,Sensor,3,6,0,0,Alta
+3,Buraco na via,5,App,10,9,1,1,Baixa
+1,Lixo e descarte irregular,2,App,3,4,2,1,Media
+1,Lixo e descarte irregular,2,App,3,1,1,1,Baixa
+2,Iluminação pública,4,Sensor,5,8,0,0,Alta
+3,Buraco na via,2,Terminal,10,3,1,0,Baixa
+1,Lixo e descarte irregular,4,App,3,0,1,1,Baixa
+1,Lixo e descarte irregular,2,App,3,0,3,1,Baixa
+1,Lixo e descarte irregular,2,App,3,3,3,1,Media
+4,Calçada danificada,5,App,15,32,1,1,Alta
+3,Buraco na via,2,App,10,23,1,1,Alta
+1,Lixo e descarte irregular,1,App,3,0,1,1,Baixa
+1,Lixo e descarte irregular,4,App,3,4,1,1,Alta
+3,Buraco na via,2,App,10,2,4,0,Media
+1,Lixo e descarte irregular,4,App,3,10,2,1,Media
+3,Buraco na via,4,App,10,1,1,1,Media
+2,Iluminação pública,1,App,5,0,2,0,Baixa
+5,Árvore e poda,1,App,7,10,1,1,Alta
+1,Lixo e descarte irregular,5,App,3,1,2,1,Baixa
+3,Buraco na via,1,Terminal,10,4,2,0,Media
+1,Lixo e descarte irregular,2,App,3,0,0,1,Baixa
+5,Árvore e poda,4,App,7,2,2,0,Media
+5,Árvore e poda,1,App,7,10,1,0,Alta
+3,Buraco na via,3,App,10,2,1,1,Baixa
+2,Iluminação pública,1,App,5,3,1,0,Media
+1,Lixo e descarte irregular,3,App,3,0,1,1,Baixa
+4,Calçada danificada,4,App,15,11,2,1,Baixa
+3,Buraco na via,2,App,10,4,1,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,3,0,0,Media
+2,Iluminação pública,3,App,5,5,2,1,Media
+2,Iluminação pública,4,Sensor,5,11,0,0,Alta
+4,Calçada danificada,3,App,15,50,3,0,Alta
+3,Buraco na via,4,App,10,3,0,1,Baixa
+3,Buraco na via,3,App,10,12,3,1,Alta
+3,Buraco na via,1,Terminal,10,4,2,0,Media
+1,Lixo e descarte irregular,5,App,3,3,1,1,Media
+2,Iluminação pública,4,Sensor,5,5,0,0,Media
+1,Lixo e descarte irregular,1,App,3,3,0,1,Baixa
+4,Calçada danificada,2,App,15,19,3,1,Alta
+2,Iluminação pública,3,Sensor,5,3,0,0,Baixa
+2,Iluminação pública,1,Sensor,5,2,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,2,1,0,Baixa
+1,Lixo e descarte irregular,1,App,3,9,1,0,Media
+3,Buraco na via,2,Terminal,10,4,2,0,Media
+1,Lixo e descarte irregular,2,Terminal,3,1,1,0,Baixa
+1,Lixo e descarte irregular,5,App,3,0,1,1,Baixa
+4,Calçada danificada,2,App,15,1,2,1,Baixa
+2,Iluminação pública,3,App,5,3,1,1,Baixa
+2,Iluminação pública,4,Terminal,5,5,4,0,Media
+2,Iluminação pública,1,Sensor,5,1,0,0,Baixa
+4,Calçada danificada,1,App,15,29,0,1,Media
+2,Iluminação pública,1,App,5,4,1,1,Media
+3,Buraco na via,1,App,10,15,2,1,Media
+5,Árvore e poda,2,Terminal,7,6,4,0,Alta
+3,Buraco na via,5,App,10,6,0,1,Media
+2,Iluminação pública,5,App,5,2,1,1,Media
+3,Buraco na via,3,App,10,8,1,0,Baixa
+2,Iluminação pública,5,Sensor,5,4,0,0,Media
+2,Iluminação pública,1,Sensor,5,2,0,0,Media
+2,Iluminação pública,3,App,5,2,1,1,Media
+1,Lixo e descarte irregular,3,App,3,8,1,1,Alta
+1,Lixo e descarte irregular,1,App,3,2,2,1,Media
+2,Iluminação pública,3,Sensor,5,4,0,0,Media
+1,Lixo e descarte irregular,3,App,3,6,1,0,Media
+2,Iluminação pública,4,Sensor,5,4,0,0,Baixa
+3,Buraco na via,3,App,10,6,3,1,Media
+5,Árvore e poda,3,App,7,10,0,0,Media
+1,Lixo e descarte irregular,2,App,3,3,0,1,Baixa
+3,Buraco na via,3,App,10,8,1,1,Media
+2,Iluminação pública,1,App,5,4,4,0,Alta
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,0,0,1,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,3,0,0,Baixa
+1,Lixo e descarte irregular,2,Sensor,3,0,0,0,Baixa
+1,Lixo e descarte irregular,5,App,3,0,1,1,Baixa
+2,Iluminação pública,4,App,5,2,1,0,Baixa
+2,Iluminação pública,5,Sensor,5,2,0,0,Media
+1,Lixo e descarte irregular,2,App,3,3,4,1,Alta
+1,Lixo e descarte irregular,2,App,3,4,4,1,Alta
+1,Lixo e descarte irregular,1,App,3,9,1,1,Media
+3,Buraco na via,4,App,10,1,0,1,Baixa
+2,Iluminação pública,1,Sensor,5,5,0,0,Baixa
+3,Buraco na via,5,App,10,9,2,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,3,1,0,Media
+5,Árvore e poda,4,App,7,9,0,0,Media
+1,Lixo e descarte irregular,5,Terminal,3,6,1,0,Media
+1,Lixo e descarte irregular,1,Sensor,3,2,0,0,Baixa
+1,Lixo e descarte irregular,4,Terminal,3,7,2,0,Alta
+5,Árvore e poda,5,App,7,6,3,1,Alta
+3,Buraco na via,3,App,10,4,1,1,Media
+3,Buraco na via,4,Terminal,10,8,0,0,Media
+5,Árvore e poda,3,App,7,2,2,1,Alta
+1,Lixo e descarte irregular,1,Sensor,3,0,0,0,Baixa
+5,Árvore e poda,5,App,7,4,2,1,Alta
+1,Lixo e descarte irregular,2,Sensor,3,1,0,0,Baixa
+3,Buraco na via,2,App,10,19,3,0,Alta
+2,Iluminação pública,5,Sensor,5,3,1,0,Media
+2,Iluminação pública,1,Sensor,5,1,0,0,Baixa
+5,Árvore e poda,3,App,7,5,3,1,Alta
+1,Lixo e descarte irregular,3,App,3,2,3,0,Media
+5,Árvore e poda,2,App,7,5,2,0,Alta
+2,Iluminação pública,4,App,5,1,1,1,Baixa
+3,Buraco na via,3,Terminal,10,21,2,0,Alta
+5,Árvore e poda,2,App,7,0,2,1,Media
+1,Lixo e descarte irregular,2,App,3,2,1,0,Baixa
+5,Árvore e poda,2,App,7,1,0,1,Media
+3,Buraco na via,4,App,10,16,3,1,Alta
+3,Buraco na via,3,Terminal,10,10,5,0,Alta
+1,Lixo e descarte irregular,4,App,3,2,1,1,Media
+2,Iluminação pública,4,App,5,2,1,1,Baixa
+3,Buraco na via,5,App,10,19,2,0,Alta
+2,Iluminação pública,5,App,5,2,0,1,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,7,0,0,Alta
+1,Lixo e descarte irregular,2,App,3,0,0,1,Baixa
+4,Calçada danificada,4,App,15,11,2,1,Media
+1,Lixo e descarte irregular,5,Terminal,3,3,5,0,Media
+3,Buraco na via,2,App,10,10,2,1,Alta
+5,Árvore e poda,3,App,7,4,2,0,Alta
+1,Lixo e descarte irregular,5,App,3,0,2,1,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,2,1,0,Media
+3,Buraco na via,1,App,10,5,0,0,Baixa
+1,Lixo e descarte irregular,2,App,3,1,1,0,Baixa
+3,Buraco na via,2,App,10,13,0,0,Media
+3,Buraco na via,3,App,10,0,1,1,Baixa
+3,Buraco na via,5,App,10,7,1,1,Media
+2,Iluminação pública,5,Terminal,5,5,2,0,Media
+3,Buraco na via,5,App,10,13,1,1,Media
+3,Buraco na via,4,Terminal,10,8,0,0,Baixa
+1,Lixo e descarte irregular,3,Sensor,3,1,0,0,Baixa
+3,Buraco na via,4,App,10,19,1,1,Alta
+4,Calçada danificada,3,App,15,31,1,0,Media
+3,Buraco na via,1,App,10,9,3,1,Media
+2,Iluminação pública,1,App,5,11,2,1,Alta
+2,Iluminação pública,3,Sensor,5,1,0,0,Media
+1,Lixo e descarte irregular,4,Sensor,3,1,1,0,Media
+1,Lixo e descarte irregular,2,App,3,0,2,0,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,0,1,0,Baixa
+5,Árvore e poda,1,App,7,1,0,0,Media
+1,Lixo e descarte irregular,2,Sensor,3,3,0,0,Media
+4,Calçada danificada,5,App,15,3,1,1,Media
+1,Lixo e descarte irregular,3,App,3,1,2,0,Baixa
+1,Lixo e descarte irregular,5,App,3,1,1,1,Baixa
+2,Iluminação pública,5,App,5,0,1,0,Baixa
+2,Iluminação pública,5,Sensor,5,3,1,0,Media
+4,Calçada danificada,5,App,15,13,3,1,Baixa
+5,Árvore e poda,2,App,7,0,1,0,Baixa
+4,Calçada danificada,5,App,15,18,0,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,0,0,0,Baixa
+4,Calçada danificada,4,App,15,6,0,1,Baixa
+1,Lixo e descarte irregular,1,Sensor,3,3,0,0,Media
+5,Árvore e poda,2,App,7,2,1,0,Media
+2,Iluminação pública,4,App,5,1,2,1,Media
+2,Iluminação pública,1,App,5,3,4,1,Media
+1,Lixo e descarte irregular,5,App,3,4,4,1,Alta
+1,Lixo e descarte irregular,3,App,3,4,1,1,Media
+1,Lixo e descarte irregular,1,Sensor,3,1,0,0,Baixa
+5,Árvore e poda,2,App,7,1,1,0,Baixa
+4,Calçada danificada,2,App,15,4,1,1,Baixa
+5,Árvore e poda,4,App,7,10,2,0,Alta
+1,Lixo e descarte irregular,4,App,3,0,1,1,Baixa
+3,Buraco na via,2,App,10,22,2,1,Alta
+1,Lixo e descarte irregular,4,App,3,3,2,1,Media
+3,Buraco na via,5,App,10,6,1,0,Baixa
+2,Iluminação pública,2,App,5,1,0,1,Media
+1,Lixo e descarte irregular,2,Sensor,3,2,0,0,Baixa
+3,Buraco na via,1,App,10,2,1,0,Baixa
+1,Lixo e descarte irregular,2,App,3,0,0,1,Baixa
+2,Iluminação pública,2,App,5,5,1,1,Media
+3,Buraco na via,4,App,10,6,1,0,Media
+1,Lixo e descarte irregular,1,App,3,3,1,1,Baixa
+5,Árvore e poda,3,Terminal,7,6,2,0,Alta
+2,Iluminação pública,4,Sensor,5,1,0,0,Baixa
+4,Calçada danificada,2,App,15,22,0,0,Baixa
+3,Buraco na via,1,App,10,4,1,1,Media
+3,Buraco na via,4,App,10,18,2,0,Media
+3,Buraco na via,3,App,10,4,3,1,Media
+4,Calçada danificada,3,App,15,2,0,0,Baixa
+3,Buraco na via,5,App,10,20,3,1,Alta
+1,Lixo e descarte irregular,1,App,3,1,0,1,Baixa
+1,Lixo e descarte irregular,1,Terminal,3,1,2,0,Baixa
+3,Buraco na via,3,App,10,1,3,1,Media
+1,Lixo e descarte irregular,3,App,3,1,1,0,Baixa
+1,Lixo e descarte irregular,5,App,3,0,0,0,Baixa
+1,Lixo e descarte irregular,4,Sensor,3,5,0,0,Alta
+3,Buraco na via,2,App,10,4,2,1,Baixa
+1,Lixo e descarte irregular,5,Sensor,3,0,0,0,Baixa
+3,Buraco na via,3,App,10,7,1,1,Media
+4,Calçada danificada,5,App,15,49,2,1,Media
+4,Calçada danificada,2,App,15,11,1,1,Media
+1,Lixo e descarte irregular,4,Sensor,3,1,0,0,Baixa
+3,Buraco na via,3,Terminal,10,6,3,0,Media
+3,Buraco na via,3,App,10,13,2,0,Media
+2,Iluminação pública,5,App,5,6,4,1,Alta
+3,Buraco na via,1,App,10,8,2,1,Media
+1,Lixo e descarte irregular,2,App,3,4,0,1,Media
+5,Árvore e poda,1,Terminal,7,5,4,0,Alta
+1,Lixo e descarte irregular,5,App,3,1,0,0,Baixa

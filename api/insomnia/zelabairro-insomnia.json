@@ -1,0 +1,467 @@
+{
+  "_type": "export",
+  "__export_format": 4,
+  "__export_source": "insomnia.desktop.app:v8",
+  "resources": [
+    {
+      "_id": "wrk_zelabairro",
+      "_type": "workspace",
+      "name": "ZelaBairro API",
+      "scope": "collection",
+      "description": "Testes manuais da API ZelaBairro - GS 2026.2"
+    },
+    {
+      "_id": "env_base",
+      "_type": "environment",
+      "parentId": "wrk_zelabairro",
+      "name": "Base Environment",
+      "data": {
+        "baseUrl": "http://localhost:5080",
+        "ocorrenciaId": 1,
+        "moradorId": 1
+      }
+    },
+    {
+      "_id": "fld_1",
+      "_type": "request_group",
+      "parentId": "wrk_zelabairro",
+      "name": "1. Referência",
+      "metaSortKey": 0
+    },
+    {
+      "_id": "fld_2",
+      "_type": "request_group",
+      "parentId": "wrk_zelabairro",
+      "name": "2. Morador",
+      "metaSortKey": 1
+    },
+    {
+      "_id": "fld_3",
+      "_type": "request_group",
+      "parentId": "wrk_zelabairro",
+      "name": "3. Ocorrências - fluxo feliz",
+      "metaSortKey": 2
+    },
+    {
+      "_id": "fld_4",
+      "_type": "request_group",
+      "parentId": "wrk_zelabairro",
+      "name": "4. Testes de erro (devem falhar)",
+      "metaSortKey": 3
+    },
+    {
+      "_id": "req_01",
+      "_type": "request",
+      "parentId": "fld_1",
+      "name": "Listar bairros",
+      "method": "GET",
+      "url": "{{ _.baseUrl }}/api/bairros",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 1
+    },
+    {
+      "_id": "req_02",
+      "_type": "request",
+      "parentId": "fld_1",
+      "name": "Listar categorias",
+      "method": "GET",
+      "url": "{{ _.baseUrl }}/api/categorias",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 2
+    },
+    {
+      "_id": "req_03",
+      "_type": "request",
+      "parentId": "fld_2",
+      "name": "Identificar morador (cria ou atualiza)",
+      "method": "POST",
+      "url": "{{ _.baseUrl }}/api/moradores/identificar",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"nome\": \"Maria Teste\",\n  \"email\": \"maria.teste@exemplo.com\",\n  \"bairroId\": 1\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 3
+    },
+    {
+      "_id": "req_04",
+      "_type": "request",
+      "parentId": "fld_2",
+      "name": "Obter morador",
+      "method": "GET",
+      "url": "{{ _.baseUrl }}/api/moradores/{{ _.moradorId }}",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 4
+    },
+    {
+      "_id": "req_05",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Criar ocorrência (app)",
+      "method": "POST",
+      "url": "{{ _.baseUrl }}/api/ocorrencias",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"titulo\": \"Poste apagado na esquina\",\n  \"descricao\": \"Poste sem luz há 4 dias, rua fica muito escura à noite.\",\n  \"categoriaId\": 2,\n  \"bairroId\": 1,\n  \"moradorId\": 1,\n  \"latitude\": -23.5614,\n  \"longitude\": -46.6559,\n  \"endereco\": \"Av. Paulista, 1106\",\n  \"origem\": \"App\"\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 5
+    },
+    {
+      "_id": "req_06",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Criar ocorrência (sensor ESP32)",
+      "method": "POST",
+      "url": "{{ _.baseUrl }}/api/ocorrencias",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"titulo\": \"Lixeira cheia (sensor)\",\n  \"descricao\": \"Nível de 92% detectado pelo sensor ultrassônico.\",\n  \"categoriaId\": 1,\n  \"bairroId\": 1,\n  \"moradorId\": null,\n  \"latitude\": -23.562,\n  \"longitude\": -46.655,\n  \"endereco\": \"Lixeira #07\",\n  \"origem\": \"Sensor\"\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 6
+    },
+    {
+      "_id": "req_07",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Listar ocorrências",
+      "method": "GET",
+      "url": "{{ _.baseUrl }}/api/ocorrencias",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 7
+    },
+    {
+      "_id": "req_08",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Listar ocorrências abertas do bairro 1",
+      "method": "GET",
+      "url": "{{ _.baseUrl }}/api/ocorrencias?bairroId=1&status=Aberta",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 8
+    },
+    {
+      "_id": "req_09",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Obter ocorrência por id",
+      "method": "GET",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/{{ _.ocorrenciaId }}",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 9
+    },
+    {
+      "_id": "req_10",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Confirmar ocorrência (vizinho)",
+      "method": "POST",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/{{ _.ocorrenciaId }}/confirmar",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 10
+    },
+    {
+      "_id": "req_11",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Definir prioridade",
+      "method": "PATCH",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/{{ _.ocorrenciaId }}/prioridade",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"prioridade\": \"Alta\"\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 11
+    },
+    {
+      "_id": "req_12",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Iniciar atendimento",
+      "method": "PATCH",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/{{ _.ocorrenciaId }}/status",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"status\": \"EmAtendimento\"\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 12
+    },
+    {
+      "_id": "req_13",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Resolver",
+      "method": "PATCH",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/{{ _.ocorrenciaId }}/status",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"status\": \"Resolvida\"\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 13
+    },
+    {
+      "_id": "req_14",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Enviar foto (escolha um .jpg)",
+      "method": "POST",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/{{ _.ocorrenciaId }}/foto",
+      "body": {
+        "mimeType": "multipart/form-data",
+        "params": [
+          {
+            "name": "foto",
+            "type": "file",
+            "fileName": ""
+          }
+        ]
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "multipart/form-data"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 14
+    },
+    {
+      "_id": "req_15",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Obter foto",
+      "method": "GET",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/{{ _.ocorrenciaId }}/foto",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 15
+    },
+    {
+      "_id": "req_16",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Resumo / indicador de impacto",
+      "method": "GET",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/resumo",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 16
+    },
+    {
+      "_id": "req_17",
+      "_type": "request",
+      "parentId": "fld_3",
+      "name": "Excluir ocorrência",
+      "method": "DELETE",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/2",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 17
+    },
+    {
+      "_id": "req_18",
+      "_type": "request",
+      "parentId": "fld_4",
+      "name": "[400] Título vazio",
+      "method": "POST",
+      "url": "{{ _.baseUrl }}/api/ocorrencias",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"titulo\": \"\",\n  \"categoriaId\": 1,\n  \"bairroId\": 1,\n  \"moradorId\": 1,\n  \"latitude\": -23.56,\n  \"longitude\": -46.65,\n  \"origem\": \"App\"\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 18
+    },
+    {
+      "_id": "req_19",
+      "_type": "request",
+      "parentId": "fld_4",
+      "name": "[400] App sem morador",
+      "method": "POST",
+      "url": "{{ _.baseUrl }}/api/ocorrencias",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"titulo\": \"Buraco enorme\",\n  \"categoriaId\": 3,\n  \"bairroId\": 1,\n  \"latitude\": -23.56,\n  \"longitude\": -46.65,\n  \"origem\": \"App\"\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 19
+    },
+    {
+      "_id": "req_20",
+      "_type": "request",
+      "parentId": "fld_4",
+      "name": "[400] Categoria inexistente",
+      "method": "POST",
+      "url": "{{ _.baseUrl }}/api/ocorrencias",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"titulo\": \"Buraco enorme\",\n  \"categoriaId\": 999,\n  \"bairroId\": 1,\n  \"moradorId\": 1,\n  \"latitude\": -23.56,\n  \"longitude\": -46.65,\n  \"origem\": \"App\"\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 20
+    },
+    {
+      "_id": "req_21",
+      "_type": "request",
+      "parentId": "fld_4",
+      "name": "[400] Resolver sem atender (transição inválida)",
+      "method": "PATCH",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/{{ _.ocorrenciaId }}/status",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"status\": \"Resolvida\"\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 21
+    },
+    {
+      "_id": "req_22",
+      "_type": "request",
+      "parentId": "fld_4",
+      "name": "[400] E-mail inválido",
+      "method": "POST",
+      "url": "{{ _.baseUrl }}/api/moradores/identificar",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n  \"nome\": \"Teste\",\n  \"email\": \"sem-arroba\",\n  \"bairroId\": 1\n}"
+      },
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 22
+    },
+    {
+      "_id": "req_23",
+      "_type": "request",
+      "parentId": "fld_4",
+      "name": "[404] Ocorrência inexistente",
+      "method": "GET",
+      "url": "{{ _.baseUrl }}/api/ocorrencias/99999",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 23
+    },
+    {
+      "_id": "req_24",
+      "_type": "request",
+      "parentId": "fld_4",
+      "name": "[400] Tentativa de SQL Injection no filtro",
+      "method": "GET",
+      "url": "{{ _.baseUrl }}/api/ocorrencias?bairroId=1%20OR%201=1",
+      "body": {},
+      "headers": [],
+      "parameters": [],
+      "authentication": {},
+      "metaSortKey": 24
+    }
+  ]
+}

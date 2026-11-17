@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+uploads/
+appsettings.Development.json
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Sistema / editor
+.vscode/
+.DS_Store
+Thumbs.db
+*.zip

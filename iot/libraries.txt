@@ -1,0 +1,2 @@
+# Bibliotecas do projeto Wokwi (aba "Library Manager" ou arquivo libraries.txt)
+LiquidCrystal I2C
