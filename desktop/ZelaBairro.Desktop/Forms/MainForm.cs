@@ -17,7 +17,7 @@ public class MainForm : Form
 
     // Filtros e resumo
     private readonly ComboBox _cbBairro = new() { DropDownStyle = ComboBoxStyle.DropDownList, Width = 170, Font = Estilo.Normal };
-    private readonly ComboBox _cbStatus = new() { DropDownStyle = ComboBoxStyle.DropDownList, Width = 150, Font = Estilo.Normal };
+    private readonly ComboBox _cbStatus = new() { DropDownStyle = ComboBoxStyle.DropDownList, Width = 150, Font = Estilo.Normal, FormattingEnabled = true };
     private readonly Label _lblTotal = NovoNumero(), _lblAbertas = NovoNumero(), _lblAtendimento = NovoNumero(),
         _lblAtrasadas = NovoNumero(), _lblNoPrazo = NovoNumero();
 
@@ -29,7 +29,7 @@ public class MainForm : Form
     private readonly Label _lblInfo = new() { AutoSize = true, Font = Estilo.Normal, MaximumSize = new Size(400, 0) };
     private readonly PictureBox _foto = new() { Width = 400, Height = 200, SizeMode = PictureBoxSizeMode.Zoom, BackColor = Color.Gainsboro, Visible = false };
     private readonly Label _lblSugestao = new() { AutoSize = true, Font = Estilo.Normal, MaximumSize = new Size(400, 0), ForeColor = Estilo.Alerta };
-    private readonly ComboBox _cbPrioridade = new() { DropDownStyle = ComboBoxStyle.DropDownList, Width = 130, Font = Estilo.Normal };
+    private readonly ComboBox _cbPrioridade = new() { DropDownStyle = ComboBoxStyle.DropDownList, Width = 130, Font = Estilo.Normal, FormattingEnabled = true };
     private readonly Button _btnAtender = Estilo.Botao("Iniciar atendimento", primario: true);
     private readonly Button _btnResolver = Estilo.Botao("Marcar resolvida", primario: true);
     private readonly Button _btnCancelar = Estilo.Botao("Cancelar");
@@ -300,7 +300,7 @@ public class MainForm : Form
         }
 
         if (_grid.Rows.Count == 0) LimparDetalhe("Nenhuma ocorrência com esses filtros.");
-                else _ = MostrarDetalheAsync();
+        else _ = MostrarDetalheAsync(); // a seleção automática da 1ª linha acontece antes do Tag ser preenchido
     }
 
     // =====================================================================

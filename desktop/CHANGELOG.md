@@ -1,7 +1,7 @@
 # Changelog — ZelaBairro Desktop
 Formato: [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) · Versionamento: [SemVer](https://semver.org/lang/pt-BR/)
 
-## [1.1.0] — 2026-11-16
+## [1.1.0] — 2026-11-17
 ### Adicionado
 - Previsão de prioridade pelo modelo de Machine Learning (`ModeloPrioridade`, lê `modelo_prioridade.json`), com confiança e fatores.
 - Botão "Usar previsão do modelo"; o histórico registra quando a previsão do ML foi aplicada.
@@ -9,6 +9,8 @@ Formato: [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) · Versiona
 - A regra de pontos passa a ser exibida como referência, abaixo da previsão do modelo.
 ### Corrigido
 - Descrição vazia no cadastro de balcão (a API passou a aceitar descrição nula no Oracle).
+- Detalhe vazio quando a primeira linha da lista era selecionada automaticamente.
+- Filtros de status e prioridade exibem os nomes com espaço e acento ("Em atendimento", "Média").
 
 ## [1.0.0] — 2026-11-16
 ### Adicionado
