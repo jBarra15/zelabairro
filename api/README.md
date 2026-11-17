@@ -2,7 +2,7 @@
 
 Backend REST da CitizenTech **ZelaBairro**: moradores registram problemas do espaço público (lixo, iluminação, buracos, calçadas, árvores), a subprefeitura faz a triagem e todos acompanham a resolução.
 
-**Integrante:** Joel — RM 560796 — 2ESPS
+**Integrante:** Joel — RM 560796 — 3ESPS
 
 ## Tecnologias
 - .NET 8 / ASP.NET Core Web API
