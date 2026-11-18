@@ -47,5 +47,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// Painel web (wwwroot/index.html) servido pela própria API: é a "aplicação WEB" hospedada no IIS.
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 app.MapControllers();
 app.Run();

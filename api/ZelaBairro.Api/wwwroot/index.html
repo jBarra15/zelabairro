@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ZelaBairro — Painel</title>
+<style>
+  :root { --verde:#0B5D3B; --verdeClaro:#E3F2EA; --fundo:#F5F7F6; --tinta:#1B1F1D; --suave:#4F5853; --borda:#CBD3CE; --alerta:#7A4F00; --alertaFundo:#FFF4D6; --erro:#9F1D17; --erroFundo:#FDECEA; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:'Segoe UI', Arial, sans-serif; background:var(--fundo); color:var(--tinta); }
+  header { background:var(--verde); color:#fff; padding:14px 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px; }
+  header h1 { margin:0; font-size:22px; } header small { opacity:.85; }
+  .servidor { font-size:13px; background:rgba(255,255,255,.15); padding:6px 10px; border-radius:8px; }
+  main { max-width:1200px; margin:0 auto; padding:20px 16px 40px; }
+  .kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:12px; margin-bottom:20px; }
+  .kpi { background:#fff; border:1px solid var(--borda); border-radius:12px; padding:14px 16px; }
+  .kpi b { display:block; font-size:28px; color:var(--verde); } .kpi span { color:var(--suave); font-size:13px; }
+  .kpi.atraso b { color:var(--erro); }
+  .barra { display:flex; gap:10px; align-items:center; margin:0 0 10px; flex-wrap:wrap; }
+  select, button { font:inherit; padding:7px 10px; border-radius:8px; border:1px solid var(--borda); background:#fff; }
+  button { background:var(--verde); color:#fff; border-color:var(--verde); cursor:pointer; }
+  table { width:100%; border-collapse:collapse; background:#fff; border:1px solid var(--borda); border-radius:12px; overflow:hidden; }
+  th, td { text-align:left; padding:10px 12px; border-bottom:1px solid var(--borda); font-size:14px; }
+  th { background:var(--verde); color:#fff; font-weight:600; }
+  tr.atrasada td { background:var(--erroFundo); }
+  .st { padding:2px 8px; border-radius:999px; font-size:12px; font-weight:700; white-space:nowrap; }
+  .st.Aberta { background:var(--alertaFundo); color:var(--alerta); } .st.EmAtendimento { background:#E1ECFB; color:#174EA6; }
+  .st.Resolvida { background:var(--verdeClaro); color:var(--verde); } .st.Cancelada { background:#ECEDEC; color:var(--suave); }
+  .msg { padding:14px; border-radius:10px; background:#fff; border:1px solid var(--borda); }
+  .msg.erro { background:var(--erroFundo); color:var(--erro); border-color:#F2B8B5; }
+  footer { color:var(--suave); font-size:12px; text-align:center; margin-top:24px; }
+</style>
+</head>
+<body>
+<header>
+  <div><h1>ZelaBairro</h1><small>Painel público de ocorrências do bairro</small></div>
+  <div class="servidor" id="servidor">Verificando servidor…</div>
+</header>
+<main>
+  <section class="kpis" id="kpis"></section>
+  <div class="barra">
+    <label for="filtro">Status:</label>
+    <select id="filtro">
+      <option value="">Todos</option><option value="Aberta">Aberta</option>
+      <option value="EmAtendimento">Em atendimento</option><option value="Resolvida">Resolvida</option>
+      <option value="Cancelada">Cancelada</option>
+    </select>
+    <button id="atualizar">⟳ Atualizar</button>
+    <span id="hora" style="color:var(--suave);font-size:13px"></span>
+  </div>
+  <div id="lista"><div class="msg">Carregando…</div></div>
+  <footer>ZelaBairro — CitizenTech · FIAP Global Solution 2026.2 · hospedado em IIS (Windows Server)</footer>
+</main>
+<script>
+const rotulo = { Aberta:'Aberta', EmAtendimento:'Em atendimento', Resolvida:'Resolvida', Cancelada:'Cancelada' };
+const prio = { NaoDefinida:'Em análise', Baixa:'Baixa', Media:'Média', Alta:'Alta' };
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function data(iso) {
+  if (!iso) return '';
+  const t = iso.replace(/(\.\d{3})\d+/, '$1');
+  const d = new Date(/([zZ]|[+-]\d\d:\d\d)$/.test(t) ? t : t + 'Z');
+  return isNaN(d) ? iso : d.toLocaleString('pt-BR', { dateStyle:'short', timeStyle:'short' });
+}
+async function json(url) {
+  const r = await fetch(url, { cache:'no-store' });
+  const corpo = await r.json().catch(() => null);
+  if (!r.ok && !corpo) throw new Error('HTTP ' + r.status);
+  return { ok:r.ok, status:r.status, corpo };
+}
+async function servidor() {
+  const el = document.getElementById('servidor');
+  try {
+    const { ok, corpo } = await json('api/saude');
+    el.textContent = `Servidor: ${corpo.servidor} · ${corpo.ambiente} · banco ${corpo.banco}` + (ok ? '' : ' ⚠');
+  } catch { el.textContent = 'Servidor indisponível'; }
+}
+async function carregar() {
+  const lista = document.getElementById('lista'), kpis = document.getElementById('kpis');
+  const status = document.getElementById('filtro').value;
+  try {
+    const [r, o] = await Promise.all([json('api/ocorrencias/resumo'), json('api/ocorrencias' + (status ? '?status=' + status : ''))]);
+    if (!r.ok || !o.ok) throw new Error((o.corpo && o.corpo.erro) || 'A API respondeu com erro.');
+    const k = r.corpo;
+    kpis.innerHTML = `
+      <div class="kpi"><b>${k.total}</b><span>Total de ocorrências</span></div>
+      <div class="kpi"><b>${k.abertas}</b><span>Abertas</span></div>
+      <div class="kpi"><b>${k.emAtendimento}</b><span>Em atendimento</span></div>
+      <div class="kpi"><b>${k.resolvidas}</b><span>Resolvidas</span></div>
+      <div class="kpi atraso"><b>${k.atrasadas}</b><span>Fora do prazo</span></div>
+      <div class="kpi"><b>${String(k.percentualResolvidasNoPrazo).replace('.', ',')}%</b><span>Resolvidas no prazo</span></div>`;
+    const itens = o.corpo;
+    lista.innerHTML = itens.length === 0
+      ? '<div class="msg">Nenhuma ocorrência com esse filtro.</div>'
+      : `<table><thead><tr><th>Nº</th><th>Problema</th><th>Categoria</th><th>Bairro</th><th>Status</th><th>Prioridade</th><th>Origem</th><th>Aberta em</th></tr></thead><tbody>
+         ${itens.map(i => `<tr class="${i.atrasada ? 'atrasada' : ''}"><td>${i.id}</td><td>${esc(i.titulo)}</td><td>${esc(i.categoria)}</td><td>${esc(i.bairro)}</td>
+           <td><span class="st ${esc(i.status)}">${rotulo[i.status] || esc(i.status)}</span></td><td>${prio[i.prioridade] || esc(i.prioridade)}</td>
+           <td>${esc(i.origem)}</td><td>${data(i.criadaEm)}</td></tr>`).join('')}</tbody></table>`;
+    document.getElementById('hora').textContent = 'Atualizado às ' + new Date().toLocaleTimeString('pt-BR');
+  } catch (e) {
+    lista.innerHTML = `<div class="msg erro">Não foi possível carregar as ocorrências: ${esc(e.message)}</div>`;
+  }
+}
+document.getElementById('atualizar').onclick = () => { servidor(); carregar(); };
+document.getElementById('filtro').onchange = carregar;
+servidor(); carregar();
+setInterval(() => { servidor(); carregar(); }, 30000);
+</script>
+</body>
+</html>

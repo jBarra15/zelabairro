@@ -1,0 +1,6 @@
+RM: 560796
+Nome completo: Joel Barra Chuquimia
+Turma: 3ESPS
+Repositório: https://github.com/jBarra15/zelabairro
+Pull request (versionamento semântico): https://github.com/jBarra15/zelabairro/pull/1
+Tag da versão: desktop-v1.1.0
