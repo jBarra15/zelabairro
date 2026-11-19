@@ -1,6 +1,16 @@
 # ZelaBairro — Lixeira inteligente (Physical Computing: IoT & IoB)
 
-**Integrante:** Joel — RM 560796 — 3ESPS · **Link Wokwi:** _[cole aqui]_ · **Vídeo:** _[cole aqui]_
+| | |
+|---|---|
+| **Integrante** | Joel Barra Chuquimia — RM 560796 — 3ESPS (trabalho individual) |
+| **Projeto no Wokwi** | https://wokwi.com/projects/481071704851898369 |
+| **Vídeo demonstrativo** | https://youtu.be/oTze2mCvIOY |
+| **Solução completa** | [README principal do ZelaBairro](../README.md) |
+
+## Imagens da montagem
+| Circuito no Wokwi | Wi-Fi conectado | Ocorrência aberta na API (HTTP 201) |
+|---|---|---|
+| ![Circuito](imagens/01-circuito-wokwi.png) | ![Wi-Fi](imagens/02-wifi-conectado.png) | ![Ocorrência](imagens/03-ocorrencia-aberta-201.png) |
 
 ## Como o circuito entra na solução
 O ZelaBairro depende de alguém **ver e registrar** o problema. Lixo acumulado é a categoria mais frequente e a de prazo mais curto (3 dias), mas muitas vezes ninguém reclama até virar foco de ratos e mosquitos.

@@ -1,4 +1,4 @@
 ZelaBairro - Global Solution 2026.2 - Physical Computing: IoT & IoB
-Integrante: Joel [NOME COMPLETO] - RM 560796 - 3ESPS
-Link do projeto no Wokwi: [cole aqui]
-Link do vídeo: [cole aqui]
+Integrante: Joel Barra Chuquimia - RM 560796 - 3ESPS
+Link do projeto no Wokwi: https://wokwi.com/projects/481071704851898369
+Link do vídeo: https://youtu.be/oTze2mCvIOY
