@@ -49,7 +49,9 @@ function lerJson(texto: string): unknown {
 
 export async function request<T>(path: string, options: RequestOptions = {}): Promise<T> {
   const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
+  // Upload de foto demora mais que uma consulta comum: 30 s em vez de 10 s.
+  const limite = options.formData ? REQUEST_TIMEOUT_MS * 3 : REQUEST_TIMEOUT_MS;
+  const timer = setTimeout(() => controller.abort(), limite);
 
   const headers: Record<string, string> = { Accept: 'application/json' };
   let body: string | FormData | undefined;
@@ -79,6 +81,32 @@ export async function request<T>(path: string, options: RequestOptions = {}): Pr
   const dados = lerJson(await response.text());
   if (!response.ok) throw new ApiError(extrairMensagem(dados, response.status), response.status);
   return dados as T;
+}
+
+/**
+ * Envio de arquivo (multipart) usando XMLHttpRequest.
+ * O XHR do React Native entende o formato { uri, name, type } dentro do FormData
+ * em qualquer versão do Expo, o que torna o upload da foto mais confiável que o fetch.
+ */
+export function enviarArquivo<T>(path: string, formData: FormData): Promise<T> {
+  return new Promise<T>((resolve, reject) => {
+    const xhr = new XMLHttpRequest();
+    xhr.open('POST', `${API_URL}${path}`);
+    xhr.setRequestHeader('Accept', 'application/json');
+    xhr.timeout = REQUEST_TIMEOUT_MS * 3;
+
+    xhr.onload = () => {
+      const dados = lerJson(xhr.responseText);
+      if (xhr.status >= 200 && xhr.status < 300) resolve(dados as T);
+      else reject(new ApiError(extrairMensagem(dados, xhr.status), xhr.status));
+    };
+    xhr.onerror = () =>
+      reject(new ApiError('Sem conexão com o servidor. Verifique sua internet e tente novamente.', 0));
+    xhr.ontimeout = () =>
+      reject(new ApiError('O envio da foto demorou demais. Tente novamente.', 0));
+
+    xhr.send(formData);
+  });
 }
 
 export function mensagemDeErro(erro: unknown): string {

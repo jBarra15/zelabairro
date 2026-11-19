@@ -1,5 +1,5 @@
 import type { FiltroOcorrencias, NovaOcorrenciaInput, Ocorrencia } from '../types/models';
-import { request } from './api';
+import { enviarArquivo, request } from './api';
 
 export function listarOcorrencias(filtro: FiltroOcorrencias): Promise<Ocorrencia[]> {
   const partes: string[] = [];
@@ -32,5 +32,5 @@ export function enviarFoto(id: number, uri: string): Promise<Ocorrencia> {
   // No React Native, um arquivo entra no FormData como { uri, name, type }.
   formData.append('foto', { uri, name: nome, type: ehPng ? 'image/png' : 'image/jpeg' } as unknown as Blob);
 
-  return request<Ocorrencia>(`/api/ocorrencias/${id}/foto`, { method: 'POST', formData });
+  return enviarArquivo<Ocorrencia>(`/api/ocorrencias/${id}/foto`, formData);
 }

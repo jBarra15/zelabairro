@@ -1,3 +1,4 @@
+import { ImageManipulator, SaveFormat } from 'expo-image-manipulator';
 import * as ImagePicker from 'expo-image-picker';
 import * as Location from 'expo-location';
 import { useCallback, useEffect, useState } from 'react';
@@ -88,8 +89,16 @@ export function NovaOcorrenciaScreen({ navigation }: ScreenProps<'NovaOcorrencia
       avisarPermissaoNegada('Câmera', permissao.canAskAgain);
       return;
     }
-    const resultado = await ImagePicker.launchCameraAsync({ mediaTypes: ['images'], quality: 0.6 });
-    if (!resultado.canceled && resultado.assets.length > 0) setFotoUri(resultado.assets[0].uri);
+    const resultado = await ImagePicker.launchCameraAsync({ mediaTypes: ['images'], quality: 0.8 });
+    if (resultado.canceled || resultado.assets.length === 0) return;
+
+    // A câmera do celular gera fotos grandes (vários MB) e a API aceita até 5 MB.
+    // Reduzimos para 1280 px de largura em JPEG: fica com poucas centenas de KB.
+    const contexto = ImageManipulator.manipulate(resultado.assets[0].uri);
+    contexto.resize({ width: 1280 });
+    const imagem = await contexto.renderAsync();
+    const reduzida = await imagem.saveAsync({ compress: 0.7, format: SaveFormat.JPEG });
+    setFotoUri(reduzida.uri);
   }
 
   // ---------- Recurso nativo 2: localização ----------
