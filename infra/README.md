@@ -1,6 +1,10 @@
 # ZelaBairro — Infraestrutura Windows Server (Operating Systems)
 
-**Integrante:** Joel — RM 560796 — 3ESPS · **Repositório:** https://github.com/jBarra15/zelabairro
+| | |
+|---|---|
+| **Integrante** | Joel Barra Chuquimia — RM 560796 — 3ESPS (trabalho individual) |
+| **Vídeo de demonstração** | https://youtu.be/E3lLoOFdynk |
+| **Repositório** | https://github.com/jBarra15/zelabairro/tree/main/infra |
 
 ## Ficha da CitizenTech
 | Campo | Resposta |

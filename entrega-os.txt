@@ -1,0 +1,10 @@
+ZelaBairro - Global Solution 2026.2 - Operating Systems
+Integrante: Joel Barra Chuquimia - RM 560796 - 3ESPS
+
+Repositório GitHub (infraestrutura): https://github.com/jBarra15/zelabairro/tree/main/infra
+Vídeo de demonstração: https://youtu.be/E3lLoOFdynk
+
+Conteúdo do pacote:
+- infra/README.md: Ficha da CitizenTech, roteiro de configuração e onde cada item aparece no vídeo
+- infra/scripts: scripts PowerShell de configuração (rede, AD/DNS, identidade, NTFS, GPO, IIS, monitoramento, teste de falha, evidências)
+- infra/evidencias: prints e saídas de comandos (ipconfig, nslookup, Test-NetConnection, etc.)
