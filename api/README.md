@@ -1,104 +1,40 @@
-# ZelaBairro — API (SOA & Web Services)
+# Evidências — SOA & Web Services
 
-Backend REST da CitizenTech **ZelaBairro**: moradores registram problemas do espaço público (lixo, iluminação, buracos, calçadas, árvores), a subprefeitura faz a triagem e todos acompanham a resolução.
+Prints da aplicação funcionando, organizados pelos critérios de avaliação.
 
-**Integrante:** Joel — RM 560796 — 3ESPS
-
-## Tecnologias
-- .NET 8 / ASP.NET Core Web API
-- Entity Framework Core 8 + Oracle (`Oracle.EntityFrameworkCore`)
-- Migrations do EF Core
-- Swagger (ambiente de desenvolvimento) e Insomnia para testes manuais
-
-## Arquitetura
-```
-ZelaBairro.Api/
-├── Domain/        Entidades com regras de negócio (Bairro, Categoria, Morador, Ocorrencia)
-├── Data/          AppDbContext + mapeamento Fluent API (tabelas ZB_*) + dados iniciais
-├── Dtos/          Contratos de entrada/saída da API (com validação)
-├── Controllers/   Endpoints REST
-└── Migrations/    InitialCreate (cria as tabelas e os dados iniciais) e DescricaoOpcional (ajuste de coluna)
-```
-As regras ficam no domínio, não no controller. Exemplo: uma ocorrência só pode ser **Resolvida** se estiver **EmAtendimento**; ocorrências do app exigem morador identificado; ocorrências do sensor ESP32 não.
-
-### Modelo de dados
-| Tabela | Descrição |
+## 1. Estruturação do domínio (3,0)
+| Arquivo | O que mostra |
 |---|---|
-| `ZB_BAIRRO` | Bairros atendidos (dados iniciais via migration) |
-| `ZB_CATEGORIA` | Tipos de problema + prazo de atendimento (SLA) |
-| `ZB_MORADOR` | Morador identificado no app (e-mail único) |
-| `ZB_OCORRENCIA` | O problema: local, foto, status, prioridade, origem (App/Sensor/Terminal), confirmações |
+| [`01-estrutura-pastas.png`](01-estrutura-pastas.png) | Projeto no VS Code: Domain, Data, Dtos, Controllers, Migrations |
+| [`02-ocorrencia-regras.png`](02-ocorrencia-regras.png) | `Domain/Ocorrencia.cs` com as regras de negócio (IniciarAtendimento, Resolver, Cancelar) |
 
-## Como executar
-
-**1. Pré-requisitos:** [.NET 8 SDK](https://dotnet.microsoft.com/download) e a ferramenta do EF:
-```bash
-dotnet tool install --global dotnet-ef
-```
-
-**2. Configurar o banco (sem colocar senha no código):**
-```bash
-cd ZelaBairro.Api
-dotnet user-secrets set "ConnectionStrings:Oracle" "User Id=rm560796;Password=SUA_SENHA;Data Source=oracle.fiap.com.br:1521/ORCL"
-```
-Em servidor (IIS), use a variável de ambiente `ConnectionStrings__Oracle`.
-
-**3. Aplicar as migrations** (as migrations já estão no repositório):
-```bash
-dotnet ef database update
-```
-
-| Migration | O que faz |
+## 2. Conexão com banco de dados (3,0)
+| Arquivo | O que mostra |
 |---|---|
-| `InitialCreate` | Cria `ZB_BAIRRO`, `ZB_CATEGORIA`, `ZB_MORADOR`, `ZB_OCORRENCIA`, índices, chaves estrangeiras e insere bairros e categorias |
-| `DescricaoOpcional` | Torna `ZB_OCORRENCIA.Descricao` opcional. O Oracle grava texto vazio como `NULL`, o que fazia ocorrências sem descrição (balcão) falharem com erro 500 |
+| [`03-swagger-bairros.png`](03-swagger-bairros.png) | `GET /api/bairros` devolvendo os dados gravados no Oracle da FIAP |
+| [`09b-api-rodando.png`](09b-api-rodando.png) | API no ar (`dotnet run`) escutando em `http://localhost:5080` |
 
-**4. Rodar:**
-```bash
-dotnet run
-```
-Swagger: http://localhost:5080/swagger
+## 3. Migrações (2,5)
+| Arquivo | O que mostra |
+|---|---|
+| [`06-migration-initialcreate.png`](06-migration-initialcreate.png) | `dotnet ef migrations add InitialCreate` |
+| [`07-database-update-initial.png`](07-database-update-initial.png) | `dotnet ef database update` criando as tabelas `ZB_*` no Oracle |
+| [`07b-database-update-done.png`](07b-database-update-done.png) | Fim do `database update`: dados iniciais (bairros e categorias), índices e registro em `__EFMigrationsHistory` |
+| [`08-migration-descricaoopcional.png`](08-migration-descricaoopcional.png) | Segunda migration: `ALTER TABLE ... MODIFY "Descricao" NULL` |
 
-Para o celular (app Expo) acessar a API na mesma rede Wi-Fi:
-```bash
-dotnet run --urls http://0.0.0.0:5080
-```
+As três migrations do projeto estão em [`../ZelaBairro.Api/Migrations`](../ZelaBairro.Api/Migrations): `InitialCreate`, `DescricaoOpcional` e `BairroTatuape` (inclui o bairro piloto Tatuapé).
 
-**5. Testes manuais:** importe `insomnia/zelabairro-insomnia.json` no Insomnia (Import → From File).
+## 4. Testes manuais — Insomnia (1,5)
+Coleção completa, com todas as requisições do fluxo feliz e dos erros: [`../insomnia/zelabairro-insomnia.json`](../insomnia/zelabairro-insomnia.json)
 
-## Endpoints
-| Método | Rota | Descrição |
+| Arquivo | Requisição | Resultado |
 |---|---|---|
-| GET | `/api/bairros` | Lista bairros |
-| GET | `/api/categorias` | Lista categorias e prazos |
-| POST | `/api/moradores/identificar` | Cadastra ou atualiza morador pelo e-mail |
-| GET | `/api/moradores/{id}` | Obtém morador |
-| GET | `/api/ocorrencias` | Lista (filtros: `bairroId`, `categoriaId`, `moradorId`, `status`) |
-| GET | `/api/ocorrencias/{id}` | Detalhe |
-| POST | `/api/ocorrencias` | Cria ocorrência |
-| PATCH | `/api/ocorrencias/{id}/status` | `EmAtendimento`, `Resolvida` ou `Cancelada` |
-| PATCH | `/api/ocorrencias/{id}/prioridade` | `Baixa`, `Media`, `Alta` |
-| POST | `/api/ocorrencias/{id}/confirmar` | Vizinho confirma o problema |
-| POST | `/api/ocorrencias/{id}/foto` | Upload de foto (JPG/PNG, até 5 MB) |
-| GET | `/api/ocorrencias/{id}/foto` | Baixa a foto |
-| DELETE | `/api/ocorrencias/{id}` | Exclui |
-| GET | `/api/ocorrencias/resumo` | Indicador de impacto (% resolvidas no prazo, atrasadas) |
+| [`10-obter-morador.png`](10-obter-morador.png) | `GET /api/moradores/1` | 200 com os dados do morador |
+| [`16-resolver-e-foto.png`](16-resolver-e-foto.png) | `PATCH` status Resolvida + `POST` foto | 200 |
+| [`18-erro-titulo-vazio.png`](18-erro-titulo-vazio.png) | Título vazio | 400 com mensagem de validação |
+| [`19-erro-categoria.png`](19-erro-categoria.png) | Categoria inexistente | 400 |
+| [`21-erro-404.png`](21-erro-404.png) | Ocorrência inexistente | 404 |
+| [`22-erro-sql-injection.png`](22-erro-sql-injection.png) | `bairroId=1 OR 1=1` | 400 (entrada rejeitada; consultas parametrizadas pelo EF Core) |
 
-Erros de regra de negócio retornam **400** no formato `{ "erro": "mensagem" }`.
-
-## Decisões técnicas
-- **Oracle 19 da FIAP:** o driver `Oracle.EntityFrameworkCore` 8 gera SQL no formato do Oracle 23 por padrão. Em `Program.cs`, `UseOracleSQLCompatibility(DatabaseVersion19)` corrige isso (sem o ajuste, consultas com `AnyAsync` davam erro 500).
-- **Enums como texto** no banco (`Status`, `Prioridade`, `Origem`): legíveis no SQL Developer e seguros se a ordem do enum mudar.
-- **Senha fora do código:** `user-secrets` em desenvolvimento e variável de ambiente `ConnectionStrings__Oracle` no servidor.
-- **Upload seguro:** extensão e *magic bytes* conferidos, nome gerado pela API e bloqueio de `../` (path traversal).
-- **Erros sem vazamento:** exceções inesperadas viram 500 com mensagem genérica; o detalhe fica só no log do servidor.
-
-## Quem consome esta API
-| Cliente | Uso |
-|---|---|
-| App mobile (`mobile/`) | Morador identifica-se, registra ocorrência com foto e localização, confirma problemas |
-| Terminal WinForms (`desktop/`) | Subprefeitura prioriza, atende e resolve; cadastra pelo balcão (origem `Terminal`) |
-| ESP32 / Wokwi (`iot/`) | Lixeira inteligente abre ocorrência sozinha (origem `Sensor`) |
-
-## Evidências
-Ver pasta [`evidencias/`](evidencias/).
+## 5. Integração com o resto da solução
+A mesma API é usada pelo app mobile, pelo terminal da subprefeitura (C#), pelo ESP32 do Wokwi e pelo painel web hospedado no IIS. Os prints de [`../../infra/evidencias`](../../infra/evidencias) mostram a API publicada no Windows Server com `"banco":"conectado"`, e o [README do IoT](../../iot/README.md) mostra o ESP32 abrindo uma ocorrência (`HTTP 201`).
